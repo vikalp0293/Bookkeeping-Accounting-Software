@@ -1,0 +1,514 @@
+{
+  "batch": "1-20",
+  "total_checks": 365,
+  "timestamp": "2025-12-12T14:53:36.378939",
+  "field_accuracies": {
+    "check_number": 50.0,
+    "date": 45.0,
+    "payee": 45.0,
+    "amount": 95.0
+  },
+  "overall_accuracy": 58.75,
+  "results": [
+    {
+      "filename": "PNC Check Image X6495 202402 1273.pdf",
+      "directory": "1299 Pretis - PNC",
+      "found": true,
+      "extracted": {
+        "check_number": "1273",
+        "date": "2024-02-09",
+        "payee": "Union Savings Bank",
+        "amount": 2036.35
+      },
+      "ground_truth": {
+        "check_number": "1273",
+        "date": "02/09/2024",
+        "payee": "Union Savings Bank",
+        "amount": 2036.35
+      },
+      "comparison": {
+        "check_number": true,
+        "date": true,
+        "payee": true,
+        "amount": true
+      },
+      "accuracy": 100.0,
+      "time": 18.990062952041626
+    },
+    {
+      "filename": "PNC Check Image X6495 202403 1274.pdf",
+      "directory": "1299 Pretis - PNC",
+      "found": true,
+      "extracted": {
+        "check_number": "1274",
+        "date": "2024-03-11",
+        "payee": "Union Savings Bank",
+        "amount": 2034.62
+      },
+      "ground_truth": {
+        "check_number": "1274",
+        "date": "03/11/2024",
+        "payee": "Union Savings Bank",
+        "amount": 2034.62
+      },
+      "comparison": {
+        "check_number": true,
+        "date": true,
+        "payee": true,
+        "amount": true
+      },
+      "accuracy": 100.0,
+      "time": 18.86924171447754
+    },
+    {
+      "filename": "PNC Check Image X6495 202404 1275.pdf",
+      "directory": "1299 Pretis - PNC",
+      "found": true,
+      "extracted": {
+        "check_number": "1275",
+        "date": "2024-04-10",
+        "payee": "Keith Schooler",
+        "amount": 3400.0
+      },
+      "ground_truth": {
+        "check_number": "1275",
+        "date": "04/09/2024",
+        "payee": "Keith Schooler",
+        "amount": 3400.0
+      },
+      "comparison": {
+        "check_number": true,
+        "date": false,
+        "payee": true,
+        "amount": true
+      },
+      "accuracy": 75.0,
+      "time": 17.90735697746277
+    },
+    {
+      "filename": "PNC Check Image X6495 202404 1276.pdf",
+      "directory": "1299 Pretis - PNC",
+      "found": true,
+      "extracted": {
+        "check_number": "1276",
+        "date": "2024-04-10",
+        "payee": "Union Savings Bank",
+        "amount": 2034.62
+      },
+      "ground_truth": {
+        "check_number": "1276",
+        "date": "04/10/2024",
+        "payee": "Union Savings Bank",
+        "amount": 2034.62
+      },
+      "comparison": {
+        "check_number": true,
+        "date": true,
+        "payee": true,
+        "amount": true
+      },
+      "accuracy": 100.0,
+      "time": 18.30827808380127
+    },
+    {
+      "filename": "PNC Check Image X6495 202405 1277.pdf",
+      "directory": "1299 Pretis - PNC",
+      "found": true,
+      "extracted": {
+        "check_number": "1277",
+        "date": "2024-05-10",
+        "payee": "Union Savings Bank",
+        "amount": 2034.62
+      },
+      "ground_truth": {
+        "check_number": "1277",
+        "date": "05/10/2024",
+        "payee": "Union Savings Bank",
+        "amount": 2034.62
+      },
+      "comparison": {
+        "check_number": true,
+        "date": true,
+        "payee": true,
+        "amount": true
+      },
+      "accuracy": 100.0,
+      "time": 20.57357430458069
+    },
+    {
+      "filename": "PNC Check Image X6495 202406 1278.pdf",
+      "directory": "1299 Pretis - PNC",
+      "found": true,
+      "extracted": {
+        "check_number": "1278",
+        "date": "2024-06-11",
+        "payee": "Union Savings Bank",
+        "amount": 2034.62
+      },
+      "ground_truth": {
+        "check_number": "1278",
+        "date": "06/11/2024",
+        "payee": "Union Savings Bank",
+        "amount": 2034.62
+      },
+      "comparison": {
+        "check_number": true,
+        "date": true,
+        "payee": true,
+        "amount": true
+      },
+      "accuracy": 100.0,
+      "time": 20.64247488975525
+    },
+    {
+      "filename": "PNC Check Image X6495 202407 1279.pdf",
+      "directory": "1299 Pretis - PNC",
+      "found": true,
+      "extracted": {
+        "check_number": "1279",
+        "date": "2024-07-08",
+        "payee": "Union Savings Bank",
+        "amount": 2034.62
+      },
+      "ground_truth": {
+        "check_number": "1279",
+        "date": "07/08/2024",
+        "payee": "Union Savings Bank",
+        "amount": 2034.62
+      },
+      "comparison": {
+        "check_number": true,
+        "date": true,
+        "payee": true,
+        "amount": true
+      },
+      "accuracy": 100.0,
+      "time": 22.066148281097412
+    },
+    {
+      "filename": "PNC Check Image X6495 202410 1280.pdf",
+      "directory": "1299 Pretis - PNC",
+      "found": true,
+      "extracted": {
+        "check_number": "1280",
+        "date": "2024-10-07",
+        "payee": "Union Savings Bank",
+        "amount": 6467.3
+      },
+      "ground_truth": {
+        "check_number": "1280",
+        "date": "10/07/2024",
+        "payee": "Union Savings Bank",
+        "amount": 6467.3
+      },
+      "comparison": {
+        "check_number": true,
+        "date": true,
+        "payee": true,
+        "amount": true
+      },
+      "accuracy": 100.0,
+      "time": 36.54284429550171
+    },
+    {
+      "filename": "PNC Check Image X6495 202411 1281.pdf",
+      "directory": "1299 Pretis - PNC",
+      "found": true,
+      "extracted": {
+        "check_number": "1281",
+        "date": "2024-11-12",
+        "payee": "Union Savings Bank",
+        "amount": 6467.3
+      },
+      "ground_truth": {
+        "check_number": "1281",
+        "date": "11/12/2024",
+        "payee": "Union Savings Bank",
+        "amount": 6467.3
+      },
+      "comparison": {
+        "check_number": true,
+        "date": true,
+        "payee": true,
+        "amount": true
+      },
+      "accuracy": 100.0,
+      "time": 19.071566820144653
+    },
+    {
+      "filename": "PNC Check Image X6495 202412 1282.pdf",
+      "directory": "1299 Pretis - PNC",
+      "found": true,
+      "extracted": {
+        "check_number": "1282",
+        "date": "2024-12-06",
+        "payee": "U.S. Savings Bank",
+        "amount": 6467.3
+      },
+      "ground_truth": {
+        "check_number": "1282",
+        "date": "12/06/2024",
+        "payee": "Union Savings Bank",
+        "amount": 6467.3
+      },
+      "comparison": {
+        "check_number": true,
+        "date": true,
+        "payee": false,
+        "amount": true
+      },
+      "accuracy": 75.0,
+      "time": 19.984708070755005
+    },
+    {
+      "filename": "First Financial X5609 202401.pdf",
+      "directory": "3091 Kennylane LLC - First Financial",
+      "found": true,
+      "extracted": {
+        "check_number": "1015",
+        "date": "2024-01-03",
+        "payee": "TRUE NORTH REALT CORP PAY",
+        "amount": 20337.96
+      },
+      "ground_truth": {
+        "check_number": "001015",
+        "date": "01/02/2024",
+        "payee": "Union Savings Bank",
+        "amount": 20337.97
+      },
+      "comparison": {
+        "check_number": false,
+        "date": false,
+        "payee": false,
+        "amount": true
+      },
+      "accuracy": 25.0,
+      "time": 25.694011926651
+    },
+    {
+      "filename": "First Financial X5609 202402.pdf",
+      "directory": "3091 Kennylane LLC - First Financial",
+      "found": true,
+      "extracted": {
+        "check_number": "1016",
+        "date": "2024-02-02",
+        "payee": "TRUE NORTH REALT CORP PAY",
+        "amount": 20337.96
+      },
+      "ground_truth": {
+        "check_number": "001016",
+        "date": "02/01/2024",
+        "payee": "Union Savings Bank",
+        "amount": 20337.97
+      },
+      "comparison": {
+        "check_number": false,
+        "date": false,
+        "payee": false,
+        "amount": true
+      },
+      "accuracy": 25.0,
+      "time": 22.761735200881958
+    },
+    {
+      "filename": "First Financial X5609 202403.pdf",
+      "directory": "3091 Kennylane LLC - First Financial",
+      "found": true,
+      "extracted": {
+        "check_number": "1017",
+        "date": "2024-03-01",
+        "payee": "TRUE NORTH REALT CORP PAY",
+        "amount": 20337.96
+      },
+      "ground_truth": {
+        "check_number": "001017",
+        "date": "02/29/2024",
+        "payee": "Union Savings Bank",
+        "amount": 20337.97
+      },
+      "comparison": {
+        "check_number": false,
+        "date": false,
+        "payee": false,
+        "amount": true
+      },
+      "accuracy": 25.0,
+      "time": 23.819123029708862
+    },
+    {
+      "filename": "First Financial X5609 202404.pdf",
+      "directory": "3091 Kennylane LLC - First Financial",
+      "found": true,
+      "extracted": {
+        "check_number": "1018",
+        "date": "2024-04-02",
+        "payee": "TRUE NORTH REALT CORP PAY",
+        "amount": 20337.96
+      },
+      "ground_truth": {
+        "check_number": "001018",
+        "date": "04/01/2024",
+        "payee": "Union Savings Bank",
+        "amount": 20337.97
+      },
+      "comparison": {
+        "check_number": false,
+        "date": false,
+        "payee": false,
+        "amount": true
+      },
+      "accuracy": 25.0,
+      "time": 25.32973003387451
+    },
+    {
+      "filename": "First Financial X5609 202405.pdf",
+      "directory": "3091 Kennylane LLC - First Financial",
+      "found": true,
+      "extracted": {
+        "check_number": "1019",
+        "date": "2024-05-02",
+        "payee": "TRUE NORTH REALT CORP PAY",
+        "amount": 20337.96
+      },
+      "ground_truth": {
+        "check_number": "001019",
+        "date": "05/01/2024",
+        "payee": "Union Savings Bank",
+        "amount": 20337.97
+      },
+      "comparison": {
+        "check_number": false,
+        "date": false,
+        "payee": false,
+        "amount": true
+      },
+      "accuracy": 25.0,
+      "time": 22.73209309577942
+    },
+    {
+      "filename": "First Financial X5609 202406.pdf",
+      "directory": "3091 Kennylane LLC - First Financial",
+      "found": true,
+      "extracted": {
+        "check_number": "1020",
+        "date": "2024-06-28",
+        "payee": "TRUE NORTH REALT' CORP PAY",
+        "amount": 20337.96
+      },
+      "ground_truth": {
+        "check_number": "001020",
+        "date": "05/31/2024",
+        "payee": "Union Savings Bank",
+        "amount": 20337.97
+      },
+      "comparison": {
+        "check_number": false,
+        "date": false,
+        "payee": false,
+        "amount": true
+      },
+      "accuracy": 25.0,
+      "time": 23.89549493789673
+    },
+    {
+      "filename": "First Financial X5609 202407.pdf",
+      "directory": "3091 Kennylane LLC - First Financial",
+      "found": true,
+      "extracted": {
+        "check_number": "1021",
+        "date": "2024-07-02",
+        "payee": "TRUE NORTH REALT CORP PAY",
+        "amount": 20337.96
+      },
+      "ground_truth": {
+        "check_number": "001021",
+        "date": "07/01/2024",
+        "payee": "Union Savings Bank",
+        "amount": 20337.97
+      },
+      "comparison": {
+        "check_number": false,
+        "date": false,
+        "payee": false,
+        "amount": true
+      },
+      "accuracy": 25.0,
+      "time": 24.511412858963013
+    },
+    {
+      "filename": "First Financial X5609 202407.pdf",
+      "directory": "3091 Kennylane LLC - First Financial",
+      "found": true,
+      "extracted": {
+        "check_number": "1021",
+        "date": "2024-07-02",
+        "payee": "TRUE NORTH REALT CORP PAY",
+        "amount": 20337.96
+      },
+      "ground_truth": {
+        "check_number": "001022",
+        "date": "07/23/2024",
+        "payee": "Professional Refrigeration & A/C",
+        "amount": 720.63
+      },
+      "comparison": {
+        "check_number": false,
+        "date": false,
+        "payee": false,
+        "amount": false
+      },
+      "accuracy": 0.0,
+      "time": 25.70719289779663
+    },
+    {
+      "filename": "First Financial X5609 202408.pdf",
+      "directory": "3091 Kennylane LLC - First Financial",
+      "found": true,
+      "extracted": {
+        "check_number": "1023",
+        "date": "2024-08-01",
+        "payee": "TRUE NORTH REALT CORP PAY",
+        "amount": 20337.96
+      },
+      "ground_truth": {
+        "check_number": "001023",
+        "date": "07/31/2024",
+        "payee": "Union Savings Bank",
+        "amount": 20337.97
+      },
+      "comparison": {
+        "check_number": false,
+        "date": false,
+        "payee": false,
+        "amount": true
+      },
+      "accuracy": 25.0,
+      "time": 25.47158932685852
+    },
+    {
+      "filename": "First Financial X5609 202409.pdf",
+      "directory": "3091 Kennylane LLC - First Financial",
+      "found": true,
+      "extracted": {
+        "check_number": "1024",
+        "date": "2024-09-03",
+        "payee": "TRUE NORTH REALT CORP PAY",
+        "amount": 22337.96
+      },
+      "ground_truth": {
+        "check_number": "001024",
+        "date": "08/30/2024",
+        "payee": "Union Savings Bank",
+        "amount": 22337.96
+      },
+      "comparison": {
+        "check_number": false,
+        "date": false,
+        "payee": false,
+        "amount": true
+      },
+      "accuracy": 25.0,
+      "time": 35.36855912208557
+    }
+  ]
+}

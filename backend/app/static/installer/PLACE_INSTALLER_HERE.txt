@@ -1,0 +1,30 @@
+================================================================================
+INSTALLER FILE PLACEMENT INSTRUCTIONS
+================================================================================
+
+To enable the installer download feature:
+
+1. Build the Electron app installer:
+   - Navigate to: desktop/
+   - Run: npm run build:win
+   - This will create the installer in: desktop/dist/
+
+2. Copy the installer file to this directory:
+   - Source: desktop/dist/SyncAccountingDesktop-Setup.exe (or similar)
+   - Destination: backend/app/static/installer/SyncAccountingDesktop-Setup.exe
+
+3. Supported file names (auto-detected):
+   - SyncAccountingDesktop-Setup.exe
+   - SyncAccountingDesktop-Setup-x64.exe
+   - sync-accounting-desktop-setup.exe
+   - installer.exe
+
+4. Once placed, the installer will be accessible at:
+   https://dev-sync-api.kylientlabs.com/docs/download/installer
+
+5. The user guide already includes a download link that points to this endpoint.
+
+================================================================================
+NOTE: This is a placeholder file. Replace it with the actual installer .exe file.
+================================================================================
+

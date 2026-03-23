@@ -1,0 +1,20 @@
+{
+  "description_patterns": [
+    {
+      "pattern": "^\\s*Check\\s*#?\\s*\\d+\\s*$",
+      "case_sensitive": false,
+      "comment": "Exact match: 'Check #1234' or 'Check 1234'"
+    },
+    {
+      "pattern": "^\\s*Check\\s*#?\\s*\\d+",
+      "case_sensitive": false,
+      "max_description_length": 30,
+      "comment": "Short description starting with Check # (statement line; payee from check PDF)"
+    },
+    {
+      "pattern": "^\\s*\\d{3,6}\\s*$",
+      "case_sensitive": false,
+      "comment": "Description is only a check number (e.g. 1171, 1170 from Checks (-) section)"
+    }
+  ]
+}

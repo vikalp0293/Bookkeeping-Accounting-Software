@@ -1,0 +1,3652 @@
+[
+  {
+    "filename": "PNC Check Image X6495 202402 1273.pdf",
+    "directory": "1299 Pretis - PNC",
+    "company": "1299 Prentis",
+    "check_number": "1273",
+    "payee": "Union Savings Bank",
+    "amount": 2036.35,
+    "date": "02/09/2024",
+    "memo": "- 24-02818904"
+  },
+  {
+    "filename": "PNC Check Image X6495 202403 1274.pdf",
+    "directory": "1299 Pretis - PNC",
+    "company": "1299 Prentis",
+    "check_number": "1274",
+    "payee": "Union Savings Bank",
+    "amount": 2034.62,
+    "date": "03/11/2024",
+    "memo": "- 24-02818904"
+  },
+  {
+    "filename": "PNC Check Image X6495 202404 1275.pdf",
+    "directory": "1299 Pretis - PNC",
+    "company": "1299 Prentis",
+    "check_number": "1275",
+    "payee": "Keith Schooler",
+    "amount": 3400.0,
+    "date": "04/09/2024",
+    "memo": "-"
+  },
+  {
+    "filename": "PNC Check Image X6495 202404 1276.pdf",
+    "directory": "1299 Pretis - PNC",
+    "company": "1299 Prentis",
+    "check_number": "1276",
+    "payee": "Union Savings Bank",
+    "amount": 2034.62,
+    "date": "04/10/2024",
+    "memo": "- 24-028-18904"
+  },
+  {
+    "filename": "PNC Check Image X6495 202405 1277.pdf",
+    "directory": "1299 Pretis - PNC",
+    "company": "1299 Prentis",
+    "check_number": "1277",
+    "payee": "Union Savings Bank",
+    "amount": 2034.62,
+    "date": "05/10/2024",
+    "memo": "- 24-028-18904"
+  },
+  {
+    "filename": "PNC Check Image X6495 202406 1278.pdf",
+    "directory": "1299 Pretis - PNC",
+    "company": "1299 Prentis",
+    "check_number": "1278",
+    "payee": "Union Savings Bank",
+    "amount": 2034.62,
+    "date": "06/11/2024",
+    "memo": "-"
+  },
+  {
+    "filename": "PNC Check Image X6495 202407 1279.pdf",
+    "directory": "1299 Pretis - PNC",
+    "company": "1299 Prentis",
+    "check_number": "1279",
+    "payee": "Union Savings Bank",
+    "amount": 2034.62,
+    "date": "07/08/2024",
+    "memo": "-"
+  },
+  {
+    "filename": "PNC Check Image X6495 202410 1280.pdf",
+    "directory": "1299 Pretis - PNC",
+    "company": "1299 Prentis",
+    "check_number": "1280",
+    "payee": "Union Savings Bank",
+    "amount": 6467.3,
+    "date": "10/07/2024",
+    "memo": "- 24-14388656"
+  },
+  {
+    "filename": "PNC Check Image X6495 202411 1281.pdf",
+    "directory": "1299 Pretis - PNC",
+    "company": "1299 Prentis",
+    "check_number": "1281",
+    "payee": "Union Savings Bank",
+    "amount": 6467.3,
+    "date": "11/12/2024",
+    "memo": "- 24-14388656"
+  },
+  {
+    "filename": "PNC Check Image X6495 202412 1282.pdf",
+    "directory": "1299 Pretis - PNC",
+    "company": "1299 Prentis",
+    "check_number": "1282",
+    "payee": "Union Savings Bank",
+    "amount": 6467.3,
+    "date": "12/06/2024",
+    "memo": "- 24-14388656"
+  },
+  {
+    "filename": "First Financial X5609 202401.pdf",
+    "directory": "3091 Kennylane LLC - First Financial",
+    "company": "3091 KENNEYLANE LLC",
+    "check_number": "001015",
+    "payee": "Union Savings Bank",
+    "amount": 20337.97,
+    "date": "01/02/2024",
+    "memo": "24-14300784"
+  },
+  {
+    "filename": "First Financial X5609 202402.pdf",
+    "directory": "3091 Kennylane LLC - First Financial",
+    "company": "3091 KENNEYLANE LLC",
+    "check_number": "001016",
+    "payee": "Union Savings Bank",
+    "amount": 20337.97,
+    "date": "02/01/2024",
+    "memo": "24-14300784"
+  },
+  {
+    "filename": "First Financial X5609 202403.pdf",
+    "directory": "3091 Kennylane LLC - First Financial",
+    "company": "3091 KENNEYLANE LLC",
+    "check_number": "001017",
+    "payee": "Union Savings Bank",
+    "amount": 20337.97,
+    "date": "02/29/2024",
+    "memo": "24-14300784"
+  },
+  {
+    "filename": "First Financial X5609 202404.pdf",
+    "directory": "3091 Kennylane LLC - First Financial",
+    "company": "3091 KENNEYLANE LLC",
+    "check_number": "001018",
+    "payee": "Union Savings Bank",
+    "amount": 20337.97,
+    "date": "04/01/2024",
+    "memo": "24-14300784"
+  },
+  {
+    "filename": "First Financial X5609 202405.pdf",
+    "directory": "3091 Kennylane LLC - First Financial",
+    "company": "3091 KENNEYLANE LLC",
+    "check_number": "001019",
+    "payee": "Union Savings Bank",
+    "amount": 20337.97,
+    "date": "05/01/2024",
+    "memo": "24-14300784"
+  },
+  {
+    "filename": "First Financial X5609 202406.pdf",
+    "directory": "3091 Kennylane LLC - First Financial",
+    "company": "3091 KENNEYLANE LLC",
+    "check_number": "001020",
+    "payee": "Union Savings Bank",
+    "amount": 20337.97,
+    "date": "05/31/2024",
+    "memo": "24-14300784"
+  },
+  {
+    "filename": "First Financial X5609 202407.pdf",
+    "directory": "3091 Kennylane LLC - First Financial",
+    "company": "3091 KENNEYLANE LLC",
+    "check_number": "001021",
+    "payee": "Union Savings Bank",
+    "amount": 20337.97,
+    "date": "07/01/2024",
+    "memo": "24-14300784"
+  },
+  {
+    "filename": "First Financial X5609 202407.pdf",
+    "directory": "3091 Kennylane LLC - First Financial",
+    "company": "3091 KENNEYLANE LLC",
+    "check_number": "001022",
+    "payee": "Professional Refrigeration & A/C",
+    "amount": 720.63,
+    "date": "07/23/2024",
+    "memo": "54496"
+  },
+  {
+    "filename": "First Financial X5609 202408.pdf",
+    "directory": "3091 Kennylane LLC - First Financial",
+    "company": "3091 KENNEYLANE LLC",
+    "check_number": "001023",
+    "payee": "Union Savings Bank",
+    "amount": 20337.97,
+    "date": "07/31/2024",
+    "memo": "24-14300784"
+  },
+  {
+    "filename": "First Financial X5609 202409.pdf",
+    "directory": "3091 Kennylane LLC - First Financial",
+    "company": "3091 KENNEYLANE LLC",
+    "check_number": "001024",
+    "payee": "Union Savings Bank",
+    "amount": 22337.96,
+    "date": "08/30/2024",
+    "memo": "24-14300784"
+  },
+  {
+    "filename": "First Financial X5609 202410.pdf",
+    "directory": "3091 Kennylane LLC - First Financial",
+    "company": "3091 KENNEYLANE LLC",
+    "check_number": "001025",
+    "payee": "Union Savings Bank",
+    "amount": 20337.96,
+    "date": "10/01/2024",
+    "memo": "24-14300784"
+  },
+  {
+    "filename": "First Financial X5609 202411.pdf",
+    "directory": "3091 Kennylane LLC - First Financial",
+    "company": "3091 KENNEYLANE LLC",
+    "check_number": "001026",
+    "payee": "Union Savings Bank",
+    "amount": 24337.96,
+    "date": "11/01/2024",
+    "memo": "24-14300784"
+  },
+  {
+    "filename": "First Financial X5609 202412.pdf",
+    "directory": "3091 Kennylane LLC - First Financial",
+    "company": "3091 KENNEYLANE LLC",
+    "check_number": "001027",
+    "payee": "Union Savings Bank",
+    "amount": 24337.96,
+    "date": "12/01/2024",
+    "memo": "24-14300784"
+  },
+  {
+    "filename": "0000.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1152",
+    "payee": "Bounight",
+    "amount": 505.36,
+    "date": "11/01/2023",
+    "memo": "1812317"
+  },
+  {
+    "filename": "1208.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1208",
+    "payee": "Swit Distelliny",
+    "amount": 450.2,
+    "date": "11/20/2023",
+    "memo": "Liquar"
+  },
+  {
+    "filename": "1209.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1209",
+    "payee": "Heiddong Dost",
+    "amount": 248.0,
+    "date": "12/01/2023",
+    "memo": "2465977"
+  },
+  {
+    "filename": "1210.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1210",
+    "payee": "Heidelherg",
+    "amount": 44.67,
+    "date": "12/02/2023",
+    "memo": "2466565"
+  },
+  {
+    "filename": "1211.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1211",
+    "payee": "Heidelberg of Dayton",
+    "amount": 519.57,
+    "date": "12/07/2023",
+    "memo": "Beer 2471401"
+  },
+  {
+    "filename": "1212.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1212",
+    "payee": "Premier Health",
+    "amount": 50.0,
+    "date": "12/02/2023",
+    "memo": ""
+  },
+  {
+    "filename": "1213.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1213",
+    "payee": "Kettering Network Radiologists",
+    "amount": 32.34,
+    "date": "12/11/2023",
+    "memo": ""
+  },
+  {
+    "filename": "1214.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1214",
+    "payee": "Montgomery County Environmental Services",
+    "amount": 628.11,
+    "date": "12/11/2023",
+    "memo": "14127"
+  },
+  {
+    "filename": "1215.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1215",
+    "payee": "Nucoz",
+    "amount": 142.71,
+    "date": "12/11/2023",
+    "memo": "74932814"
+  },
+  {
+    "filename": "1216.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1216",
+    "payee": "Nucoz",
+    "amount": 110.36,
+    "date": "12/11/2023",
+    "memo": "75067142"
+  },
+  {
+    "filename": "1217.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1217",
+    "payee": "Kettering Health",
+    "amount": 367.81,
+    "date": "12/11/2023",
+    "memo": ""
+  },
+  {
+    "filename": "1218.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1218",
+    "payee": "City of Vandalia",
+    "amount": 59.99,
+    "date": "12/11/2023",
+    "memo": "12"
+  },
+  {
+    "filename": "1219.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1219",
+    "payee": "AeS",
+    "amount": 1581.1,
+    "date": "12/11/2023",
+    "memo": "12"
+  },
+  {
+    "filename": "1220.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1220",
+    "payee": "RUMPKE",
+    "amount": 358.04,
+    "date": "12/11/2023",
+    "memo": "3923280"
+  },
+  {
+    "filename": "1221.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1221",
+    "payee": "Montgomery County Environmental Services",
+    "amount": 2351.97,
+    "date": "12/11/2023",
+    "memo": ""
+  },
+  {
+    "filename": "1223.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1223",
+    "payee": "Liquor & Wine",
+    "amount": 1205.39,
+    "date": "12/13/2023",
+    "memo": "1578420"
+  },
+  {
+    "filename": "1224.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1224",
+    "payee": "Heidelberg of Dayton",
+    "amount": 601.05,
+    "date": "12/14/2023",
+    "memo": "2477444"
+  },
+  {
+    "filename": "1225.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1225",
+    "payee": "Boebight Digy",
+    "amount": 257.49,
+    "date": "12/15/2023",
+    "memo": ""
+  },
+  {
+    "filename": "1226.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1226",
+    "payee": "Ruanne Xie",
+    "amount": 2500.0,
+    "date": "12/15/2023",
+    "memo": ""
+  },
+  {
+    "filename": "1227.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1227",
+    "payee": "Centre Point Energy",
+    "amount": 1204.38,
+    "date": "12/15/2023",
+    "memo": ""
+  },
+  {
+    "filename": "1228.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1228",
+    "payee": "Aolvneed Wiring Solutions LLC",
+    "amount": 31.18,
+    "date": "12/15/2023",
+    "memo": "48389"
+  },
+  {
+    "filename": "1229.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1229",
+    "payee": "Arctic Food Services Inc",
+    "amount": 3450.0,
+    "date": "12/17/2023",
+    "memo": "2369895"
+  },
+  {
+    "filename": "1230.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1230",
+    "payee": "Heidelberg",
+    "amount": 71.95,
+    "date": "12/19/2023",
+    "memo": "2482393"
+  },
+  {
+    "filename": "1231.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1231",
+    "payee": "Premium Beverage Supply",
+    "amount": 346.07,
+    "date": "12/20/2023",
+    "memo": "353809"
+  },
+  {
+    "filename": "1232.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1232",
+    "payee": "Heidelberg",
+    "amount": 1392.63,
+    "date": "12/21/2023",
+    "memo": "2484715, 2484714, 2484713"
+  },
+  {
+    "filename": "1233.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1233",
+    "payee": "Dan Bower",
+    "amount": 500.0,
+    "date": "12/22/2023",
+    "memo": ""
+  },
+  {
+    "filename": "1234.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1234",
+    "payee": "Southern Glazer\u2019s",
+    "amount": 446.24,
+    "date": "12/22/2023",
+    "memo": "9121158586"
+  },
+  {
+    "filename": "1235.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1235",
+    "payee": "Maynor Castillo",
+    "amount": 750.0,
+    "date": "12/24/2023",
+    "memo": ""
+  },
+  {
+    "filename": "1236.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1236",
+    "payee": "Tenson Cincinnati INC",
+    "amount": 12346.68,
+    "date": "12/27/2023",
+    "memo": "14982257121, 14886535121, 14940982121, 1491731121, 15012732121"
+  },
+  {
+    "filename": "1237.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1237",
+    "payee": "Liquor and Wine",
+    "amount": 838.69,
+    "date": "12/27/2023",
+    "memo": "1595549"
+  },
+  {
+    "filename": "1239.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1239",
+    "payee": "Heidelberg of Dayton",
+    "amount": 570.09,
+    "date": "12/27/2023",
+    "memo": "Beer"
+  },
+  {
+    "filename": "1240.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1240",
+    "payee": "Yong Hua Zhao",
+    "amount": 5000.0,
+    "date": "12/28/2023",
+    "memo": ""
+  },
+  {
+    "filename": "1241.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1241",
+    "payee": "Heidelberg Dist",
+    "amount": 49.0,
+    "date": "12/29/2023",
+    "memo": "2494322"
+  },
+  {
+    "filename": "1242.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1242",
+    "payee": "5/3 Bank",
+    "amount": 8184.08,
+    "date": "12/29/2023",
+    "memo": ""
+  },
+  {
+    "filename": "1243.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1243",
+    "payee": "Waughtel Hand Clearing",
+    "amount": 85.0,
+    "date": "12/29/2023",
+    "memo": ""
+  },
+  {
+    "filename": "1244.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1244",
+    "payee": "Domain Listings",
+    "amount": 288.0,
+    "date": "12/28/2023",
+    "memo": ""
+  },
+  {
+    "filename": "1245.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1245",
+    "payee": "Latasha Var Kleeok",
+    "amount": 172.0,
+    "date": "12/31/2023",
+    "memo": ""
+  },
+  {
+    "filename": "1246.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1246",
+    "payee": "Bonnie Rice",
+    "amount": 200.0,
+    "date": "12/31/2023",
+    "memo": ""
+  },
+  {
+    "filename": "1247.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1247",
+    "payee": "Sysco",
+    "amount": 1419.52,
+    "date": "01/2/2024",
+    "memo": "419024753"
+  },
+  {
+    "filename": "1248.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1248",
+    "payee": "Challenges Properties LLC",
+    "amount": 10000.0,
+    "date": "01/02/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1249.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1249",
+    "payee": "Heidelberg",
+    "amount": 407.77,
+    "date": "01/04/2024",
+    "memo": "2499667"
+  },
+  {
+    "filename": "1250.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1250",
+    "payee": "Ocean Providence Columbus LLC",
+    "amount": 15224.57,
+    "date": "01/05/2024",
+    "memo": "11/2/23 To 12/29/23"
+  },
+  {
+    "filename": "1251.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1251",
+    "payee": "Jingli Lu",
+    "amount": 2500.0,
+    "date": "01/05/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1252.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1252",
+    "payee": "Brown Pest Control",
+    "amount": 268.75,
+    "date": "01/05/2024",
+    "memo": "38905"
+  },
+  {
+    "filename": "1253.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1253",
+    "payee": "Nucoz",
+    "amount": 163.1,
+    "date": "01/05/2024",
+    "memo": "75229552"
+  },
+  {
+    "filename": "1254.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1254",
+    "payee": "AeS",
+    "amount": 1626.04,
+    "date": "01/05/2024",
+    "memo": "24"
+  },
+  {
+    "filename": "1255.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1255",
+    "payee": "Liquor & Wine",
+    "amount": 499.14,
+    "date": "01/05/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1256.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1256",
+    "payee": "Silco Fire & Security",
+    "amount": 1298.98,
+    "date": "01/16/2024",
+    "memo": "2580908"
+  },
+  {
+    "filename": "1257.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1257",
+    "payee": "Center Point Energy",
+    "amount": 1442.67,
+    "date": "01/16/2024",
+    "memo": "24"
+  },
+  {
+    "filename": "1258.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1258",
+    "payee": "RUMPKE",
+    "amount": 392.33,
+    "date": "01/16/2024",
+    "memo": "3939757"
+  },
+  {
+    "filename": "1259.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1259",
+    "payee": "Nucoz",
+    "amount": 214.95,
+    "date": "01/16/2024",
+    "memo": "121423"
+  },
+  {
+    "filename": "1260.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1260",
+    "payee": "City of Vandalia",
+    "amount": 74.99,
+    "date": "01/15/2024",
+    "memo": "24"
+  },
+  {
+    "filename": "1261.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1261",
+    "payee": "Heidelberg",
+    "amount": 884.01,
+    "date": "01/18/2024",
+    "memo": "2510787, 2510788"
+  },
+  {
+    "filename": "1262.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1262",
+    "payee": "Advanced Wiring Solutions LLC",
+    "amount": 31.18,
+    "date": "01/24/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1263.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1263",
+    "payee": "Nucoz",
+    "amount": 163.1,
+    "date": "01/24/2024",
+    "memo": "75499757"
+  },
+  {
+    "filename": "1264.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1264",
+    "payee": "City of Vandolia",
+    "amount": 86.24,
+    "date": "01/24/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1265.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1265",
+    "payee": "AM Scott",
+    "amount": 451.2,
+    "date": "01/25/2024",
+    "memo": "48"
+  },
+  {
+    "filename": "1266.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1266",
+    "payee": "Flushingny Wireless INC",
+    "amount": 262.0,
+    "date": "01/26/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1267.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1267",
+    "payee": "Heidelberg",
+    "amount": 910.67,
+    "date": "01/25/2024",
+    "memo": "251712728"
+  },
+  {
+    "filename": "1268.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1268",
+    "payee": "Maynor Costillo",
+    "amount": 750.0,
+    "date": "01/27/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1269.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1269",
+    "payee": "Tenson Cincinnati INC",
+    "amount": 4646.03,
+    "date": "01/30/2024",
+    "memo": "0354"
+  },
+  {
+    "filename": "1270.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1270",
+    "payee": "5/3 Bank",
+    "amount": 7685.98,
+    "date": "01/30/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1271.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1271",
+    "payee": "Challenges Properties LLC",
+    "amount": 10000.0,
+    "date": "02/01/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1272.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1272",
+    "payee": "Public Health Dayton & Montgomery County",
+    "amount": 721.52,
+    "date": "02/04/2024",
+    "memo": "29181"
+  },
+  {
+    "filename": "1273.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1273",
+    "payee": "AeS",
+    "amount": 1931.62,
+    "date": "02/04/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1274.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1274",
+    "payee": "Nucoz",
+    "amount": 87.69,
+    "date": "02/04/2024",
+    "memo": "755239"
+  },
+  {
+    "filename": "1275.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1275",
+    "payee": "Chase Card Services",
+    "amount": 2069.28,
+    "date": "02/04/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1276.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1276",
+    "payee": "Jing Jei Jiang",
+    "amount": 1520.0,
+    "date": "02/06/2024",
+    "memo": "328706"
+  },
+  {
+    "filename": "1277.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1277",
+    "payee": "Premium",
+    "amount": 1126.5,
+    "date": "02/07/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1278.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1278",
+    "payee": "Ming Tang",
+    "amount": 2000.0,
+    "date": "02/07/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1280.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1280",
+    "payee": "Bonbright Distributors",
+    "amount": 364.62,
+    "date": "02/08/2024",
+    "memo": "Beer"
+  },
+  {
+    "filename": "1282.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1282",
+    "payee": "Heidelberg of Dayton",
+    "amount": 1158.3,
+    "date": "02/08/2024",
+    "memo": "Beer/Alcohol"
+  },
+  {
+    "filename": "1283.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1283",
+    "payee": "Liquor & Wine",
+    "amount": 907.53,
+    "date": "02/08/2024",
+    "memo": "1647918"
+  },
+  {
+    "filename": "1284.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1284",
+    "payee": "Heidelberg Dist.",
+    "amount": 89.0,
+    "date": "02/09/2024",
+    "memo": "2533698"
+  },
+  {
+    "filename": "1285.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1285",
+    "payee": "5/3 Bank",
+    "amount": 4146.99,
+    "date": "02/12/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1286.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1286",
+    "payee": "John Mcmanus Treasures Montgones Cnty",
+    "amount": 4535.64,
+    "date": "02/13/2024",
+    "memo": "Feb To July / 24"
+  },
+  {
+    "filename": "1287.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1287",
+    "payee": "RAMPKE",
+    "amount": 390.24,
+    "date": "02/14/2024",
+    "memo": "3957647"
+  },
+  {
+    "filename": "1288.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1288",
+    "payee": "Center Point Energy",
+    "amount": 1698.81,
+    "date": "02/14/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1289.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1289",
+    "payee": "Heidelberg",
+    "amount": 191.94,
+    "date": "02/15/2024",
+    "memo": "2539106, 2539105"
+  },
+  {
+    "filename": "1290.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1290",
+    "payee": "A.M Scott Distillery",
+    "amount": 451.2,
+    "date": "02/20/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1291.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1291",
+    "payee": "Heidelberg",
+    "amount": 348.79,
+    "date": "02/22/2024",
+    "memo": "2546030"
+  },
+  {
+    "filename": "1292.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1292",
+    "payee": "Heidelberg",
+    "amount": 215.85,
+    "date": "02/23/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1293.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1293",
+    "payee": "Castille Consulting LLC",
+    "amount": 750.0,
+    "date": "02/24/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1294.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1294",
+    "payee": "5/3 Bank",
+    "amount": 2568.0,
+    "date": "02/27/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1295.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1295",
+    "payee": "Dan Bowen",
+    "amount": 550.0,
+    "date": "02/28/2024",
+    "memo": "Dan Bowen"
+  },
+  {
+    "filename": "1296.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1296",
+    "payee": "Cysco",
+    "amount": 1869.2,
+    "date": "02/28/2024",
+    "memo": "419116742"
+  },
+  {
+    "filename": "1297.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1297",
+    "payee": "Nucoz",
+    "amount": 163.1,
+    "date": "02/29/2024",
+    "memo": "75798661"
+  },
+  {
+    "filename": "1298.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1298",
+    "payee": "Bornes",
+    "amount": 214.99,
+    "date": "02/29/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1299.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1299",
+    "payee": "Challengers Properties LLC",
+    "amount": 10000.0,
+    "date": "03/01/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1300.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1300",
+    "payee": "Montgomery County Environmental Services",
+    "amount": 684.54,
+    "date": "03/03/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1301.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1301",
+    "payee": "Wismettac Asian Foods",
+    "amount": 941.6,
+    "date": "03/03/2024",
+    "memo": "13279939, 13279966"
+  },
+  {
+    "filename": "1302.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1302",
+    "payee": "Heidelberg",
+    "amount": 284.45,
+    "date": "03/04/2024",
+    "memo": "255693, 255694"
+  },
+  {
+    "filename": "1303.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1303",
+    "payee": "Liquor & Wine",
+    "amount": 801.66,
+    "date": "03/04/2024",
+    "memo": "1679916, 1670241"
+  },
+  {
+    "filename": "1304.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1304",
+    "payee": "Liquor & Wine",
+    "amount": 76.14,
+    "date": "03/04/2024",
+    "memo": "1682042"
+  },
+  {
+    "filename": "1306.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1306",
+    "payee": "Yonghua Zhao",
+    "amount": 2800.0,
+    "date": "03/04/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1307.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1307",
+    "payee": "City of Vandalia",
+    "amount": 74.97,
+    "date": "03/05/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1308.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1308",
+    "payee": "AeS",
+    "amount": 2255.59,
+    "date": "03/05/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1309.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1309",
+    "payee": "Montgomery County Environmental Services",
+    "amount": 2174.78,
+    "date": "03/05/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1310.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1310",
+    "payee": "Heidelberg of Dayton",
+    "amount": 1202.62,
+    "date": "03/07/2024",
+    "memo": "Alcohol"
+  },
+  {
+    "filename": "1311.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1311",
+    "payee": "Bonbright",
+    "amount": 319.84,
+    "date": "03/08/2024",
+    "memo": "81320153"
+  },
+  {
+    "filename": "1312.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1312",
+    "payee": "Waughtel",
+    "amount": 495.0,
+    "date": "03/09/2024",
+    "memo": "01/16/24 To 02/16/24"
+  },
+  {
+    "filename": "1313.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1313",
+    "payee": "Yonghua Zhao",
+    "amount": 4500.0,
+    "date": "03/10/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1314.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1314",
+    "payee": "Heetes Plumbing LLC",
+    "amount": 326.0,
+    "date": "03/13/2024",
+    "memo": "43018"
+  },
+  {
+    "filename": "1315.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1315",
+    "payee": "Bonwright",
+    "amount": 124.74,
+    "date": "03/14/2024",
+    "memo": "2855281"
+  },
+  {
+    "filename": "1316.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1316",
+    "payee": "Heidelberg",
+    "amount": 165.51,
+    "date": "03/14/2024",
+    "memo": "2567990, 2567991"
+  },
+  {
+    "filename": "1317.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1317",
+    "payee": "Tenson Cincinnati INC",
+    "amount": 9229.49,
+    "date": "03/14/2024",
+    "memo": "1583706121, 15133735121, 1518937121, 15219558121"
+  },
+  {
+    "filename": "1318.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1318",
+    "payee": "Ocean Providence Columbus LLC",
+    "amount": 20289.62,
+    "date": "03/19/2024",
+    "memo": "01/02/24 To 03/14/24"
+  },
+  {
+    "filename": "1320.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1320",
+    "payee": "5/3 Bank",
+    "amount": 8592.75,
+    "date": "03/21/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1321.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1321",
+    "payee": "Shen Xie",
+    "amount": 8000.0,
+    "date": "03/21/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1322.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1322",
+    "payee": "Heidelberg of Dayton",
+    "amount": 489.16,
+    "date": "03/21/2024",
+    "memo": "Alcohol"
+  },
+  {
+    "filename": "1323.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1323",
+    "payee": "Advanced Wiring Solutions LLC",
+    "amount": 31.18,
+    "date": "03/22/2024",
+    "memo": "49357"
+  },
+  {
+    "filename": "1324.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1324",
+    "payee": "Center Point Energy",
+    "amount": 1099.94,
+    "date": "03/22/2024",
+    "memo": "24"
+  },
+  {
+    "filename": "1325.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1325",
+    "payee": "Liquor & Wine",
+    "amount": 952.97,
+    "date": "03/22/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1326.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1326",
+    "payee": "Arctic Food Services INC",
+    "amount": 6820.0,
+    "date": "03/26/2024",
+    "memo": "2474658, 2472525"
+  },
+  {
+    "filename": "1327.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1327",
+    "payee": "Heidelberg of Dayton",
+    "amount": 368.47,
+    "date": "03/28/2024",
+    "memo": "Alcohol"
+  },
+  {
+    "filename": "1328.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1328",
+    "payee": "Heidelberg Dist.",
+    "amount": 35.0,
+    "date": "03/29/2024",
+    "memo": "2583704"
+  },
+  {
+    "filename": "1329.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1329",
+    "payee": "City of Vandalia",
+    "amount": 74.99,
+    "date": "04/02/2024",
+    "memo": "24"
+  },
+  {
+    "filename": "1330.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1330",
+    "payee": "AeS",
+    "amount": 2194.65,
+    "date": "04/02/2024",
+    "memo": "20"
+  },
+  {
+    "filename": "1331.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1331",
+    "payee": "Republic Services",
+    "amount": 428.32,
+    "date": "04/02/2024",
+    "memo": "3646840"
+  },
+  {
+    "filename": "1332.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1332",
+    "payee": "Nucoz",
+    "amount": 163.1,
+    "date": "04/02/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1333.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1333",
+    "payee": "Samaritan Family Care INC",
+    "amount": 231.0,
+    "date": "04/03/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1334.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1334",
+    "payee": "Heidelberg",
+    "amount": 1150.6,
+    "date": "04/04/2024",
+    "memo": "2589823, 2589824"
+  },
+  {
+    "filename": "1335.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1335",
+    "payee": "Heidelberg Dist.",
+    "amount": 234.0,
+    "date": "04/05/2024",
+    "memo": "2591247"
+  },
+  {
+    "filename": "1336.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1336",
+    "payee": "Challenger Properties LLC",
+    "amount": 10000.0,
+    "date": "04/02/2024",
+    "memo": "24"
+  },
+  {
+    "filename": "1337.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1337",
+    "payee": "Huaren Express INC",
+    "amount": 290.0,
+    "date": "04/09/2024",
+    "memo": "Food Products"
+  },
+  {
+    "filename": "1338.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1338",
+    "payee": "Hairlesstare Breweny",
+    "amount": 1760.0,
+    "date": "04/11/2024",
+    "memo": "Beer"
+  },
+  {
+    "filename": "1339.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1339",
+    "payee": "Bondright Distributors",
+    "amount": 131.14,
+    "date": "04/12/2024",
+    "memo": "Alcohol"
+  },
+  {
+    "filename": "1340.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1340",
+    "payee": "Lowes Business ACCT/SYNCB",
+    "amount": 348.52,
+    "date": "04/15/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1341.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1341",
+    "payee": "Center Point",
+    "amount": 854.44,
+    "date": "04/15/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1342.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1342",
+    "payee": "Butler Township",
+    "amount": 54.75,
+    "date": "04/15/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1343.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1343",
+    "payee": "INCEPT 500",
+    "amount": 661.21,
+    "date": "04/16/2024",
+    "memo": "1740272"
+  },
+  {
+    "filename": "1344.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1344",
+    "payee": "A.M. Scott",
+    "amount": 648.6,
+    "date": "04/16/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1345.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1345",
+    "payee": "5/3 Bank",
+    "amount": 6699.71,
+    "date": "04/16/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1346.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1346",
+    "payee": "Heidelberg of Dayton",
+    "amount": 484.16,
+    "date": "04/18/2024",
+    "memo": "Beer/Wine, 2004053"
+  },
+  {
+    "filename": "1347.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1347",
+    "payee": "Premium Beverage Supply",
+    "amount": 184.55,
+    "date": "04/18/2024",
+    "memo": "375193"
+  },
+  {
+    "filename": "1348.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1348",
+    "payee": "Advanced Wiring Solutions LLC",
+    "amount": 31.18,
+    "date": "04/23/2024",
+    "memo": "4"
+  },
+  {
+    "filename": "1349.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1349",
+    "payee": "Hobart Services",
+    "amount": 1456.16,
+    "date": "04/23/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1350.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1350",
+    "payee": "Nucoz",
+    "amount": 163.1,
+    "date": "04/23/2024",
+    "memo": "76373033"
+  },
+  {
+    "filename": "1351.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1351",
+    "payee": "Nucoz",
+    "amount": 196.34,
+    "date": "04/23/2024",
+    "memo": "76323907"
+  },
+  {
+    "filename": "1352.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1352",
+    "payee": "Republic",
+    "amount": 186.41,
+    "date": "04/24/2024",
+    "memo": "3662511"
+  },
+  {
+    "filename": "1353.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1353",
+    "payee": "Heidelberg of Dayton",
+    "amount": 669.1,
+    "date": "04/25/2024",
+    "memo": "Beer"
+  },
+  {
+    "filename": "1354.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1354",
+    "payee": "Tenson Cincinnati INC",
+    "amount": 7767.01,
+    "date": "04/29/2024",
+    "memo": "0354"
+  },
+  {
+    "filename": "1355.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1355",
+    "payee": "Bonbright",
+    "amount": 435.0,
+    "date": "05/02/2024",
+    "memo": "1882245"
+  },
+  {
+    "filename": "1356.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1356",
+    "payee": "INCEPT 500",
+    "amount": 1286.23,
+    "date": "05/06/2024",
+    "memo": "1768376, 1770344"
+  },
+  {
+    "filename": "1357.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1357",
+    "payee": "City of Vandalia",
+    "amount": 74.99,
+    "date": "05/07/2024",
+    "memo": "5"
+  },
+  {
+    "filename": "1358.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1358",
+    "payee": "Challengers Properties LLC",
+    "amount": 10000.0,
+    "date": "05/01/2024",
+    "memo": "Rent for May"
+  },
+  {
+    "filename": "1359.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1359",
+    "payee": "Maynor Castino",
+    "amount": 450.0,
+    "date": "05/08/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1360.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1360",
+    "payee": "Heidelberg of Dayton",
+    "amount": 1161.6,
+    "date": "05/09/2024",
+    "memo": "Alcohol"
+  },
+  {
+    "filename": "1361.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1361",
+    "payee": "Heidelberg Dist.",
+    "amount": 70.5,
+    "date": "05/10/2024",
+    "memo": "2028394"
+  },
+  {
+    "filename": "1362.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1362",
+    "payee": "AeS",
+    "amount": 2507.41,
+    "date": "05/10/2024",
+    "memo": "51"
+  },
+  {
+    "filename": "1363.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1363",
+    "payee": "Southern Glazer\u2019s",
+    "amount": 271.9,
+    "date": "05/10/2024",
+    "memo": "9122928112"
+  },
+  {
+    "filename": "1364.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1364",
+    "payee": "INSEPT 500",
+    "amount": 48.88,
+    "date": "05/13/2024",
+    "memo": "1778033"
+  },
+  {
+    "filename": "1365.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1365",
+    "payee": "PA Turn Pipe",
+    "amount": 112.0,
+    "date": "05/15/2024",
+    "memo": "133247858 \u2013 1"
+  },
+  {
+    "filename": "1366.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1366",
+    "payee": "Premium Beverage Supply",
+    "amount": 671.55,
+    "date": "05/15/2024",
+    "memo": "380156"
+  },
+  {
+    "filename": "1367.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1367",
+    "payee": "Center Point Energy",
+    "amount": 773.4,
+    "date": "05/15/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1368.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1368",
+    "payee": "Heidelberg",
+    "amount": 85.15,
+    "date": "05/16/2024",
+    "memo": "2034569"
+  },
+  {
+    "filename": "1369.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1369",
+    "payee": "Heidelberg Dist.",
+    "amount": 209.0,
+    "date": "05/17/2024",
+    "memo": "2036003 \u2013 2036004"
+  },
+  {
+    "filename": "1370.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1370",
+    "payee": "Xena Jesurum",
+    "amount": 1200.0,
+    "date": "05/17/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1371.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1371",
+    "payee": "5/3 Bank",
+    "amount": 8238.91,
+    "date": "05/17/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1372.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1372",
+    "payee": "Aniesha Anderson",
+    "amount": 200.0,
+    "date": "05/18/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1373.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1373",
+    "payee": "Arctic Food Services INC",
+    "amount": 6310.0,
+    "date": "05/19/2024",
+    "memo": "2476391, 2477467"
+  },
+  {
+    "filename": "1374.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1374",
+    "payee": "Heidelberg",
+    "amount": 199.9,
+    "date": "05/20/2024",
+    "memo": "2037802"
+  },
+  {
+    "filename": "1375.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1375",
+    "payee": "Sebaslian Products DMA",
+    "amount": 750.0,
+    "date": "05/20/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1376.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1376",
+    "payee": "Dan Bowen",
+    "amount": 550.0,
+    "date": "05/21/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1377.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1377",
+    "payee": "Heidelberg of Dayton",
+    "amount": 712.6,
+    "date": "05/23/2024",
+    "memo": "Beer/Alcohol"
+  },
+  {
+    "filename": "1378.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1378",
+    "payee": "Republic Services",
+    "amount": 185.71,
+    "date": "05/23/2024",
+    "memo": "3672781"
+  },
+  {
+    "filename": "1379.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1379",
+    "payee": "Nucoz",
+    "amount": 163.0,
+    "date": "05/23/2024",
+    "memo": "76650856"
+  },
+  {
+    "filename": "1380.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1380",
+    "payee": "Compare Clinical Laboratories",
+    "amount": 34.48,
+    "date": "05/24/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1381.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1381",
+    "payee": "Southern Glazer\u2019s of OH",
+    "amount": 471.19,
+    "date": "05/25/2024",
+    "memo": "Beer/Wine"
+  },
+  {
+    "filename": "1382.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1382",
+    "payee": "INCEPT 500",
+    "amount": 491.48,
+    "date": "05/27/2024",
+    "memo": "1796201"
+  },
+  {
+    "filename": "1383.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1383",
+    "payee": "A.M. Scott Distillery",
+    "amount": 225.6,
+    "date": "05/28/2024",
+    "memo": "Alcohol"
+  },
+  {
+    "filename": "1384.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1384",
+    "payee": "Spectrum",
+    "amount": 648.92,
+    "date": "05/27/2024",
+    "memo": "0263865051624"
+  },
+  {
+    "filename": "1385.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1385",
+    "payee": "Montgomery County Environmental Services",
+    "amount": 613.38,
+    "date": "06/28/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1386.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1386",
+    "payee": "Trugreen Processing Center",
+    "amount": 105.18,
+    "date": "05/28/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1387.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1387",
+    "payee": "Aroma International INC",
+    "amount": 1667.41,
+    "date": "05/30/2024",
+    "memo": "68240"
+  },
+  {
+    "filename": "1388.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1388",
+    "payee": "Flushing NY Wireless INC",
+    "amount": 160.0,
+    "date": "06/02/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1390.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1390",
+    "payee": "5/3 Bank",
+    "amount": 8568.0,
+    "date": "06/03/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1391.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1391",
+    "payee": "Tenson Cincinnati INC",
+    "amount": 6065.54,
+    "date": "06/04/2024",
+    "memo": "15501203121, 15404655121, 15423660121"
+  },
+  {
+    "filename": "1393.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1393",
+    "payee": "Flushing NY Wireless INC",
+    "amount": 190.0,
+    "date": "06/04/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1394.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1394",
+    "payee": "City of Vandalia",
+    "amount": 74.99,
+    "date": "06/05/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1395.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1395",
+    "payee": "AeS",
+    "amount": 3163.79,
+    "date": "06/05/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1396.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1396",
+    "payee": "Bonbright Distributors",
+    "amount": 305.45,
+    "date": "06/06/2024",
+    "memo": "Alcohol"
+  },
+  {
+    "filename": "1397.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1397",
+    "payee": "Aroma International INC",
+    "amount": 1219.4,
+    "date": "06/06/2024",
+    "memo": "69191"
+  },
+  {
+    "filename": "1398.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1398",
+    "payee": "Flushing Huaren Express INC",
+    "amount": 519.0,
+    "date": "06/08/2024",
+    "memo": "6082024 \u2013 1"
+  },
+  {
+    "filename": "1399.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1399",
+    "payee": "Ocean Providence Columbus INC",
+    "amount": 19293.82,
+    "date": "06/10/2024",
+    "memo": "03/21/24 To 06/06/24"
+  },
+  {
+    "filename": "1401.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1401",
+    "payee": "Heidenberg of Dayton",
+    "amount": 386.73,
+    "date": "06/11/2024",
+    "memo": "Alcohol, 206053736"
+  },
+  {
+    "filename": "1402.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1402",
+    "payee": "Challenges Property LLC",
+    "amount": 10000.0,
+    "date": "06/11/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1403.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1403",
+    "payee": "Heidenberg of Dayton",
+    "amount": 743.55,
+    "date": "06/13/2024",
+    "memo": "2063877"
+  },
+  {
+    "filename": "1404.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1404",
+    "payee": "A.M. Scott",
+    "amount": 225.6,
+    "date": "06/13/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1405.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1405",
+    "payee": "Center Point Energy",
+    "amount": 635.43,
+    "date": "06/14/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1406.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1406",
+    "payee": "Nucoz",
+    "amount": 183.49,
+    "date": "06/20/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1407.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1407",
+    "payee": "INCEPT 500",
+    "amount": 651.45,
+    "date": "06/20/2024",
+    "memo": "1830929"
+  },
+  {
+    "filename": "1408.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1408",
+    "payee": "Heidelberg Dist.",
+    "amount": 154.0,
+    "date": "06/21/2024",
+    "memo": "2072897 \u2013 2072898"
+  },
+  {
+    "filename": "1409.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1409",
+    "payee": "Southern Glazer\u2019s",
+    "amount": 311.85,
+    "date": "06/21/2024",
+    "memo": "9123388255"
+  },
+  {
+    "filename": "1410.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1410",
+    "payee": "Advanced Wiring Solutions LLC",
+    "amount": 31.18,
+    "date": "06/22/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1411.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1411",
+    "payee": "Nucoz",
+    "amount": 163.1,
+    "date": "06/26/2024",
+    "memo": "76953293"
+  },
+  {
+    "filename": "1412.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1412",
+    "payee": "Spectrum",
+    "amount": 310.01,
+    "date": "06/26/2024",
+    "memo": "0262865061624"
+  },
+  {
+    "filename": "1413.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1413",
+    "payee": "Heidelberg",
+    "amount": 751.11,
+    "date": "06/27/2024",
+    "memo": "2989101, 2078787"
+  },
+  {
+    "filename": "1414.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1414",
+    "payee": "Republic",
+    "amount": 183.66,
+    "date": "06/27/2024",
+    "memo": "3688537"
+  },
+  {
+    "filename": "1416.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1416",
+    "payee": "Montgomery County Environmental Services",
+    "amount": 2609.7,
+    "date": "07/01/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1417.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1417",
+    "payee": "Kesder Sign Company",
+    "amount": 1453.24,
+    "date": "07/01/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1418.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1418",
+    "payee": "INCEPT 500",
+    "amount": 182.36,
+    "date": "07/01/2024",
+    "memo": "1843497"
+  },
+  {
+    "filename": "1419.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1419",
+    "payee": "Premium",
+    "amount": 212.58,
+    "date": "07/02/2024",
+    "memo": "Alcohol"
+  },
+  {
+    "filename": "1420.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1420",
+    "payee": "Northside Meats",
+    "amount": 523.62,
+    "date": "07/02/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1421.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1421",
+    "payee": "Heidelberg",
+    "amount": 145.93,
+    "date": "07/03/2024",
+    "memo": "2085515"
+  },
+  {
+    "filename": "1422.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1422",
+    "payee": "City of Vandalia",
+    "amount": 74.99,
+    "date": "07/03/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1423.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1423",
+    "payee": "AeS",
+    "amount": 3558.71,
+    "date": "07/08/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1424.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1424",
+    "payee": "Butler Township Refuse Department",
+    "amount": 54.75,
+    "date": "07/02/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1425.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1425",
+    "payee": "Dan Smith Heating & Cooling",
+    "amount": 1700.0,
+    "date": "07/09/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1426.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1426",
+    "payee": "Challengers Property LLC",
+    "amount": 10000.0,
+    "date": "07/05/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1427.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1427",
+    "payee": "INCEPT 500",
+    "amount": 664.98,
+    "date": "07/10/2024",
+    "memo": "1854805"
+  },
+  {
+    "filename": "1428.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1428",
+    "payee": "Heidenberg of Dayton",
+    "amount": 598.88,
+    "date": "07/11/2024",
+    "memo": "Alcohol"
+  },
+  {
+    "filename": "1429.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1429",
+    "payee": "Heidenberg Dist.",
+    "amount": 248.0,
+    "date": "07/12/2024",
+    "memo": "2093683"
+  },
+  {
+    "filename": "1430.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1430",
+    "payee": "Heeter Plumbing LLC",
+    "amount": 200.0,
+    "date": "07/12/2024",
+    "memo": "44660"
+  },
+  {
+    "filename": "1431.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1431",
+    "payee": "Barnes Wildlife Control",
+    "amount": 214.99,
+    "date": "07/12/2024",
+    "memo": "63651-1"
+  },
+  {
+    "filename": "1432.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1432",
+    "payee": "Bonbright Distributors",
+    "amount": 217.5,
+    "date": "07/13/2024",
+    "memo": "Beer"
+  },
+  {
+    "filename": "1433.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1433",
+    "payee": "Heidelberg of Dayton",
+    "amount": 527.7,
+    "date": "07/18/2024",
+    "memo": "Beer & Wine"
+  },
+  {
+    "filename": "1434.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1434",
+    "payee": "Center Point Energy",
+    "amount": 639.54,
+    "date": "07/18/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1435.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1435",
+    "payee": "Arctic Food Services INC",
+    "amount": 6759.0,
+    "date": "07/21/2024",
+    "memo": "2480566, 2479178"
+  },
+  {
+    "filename": "1436.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1436",
+    "payee": "Advanced Wiring Solutions LLC",
+    "amount": 31.18,
+    "date": "07/21/2024",
+    "memo": "49649"
+  },
+  {
+    "filename": "1437.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1437",
+    "payee": "Nucoz",
+    "amount": 163.1,
+    "date": "07/24/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1438.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1438",
+    "payee": "Republic Services",
+    "amount": 183.66,
+    "date": "07/24/2024",
+    "memo": "3705825"
+  },
+  {
+    "filename": "1439.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1439",
+    "payee": "Heidelberg of Dayton",
+    "amount": 699.7,
+    "date": "07/25/2024",
+    "memo": "Beer"
+  },
+  {
+    "filename": "1440.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1440",
+    "payee": "INCEPT 500",
+    "amount": 726.83,
+    "date": "07/29/2024",
+    "memo": "1878472"
+  },
+  {
+    "filename": "1441.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1441",
+    "payee": "INSECT 500",
+    "amount": 131.6,
+    "date": "07/29/2024",
+    "memo": "1879264"
+  },
+  {
+    "filename": "1442.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1442",
+    "payee": "A.M. Scott",
+    "amount": 902.4,
+    "date": "07/30/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1444.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1444",
+    "payee": "Tenson Cincinnati INC",
+    "amount": 10916.0,
+    "date": "08/01/2024",
+    "memo": "0356"
+  },
+  {
+    "filename": "1445.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1445",
+    "payee": "Heidelberg",
+    "amount": 485.75,
+    "date": "08/01/2024",
+    "memo": "2116638"
+  },
+  {
+    "filename": "1446.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1446",
+    "payee": "Spectrum",
+    "amount": 310.01,
+    "date": "08/02/2024",
+    "memo": "202865071624"
+  },
+  {
+    "filename": "1447.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1447",
+    "payee": "Challengers Properties LLC",
+    "amount": 10000.0,
+    "date": "08/02/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1448.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1448",
+    "payee": "City of Vandalia",
+    "amount": 74.99,
+    "date": "08/02/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1449.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1449",
+    "payee": "5/3 Bank",
+    "amount": 7821.26,
+    "date": "08/03/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1450.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1450",
+    "payee": "Yonghua Zhao",
+    "amount": 4000.0,
+    "date": "08/03/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1451.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1451",
+    "payee": "Xingjia Zhou",
+    "amount": 390.0,
+    "date": "08/05/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1452.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1452",
+    "payee": "Premium Beverage Supply",
+    "amount": 221.4,
+    "date": "08/07/2024",
+    "memo": "395892"
+  },
+  {
+    "filename": "1453.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1453",
+    "payee": "Tolls by Payment Processing Center",
+    "amount": 46.45,
+    "date": "08/09/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1454.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1454",
+    "payee": "Aroma International INC",
+    "amount": 3703.18,
+    "date": "08/09/2024",
+    "memo": "74988, 72186, 70014, 73973, 73146, 70791"
+  },
+  {
+    "filename": "1455.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1455",
+    "payee": "5/3 Bank",
+    "amount": 8766.96,
+    "date": "08/13/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1456.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1456",
+    "payee": "AeS",
+    "amount": 4253.66,
+    "date": "08/13/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1457.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1457",
+    "payee": "Center Point Energy",
+    "amount": 682.51,
+    "date": "08/13/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1458.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1458",
+    "payee": "City of Vandalia",
+    "amount": 401.78,
+    "date": "08/14/2024",
+    "memo": "Challenger ohio LTD."
+  },
+  {
+    "filename": "1459.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1459",
+    "payee": "INCEPT 500",
+    "amount": 767.34,
+    "date": "08/14/2024",
+    "memo": "1900032"
+  },
+  {
+    "filename": "1460.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1460",
+    "payee": "Heidelberg of Dayton",
+    "amount": 517.28,
+    "date": "08/15/2024",
+    "memo": "Beer"
+  },
+  {
+    "filename": "1461.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1461",
+    "payee": "Bonbright",
+    "amount": 442.98,
+    "date": "08/22/2024",
+    "memo": "1943455"
+  },
+  {
+    "filename": "1462.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1462",
+    "payee": "Dan Bower",
+    "amount": 550.0,
+    "date": "08/22/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1463.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1463",
+    "payee": "AeS",
+    "amount": 3818.98,
+    "date": "08/28/2024",
+    "memo": "24"
+  },
+  {
+    "filename": "1464.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1464",
+    "payee": "Challenges Property LLC",
+    "amount": 10000.0,
+    "date": "08/31/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1465.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1465",
+    "payee": "Spectrum",
+    "amount": 310.01,
+    "date": "08/28/2024",
+    "memo": "263865081624"
+  },
+  {
+    "filename": "1466.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1466",
+    "payee": "Republic",
+    "amount": 183.57,
+    "date": "08/28/2024",
+    "memo": "24"
+  },
+  {
+    "filename": "1467.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1467",
+    "payee": "Advanced Wiring Solutions LLC",
+    "amount": 31.18,
+    "date": "08/28/2024",
+    "memo": "49733"
+  },
+  {
+    "filename": "1468.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1468",
+    "payee": "Nucoz",
+    "amount": 163.1,
+    "date": "08/28/2024",
+    "memo": "77575381"
+  },
+  {
+    "filename": "1469.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1469",
+    "payee": "Montgomery County Treasure",
+    "amount": 7117.44,
+    "date": "08/28/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1470.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1470",
+    "payee": "PA Turn Pipe",
+    "amount": 128.7,
+    "date": "08/28/2024",
+    "memo": "135594135-1"
+  },
+  {
+    "filename": "1471.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1471",
+    "payee": "Cincinnati Children\u2019s Hospital",
+    "amount": 389.13,
+    "date": "08/28/2024",
+    "memo": "102286704"
+  },
+  {
+    "filename": "1472.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1472",
+    "payee": "Huaren Express INC",
+    "amount": 800.0,
+    "date": "08/29/2024",
+    "memo": "08292024 \u2013 1"
+  },
+  {
+    "filename": "1473.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1473",
+    "payee": "Heidelberg of Dayton",
+    "amount": 1304.15,
+    "date": "08/29/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1474.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1474",
+    "payee": "Premium Beverage Supply",
+    "amount": 533.17,
+    "date": "08/28/2024",
+    "memo": "399790"
+  },
+  {
+    "filename": "1475.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1475",
+    "payee": "Heidelberg Dist.",
+    "amount": 349.0,
+    "date": "08/30/2024",
+    "memo": "2151017"
+  },
+  {
+    "filename": "1476.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1476",
+    "payee": "INCEPT 500",
+    "amount": 405.63,
+    "date": "08/29/2024",
+    "memo": "1921880"
+  },
+  {
+    "filename": "1477.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1477",
+    "payee": "Arctic Food Services INC",
+    "amount": 3036.0,
+    "date": "09/02/2024",
+    "memo": "2482693"
+  },
+  {
+    "filename": "1479.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1479",
+    "payee": "City of Vandalia",
+    "amount": 74.99,
+    "date": "09/03/2024",
+    "memo": "24"
+  },
+  {
+    "filename": "1480.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1480",
+    "payee": "Montgomery County Environmental Services",
+    "amount": 2795.52,
+    "date": "09/03/2024",
+    "memo": "24"
+  },
+  {
+    "filename": "1481.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1481",
+    "payee": "Montgomery County Environmental Services",
+    "amount": 542.18,
+    "date": "09/03/2024",
+    "memo": "24"
+  },
+  {
+    "filename": "1482.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1482",
+    "payee": "Ocean Providence Columbus LLC",
+    "amount": 11559.11,
+    "date": "09/03/2024",
+    "memo": "01/06/11 To 08/29/24"
+  },
+  {
+    "filename": "1483.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1483",
+    "payee": "Heidelberg of Dayton",
+    "amount": 98.44,
+    "date": "09/05/2024",
+    "memo": "Alcohol"
+  },
+  {
+    "filename": "1485.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1485",
+    "payee": "The Furnace Man",
+    "amount": 229.0,
+    "date": "09/06/2024",
+    "memo": "142367"
+  },
+  {
+    "filename": "1486.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1486",
+    "payee": "Heidelberg of Dayton",
+    "amount": 368.76,
+    "date": "09/12/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1487.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1487",
+    "payee": "JFK",
+    "amount": 139.0,
+    "date": "09/13/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1488.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1488",
+    "payee": "Yonghua Zhao",
+    "amount": 277.0,
+    "date": "09/13/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1489.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1489",
+    "payee": "Northside Meats",
+    "amount": 578.77,
+    "date": "09/16/2024",
+    "memo": "100579"
+  },
+  {
+    "filename": "1490.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1490",
+    "payee": "Center Point Energy",
+    "amount": 570.95,
+    "date": "09/12/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1491.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1491",
+    "payee": "A.M. Scott",
+    "amount": 225.6,
+    "date": "09/17/2024",
+    "memo": "1391341"
+  },
+  {
+    "filename": "1492.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1492",
+    "payee": "J.F.K.",
+    "amount": 89.0,
+    "date": "09/18/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1493.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1493",
+    "payee": "Cincinnati Childerns Hospital",
+    "amount": 1664.31,
+    "date": "09/22/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1494.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1494",
+    "payee": "INCEPT 500",
+    "amount": 1009.59,
+    "date": "09/23/2024",
+    "memo": "1952242"
+  },
+  {
+    "filename": "1495.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1495",
+    "payee": "Spectrum",
+    "amount": 310.01,
+    "date": "09/24/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1496.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1496",
+    "payee": "Advanced Wiring Solution LLC",
+    "amount": 55.18,
+    "date": "09/24/2024",
+    "memo": "49791"
+  },
+  {
+    "filename": "1497.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1497",
+    "payee": "Republic",
+    "amount": 182.64,
+    "date": "09/24/2024",
+    "memo": "3740147"
+  },
+  {
+    "filename": "1498.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1498",
+    "payee": "Nucoz",
+    "amount": 439.47,
+    "date": "09/24/2024",
+    "memo": "77821001, 77761499"
+  },
+  {
+    "filename": "1499.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1499",
+    "payee": "Heidelberg of Dayton",
+    "amount": 275.82,
+    "date": "09/26/2024",
+    "memo": "2183464"
+  },
+  {
+    "filename": "1500.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1500",
+    "payee": "Bonbright Distributors",
+    "amount": 441.4,
+    "date": "09/26/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1501.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1501",
+    "payee": "Arctic Food Services INC",
+    "amount": 4183.0,
+    "date": "09/28/2024",
+    "memo": "2484018"
+  },
+  {
+    "filename": "1502.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1502",
+    "payee": "AeS",
+    "amount": 4123.16,
+    "date": "10/01/2024",
+    "memo": "24"
+  },
+  {
+    "filename": "1503.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1503",
+    "payee": "Enson Cincinnati INC",
+    "amount": 3285.64,
+    "date": "10/02/2024",
+    "memo": "15892115121, 15850076121"
+  },
+  {
+    "filename": "1504.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1504",
+    "payee": "A.M. Scott",
+    "amount": 451.2,
+    "date": "10/04/2024",
+    "memo": "5482"
+  },
+  {
+    "filename": "1505.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1505",
+    "payee": "City of Vandalia",
+    "amount": 74.99,
+    "date": "10/07/2024",
+    "memo": "24"
+  },
+  {
+    "filename": "1506.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1506",
+    "payee": "Aroma International INC",
+    "amount": 5727.99,
+    "date": "10/08/2024",
+    "memo": "08/08/24 To 10/03/24"
+  },
+  {
+    "filename": "1507.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1507",
+    "payee": "Challenges Property LLC",
+    "amount": 10000.0,
+    "date": "10/07/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1508.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1508",
+    "payee": "Heidelberg",
+    "amount": 1490.54,
+    "date": "10/10/2024",
+    "memo": "2198985, 2198984"
+  },
+  {
+    "filename": "1509.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1509",
+    "payee": "Project C Wireless",
+    "amount": 180.0,
+    "date": "10/15/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1510.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1510",
+    "payee": "JFK",
+    "amount": 364.0,
+    "date": "10/17/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1511.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1511",
+    "payee": "Advanced Wiring Solution LLC",
+    "amount": 31.18,
+    "date": "10/22/2024",
+    "memo": "49869"
+  },
+  {
+    "filename": "1512.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1512",
+    "payee": "Center Point Energy",
+    "amount": 569.16,
+    "date": "10/22/2024",
+    "memo": "24"
+  },
+  {
+    "filename": "1513.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1513",
+    "payee": "INCEPT 500",
+    "amount": 1527.43,
+    "date": "10/22/2024",
+    "memo": "1989684, 1990853"
+  },
+  {
+    "filename": "1514.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1514",
+    "payee": "Huaren Express INC",
+    "amount": 543.0,
+    "date": "10/22/2024",
+    "memo": "10222024 \u2013 6"
+  },
+  {
+    "filename": "1515.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1515",
+    "payee": "EVANS MOTORWORKS INC",
+    "amount": 3355.98,
+    "date": "10/23/2024",
+    "memo": "128317"
+  },
+  {
+    "filename": "1516.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1516",
+    "payee": "Heidelberg",
+    "amount": 22.36,
+    "date": "10/24/2024",
+    "memo": "2213290, 2213291"
+  },
+  {
+    "filename": "1517.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1517",
+    "payee": "JFK",
+    "amount": 289.0,
+    "date": "10/25/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1518.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1518",
+    "payee": "Republic",
+    "amount": 182.64,
+    "date": "10/29/2024",
+    "memo": "3753234"
+  },
+  {
+    "filename": "1519.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1519",
+    "payee": "Premium Beverage Supply",
+    "amount": 950.32,
+    "date": "10/30/2024",
+    "memo": "41309"
+  },
+  {
+    "filename": "1520.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1520",
+    "payee": "Heidelberg of Dayton",
+    "amount": 756.67,
+    "date": "10/31/2024",
+    "memo": "2220538"
+  },
+  {
+    "filename": "1521.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1521",
+    "payee": "Arctic Food Services",
+    "amount": 5253.0,
+    "date": "11/04/2024",
+    "memo": "2585832"
+  },
+  {
+    "filename": "1522.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1522",
+    "payee": "Challenger Property LLC",
+    "amount": 10000.0,
+    "date": "11/03/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1523.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1523",
+    "payee": "A.M. Scott",
+    "amount": 451.2,
+    "date": "11/01/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1524.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1524",
+    "payee": "Glazer\u2019s",
+    "amount": 287.85,
+    "date": "11/08/2024",
+    "memo": "9125127421"
+  },
+  {
+    "filename": "1525.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1525",
+    "payee": "Butler Township",
+    "amount": 61.05,
+    "date": "11/03/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1526.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1526",
+    "payee": "Spectrum",
+    "amount": 310.01,
+    "date": "11/03/2024",
+    "memo": "124"
+  },
+  {
+    "filename": "1527.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1527",
+    "payee": "Challenger Property LLC",
+    "amount": 74.99,
+    "date": "11/10/2024",
+    "memo": "24"
+  },
+  {
+    "filename": "1528.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1528",
+    "payee": "AeS",
+    "amount": 2671.46,
+    "date": "11/10/2024",
+    "memo": "24"
+  },
+  {
+    "filename": "1529.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1529",
+    "payee": "Enson Cincinnati LLC",
+    "amount": 6461.66,
+    "date": "11/11/2024",
+    "memo": "0354"
+  },
+  {
+    "filename": "1530.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1530",
+    "payee": "Heidelberg of Dayton",
+    "amount": 302.25,
+    "date": "11/14/2024",
+    "memo": "2235185, 223184"
+  },
+  {
+    "filename": "1531.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1531",
+    "payee": "Heidelberg",
+    "amount": 760.61,
+    "date": "11/15/2024",
+    "memo": "2237764"
+  },
+  {
+    "filename": "1532.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1532",
+    "payee": "Advanced Wiring Solutions LLC LLC",
+    "amount": 31.18,
+    "date": "11/22/2024",
+    "memo": "49946"
+  },
+  {
+    "filename": "1533.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1533",
+    "payee": "Center Point Energy",
+    "amount": 836.14,
+    "date": "11/12/2024",
+    "memo": "11/11/24"
+  },
+  {
+    "filename": "1534.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1534",
+    "payee": "Domain Listings",
+    "amount": 288.0,
+    "date": "11/22/2024",
+    "memo": "24"
+  },
+  {
+    "filename": "1535.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1535",
+    "payee": "INCEPT 500",
+    "amount": 842.19,
+    "date": "11/19/2024",
+    "memo": "2026966"
+  },
+  {
+    "filename": "1536.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1536",
+    "payee": "Ocean Providence Columbus LLC",
+    "amount": 10491.61,
+    "date": "11/19/2024",
+    "memo": "09/05/25 To 11/14/24"
+  },
+  {
+    "filename": "1537.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1537",
+    "payee": "Heidelberg",
+    "amount": 1026.63,
+    "date": "11/21/2024",
+    "memo": "2242775, 2242776"
+  },
+  {
+    "filename": "1538.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1538",
+    "payee": "Bonbright",
+    "amount": 379.03,
+    "date": "11/21/2024",
+    "memo": "1993611"
+  },
+  {
+    "filename": "1539.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1539",
+    "payee": "JFK",
+    "amount": 439.0,
+    "date": "11/22/2024",
+    "memo": ""
+  },
+  {
+    "filename": "1540.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1540",
+    "payee": "INCEPT 500",
+    "amount": 425.43,
+    "date": "11/25/2024",
+    "memo": "2036892"
+  },
+  {
+    "filename": "1541.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1541",
+    "payee": "Huaren Express INC",
+    "amount": 450.0,
+    "date": "11/30/2024",
+    "memo": "11302024 \u2013 1"
+  },
+  {
+    "filename": "1542.pdf",
+    "directory": "Challenger Dayton - Fifth Third",
+    "company": "SHEN\u2019S SZECHUAN & SUSHI",
+    "check_number": "1542",
+    "payee": "Montgomery County Environmental Services",
+    "amount": 2317.42,
+    "date": "11/30/2024",
+    "memo": ""
+  },
+  {
+    "filename": "Ohio State Bank Checking X2353 202501.pdf",
+    "directory": "Star on Broad LLC - Ohio State",
+    "company": "Star On Broad LLC",
+    "check_number": "2002",
+    "payee": "Roval Goigev Zue",
+    "amount": 5000.0,
+    "date": "12/31/2024",
+    "memo": "-"
+  },
+  {
+    "filename": "Ohio State Bank Checking X2892 202501.pdf",
+    "directory": "Star on Broad LLC - Ohio State",
+    "company": "Star On Broad LLC",
+    "check_number": "-",
+    "payee": "-",
+    "amount": 2000.0,
+    "date": "01/10/2025",
+    "memo": "- 102892"
+  },
+  {
+    "filename": "Ohio State Bank Checking X2892 202501.pdf",
+    "directory": "Star on Broad LLC - Ohio State",
+    "company": "Star On Broad LLC",
+    "check_number": "-",
+    "payee": "-",
+    "amount": 14729.92,
+    "date": "01/10/2025",
+    "memo": "- 102892"
+  },
+  {
+    "filename": "Ohio State Bank Checking X2892 202501.pdf",
+    "directory": "Star on Broad LLC - Ohio State",
+    "company": "Star on Broad LLC",
+    "check_number": "-",
+    "payee": "-",
+    "amount": 2000.0,
+    "date": "01/22/2025",
+    "memo": "- 102892"
+  },
+  {
+    "filename": "Ohio State Bank Checking X2892 202501.pdf",
+    "directory": "Star on Broad LLC - Ohio State",
+    "company": "Star on Broad LLC",
+    "check_number": "-",
+    "payee": "-",
+    "amount": 2000.0,
+    "date": "01/22/2025",
+    "memo": "- 102892"
+  },
+  {
+    "filename": "Ohio State Bank Checking X2892 202501.pdf",
+    "directory": "Star on Broad LLC - Ohio State",
+    "company": "Star On Broad LLC",
+    "check_number": "-",
+    "payee": "-",
+    "amount": 14729.92,
+    "date": "01/22/2025",
+    "memo": "- 102892"
+  },
+  {
+    "filename": "Ohio State Bank Checking X2892 202501.pdf",
+    "directory": "Star on Broad LLC - Ohio State",
+    "company": "Star On Broad LLC",
+    "check_number": "0000995424",
+    "payee": "Columbia Gas of OH",
+    "amount": 1576.28,
+    "date": "1/21/2025",
+    "memo": "-"
+  },
+  {
+    "filename": "Ohio State Bank Checking X2892 202502.pdf",
+    "directory": "Star on Broad LLC - Ohio State",
+    "company": "Star On Broad LLC",
+    "check_number": "0000995427",
+    "payee": "Columbia Gas of OH",
+    "amount": 2059.37,
+    "date": "02/07/2025",
+    "memo": "-"
+  },
+  {
+    "filename": "Ohio State Bank Checking X2892 202502.pdf",
+    "directory": "Star on Broad LLC - Ohio State",
+    "company": "Star On Broad LLC",
+    "check_number": "0000995431",
+    "payee": "Savage Development Group LLC",
+    "amount": 300.0,
+    "date": "02/25/2025",
+    "memo": "-"
+  },
+  {
+    "filename": "Ohio State Bank Checking X2892 202503.pdf",
+    "directory": "Star on Broad LLC - Ohio State",
+    "company": "Star on Broad LLC",
+    "check_number": "-",
+    "payee": "-",
+    "amount": 14729.92,
+    "date": "03/26/2025",
+    "memo": "- 102892"
+  },
+  {
+    "filename": "Ohio State Bank Checking X2892 202503.pdf",
+    "directory": "Star on Broad LLC - Ohio State",
+    "company": "Star on Broad LLC",
+    "check_number": "0000995430",
+    "payee": "OBERSON\u2019S",
+    "amount": 1052.66,
+    "date": "02/25/2025",
+    "memo": "-"
+  },
+  {
+    "filename": "Ohio State Bank Checking X2892 202503.pdf",
+    "directory": "Star on Broad LLC - Ohio State",
+    "company": "Star on Broad LLC",
+    "check_number": "0000995432",
+    "payee": "Columbia Gas of OH",
+    "amount": 2009.15,
+    "date": "03/07/2025",
+    "memo": "-"
+  },
+  {
+    "filename": "Ohio State Bank Checking X2892 202503.pdf",
+    "directory": "Star on Broad LLC - Ohio State",
+    "company": "Star on Broad LLC",
+    "check_number": "0000995433",
+    "payee": "Columbus City Treasure",
+    "amount": 1243.52,
+    "date": "03/07/2025",
+    "memo": "-"
+  },
+  {
+    "filename": "Ohio State Bank Checking X2892 202503.pdf",
+    "directory": "Star on Broad LLC - Ohio State",
+    "company": "Star on Broad LLC",
+    "check_number": "0000995435",
+    "payee": "OBERSON\u2019S",
+    "amount": 979.2,
+    "date": "03/07/2025",
+    "memo": "-"
+  },
+  {
+    "filename": "Ohio State Bank Checking X2892 202504.pdf",
+    "directory": "Star on Broad LLC - Ohio State",
+    "company": "Star on Broad LLC",
+    "check_number": "-",
+    "payee": "-",
+    "amount": 14729.92,
+    "date": "04/15/2025",
+    "memo": "- 102892"
+  },
+  {
+    "filename": "Ohio State Bank Checking X2892 202504.pdf",
+    "directory": "Star on Broad LLC - Ohio State",
+    "company": "Star on Broad LLC",
+    "check_number": "0000995436",
+    "payee": "Columbus City Treasure",
+    "amount": 4597.77,
+    "date": "04/04/2025",
+    "memo": "-"
+  },
+  {
+    "filename": "Ohio State Bank Checking X2892 202504.pdf",
+    "directory": "Star on Broad LLC - Ohio State",
+    "company": "Star on Broad LLC",
+    "check_number": "0000995440",
+    "payee": "Columbia Gas of OH",
+    "amount": 1521.84,
+    "date": "04/04/2025",
+    "memo": "-"
+  },
+  {
+    "filename": "Ohio State Bank Checking X2892 202505.pdf",
+    "directory": "Star on Broad LLC - Ohio State",
+    "company": "Star on Broad LLC",
+    "check_number": "-",
+    "payee": "-",
+    "amount": 14729.92,
+    "date": "05/12/2025",
+    "memo": "- 102892"
+  },
+  {
+    "filename": "Ohio State Bank Checking X2892 202505.pdf",
+    "directory": "Star on Broad LLC - Ohio State",
+    "company": "Star on Broad LLC",
+    "check_number": "0000995441",
+    "payee": "Columbia Gas of OH",
+    "amount": 972.03,
+    "date": "05/21/2025",
+    "memo": "-"
+  }
+]

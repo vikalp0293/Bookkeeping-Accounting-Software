@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?qbxml version="13.0"?>
+<QBXML>
+  <QBXMLMsgsRq onError="continueOnError">
+    <CustomerAddRq>
+      <CustomerAdd>
+        <Name>Bank Deposits</Name>
+      </CustomerAdd>
+    </CustomerAddRq>
+    <DepositAddRq>
+      <DepositAdd>
+        <TxnDate>2026-01-30</TxnDate>
+        <DepositToAccountRef>
+          <FullName>kylient</FullName>
+        </DepositToAccountRef>
+        <DepositLineAdd>
+          <EntityRef>
+            <FullName>Bank Deposits</FullName>
+          </EntityRef>
+          <AccountRef>
+            <FullName>Sales</FullName>
+          </AccountRef>
+          <Memo>Sample deposit</Memo>
+          <Amount>500.00</Amount>
+        </DepositLineAdd>
+      </DepositAdd>
+    </DepositAddRq>
+  </QBXMLMsgsRq>
+</QBXML>

@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sync Accounting QB SDK – User Guide</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.7;
+            color: #2d3748;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+        .wrapper { max-width: 900px; margin: 0 auto; }
+        .header {
+            background: #fff;
+            padding: 30px 40px;
+            border-radius: 12px 12px 0 0;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            border-bottom: 4px solid #667eea;
+        }
+        .header h1 { color: #1a202c; font-size: 2rem; font-weight: 700; }
+        .header p { color: #718096; font-size: 1rem; margin-top: 8px; }
+        .container {
+            background: #fff;
+            padding: 40px 50px;
+            border-radius: 0 0 12px 12px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+            color: #2d3748;
+        }
+        .guide-body { background: #fff; color: #2d3748; }
+        .guide-body h1 { font-size: 1.75rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid #e2e8f0; color: #1a202c; }
+        .guide-body h2 { font-size: 1.4rem; margin-top: 2rem; margin-bottom: 0.75rem; color: #2d3748; }
+        .guide-body h3 { font-size: 1.2rem; margin-top: 1.5rem; margin-bottom: 0.5rem; color: #4a5568; }
+        .guide-body h4 { font-size: 1.05rem; margin-top: 1rem; margin-bottom: 0.5rem; color: #718096; }
+        .guide-body p { margin-bottom: 1rem; color: #4a5568; }
+        .guide-body ul, .guide-body ol { margin-left: 1.5rem; margin-bottom: 1rem; color: #4a5568; }
+        .guide-body li { margin-bottom: 0.5rem; }
+        .guide-body code {
+            background: #edf2f7;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 0.9em;
+            color: #c53030;
+            border: 1px solid #e2e8f0;
+        }
+        .guide-body pre {
+            background: #2d3748;
+            color: #e2e8f0;
+            padding: 1rem 1.25rem;
+            border-radius: 8px;
+            overflow-x: auto;
+            margin: 1rem 0;
+            border-left: 4px solid #667eea;
+            font-size: 0.9rem;
+        }
+        .guide-body pre code { background: transparent; padding: 0; color: #e2e8f0; border: none; }
+        .guide-body table {
+            border-collapse: collapse;
+            width: 100%;
+            margin: 1rem 0;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        .guide-body th, .guide-body td { border: 1px solid #e2e8f0; padding: 12px 16px; text-align: left; color: #2d3748; }
+        .guide-body th { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: #fff; font-weight: 600; }
+        .guide-body tr:nth-child(even) { background: #f7fafc; }
+        .guide-body hr { border: none; border-top: 2px solid #e2e8f0; margin: 2rem 0; }
+        .guide-body a { color: #5a67d8; text-decoration: none; }
+        .guide-body a:hover { text-decoration: underline; }
+        .guide-body .download-btn {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #fff;
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-weight: 600;
+            text-decoration: none;
+        }
+        .guide-body .download-btn:hover { opacity: 0.9; text-decoration: none; }
+        .guide-body .tip { background: #f0fff4; border-left: 4px solid #48bb78; padding: 12px 16px; margin: 1rem 0; border-radius: 0 8px 8px 0; color: #276749; }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="header">
+            <h1>Sync Accounting – QuickBooks Sync App</h1>
+            <p>How to install and use the app on your Windows PC. Written for everyday users.</p>
+        </div>
+        <div class="container">
+            <div class="guide-body">
+                <h1>Getting started</h1>
+                <p>This guide explains how to install and run the <strong>Sync Accounting</strong> app so it can sync data with QuickBooks Desktop. Follow the steps below in order. If your company gave you a different set of instructions, follow those instead.</p>
+
+                <hr>
+
+                <h2>What you need (download these 3 programs)</h2>
+                <p>Before you start, you need to install three things on your computer. You can download them here, or your IT person may give you the files. <strong>Install them in this order:</strong> Python first, then QuickBooks SDK, then the Sync Accounting app.</p>
+                <table>
+                    <thead>
+                        <tr><th>#</th><th>What it is</th><th>Download</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td><strong>Python for Windows</strong> – required for the app to run (install this first)</td>
+                            <td><a href="/docs/download/installer/python" class="download-btn">Download</a></td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td><strong>QuickBooks SDK</strong> – lets the app talk to QuickBooks (install this second)</td>
+                            <td><a href="/docs/download/installer/qbsdk" class="download-btn">Download</a></td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td><strong>Sync Accounting app</strong> – the main program you will use (install this last)</td>
+                            <td><a href="/docs/download/installer/app" class="download-btn">Download</a></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p>Install in order: <strong>1 → 2 → 3</strong>. When you're done with all three, open the Sync Accounting app from the Start menu.</p>
+
+                <hr>
+
+                <h2>Step 1: Install the three programs (in order)</h2>
+                <ol>
+                    <li><strong>First:</strong> Download and install <strong>Python for Windows</strong> (row 1 above). Run the installer, follow the on-screen steps, then finish.</li>
+                    <li><strong>Second:</strong> Download and install <strong>QuickBooks SDK</strong> (row 2 above). Run the installer and complete the setup.</li>
+                    <li><strong>Third:</strong> Download and install the <strong>Sync Accounting app</strong> (row 3 above). Run the installer, click <strong>Next</strong> when asked, then <strong>Finish</strong> when done.</li>
+                    <li>When all three are installed, open the Sync Accounting app from the <strong>Start</strong> menu (look for <strong>Sync Accounting QB SDK</strong>).</li>
+                </ol>
+
+                <h2>Step 2: First time you open the app</h2>
+                <p>The first time you open the app, it will check your computer. It may tell you that something is missing (for example Python or QuickBooks). If so:</p>
+                <ul>
+                    <li>Use the <strong>Download</strong> buttons in the table above to get the other two programs (QuickBooks SDK and Python), then run those installers too.</li>
+                    <li>If the app shows an <strong>Install Dependencies</strong> or similar button, click it and wait for it to finish.</li>
+                </ul>
+                <p>When everything is ready, you'll see a message like <strong>"All requirements are met! You can start syncing."</strong> Then you can move on to the next step.</p>
+
+                <h2>Step 3: Sign in to your account</h2>
+                <p>When you open the Sync Accounting app, you'll see a <strong>Sign in to your account</strong> screen.</p>
+                <ol>
+                    <li>Enter your <strong>Email</strong> (the one your company gave you for Sync Accounting).</li>
+                    <li>Enter your <strong>Password</strong>.</li>
+                    <li>Click <strong>Sign in</strong>.</li>
+                </ol>
+
+                <h2>Step 4: Install and open QuickBooks (if you use it)</h2>
+                <ol>
+                    <li>If you don't have QuickBooks Desktop on your computer, install it (version 2018 or newer). Your company may provide it.</li>
+                    <li>Open <strong>QuickBooks Desktop</strong>.</li>
+                    <li>Open your usual company file (the one you use every day) and <strong>leave QuickBooks open</strong>. The sync app needs QuickBooks to be open with your company file when you sync.</li>
+                </ol>
+
+                <h3>Two accounts that must exist in QuickBooks</h3>
+                <p>Before syncing, make sure your QuickBooks company file has these two accounts. If they don't exist, create them in QuickBooks first:</p>
+                <ul>
+                    <li><strong>Miscellaneous Expense</strong> – used by the app to sync checks / withdrawals.</li>
+                    <li><strong>Sales</strong> – used by the app to sync deposits.</li>
+                </ul>
+
+                <h2>Step 5: Set up Settings (file path and folder)</h2>
+                <p>In the Sync Accounting app, click <strong>Settings</strong> in the left menu. You need to fill in a few details so the app can connect to QuickBooks and know where your files are.</p>
+
+                <h3>QuickBooks company file path</h3>
+                <p>In the <strong>QuickBooks SDK Sync</strong> section:</p>
+                <ul>
+                    <li><strong>QuickBooks company file path (.QBW)</strong> – This is the location of your QuickBooks company file on your computer (for example <code>C:\Users\YourName\Documents\Company.qbw</code>).</li>
+                    <li>Open QuickBooks and your company file first. Then either:
+                        <ul>
+                            <li>Click <strong>Select folder</strong> to pick the folder where your company file is, then type the file name (e.g. <code>Royal Ginger Inc - Athens.qbw</code>) after the path, or</li>
+                            <li>Type the full path to the file manually.</li>
+                        </ul>
+                    </li>
+                    <li>When you're done, click <strong>Save SDK settings</strong>.</li>
+                </ul>
+
+                <h3>Folder to monitor and QuickBooks account name</h3>
+                <p>In the <strong>Desktop Settings</strong> section:</p>
+                <ul>
+                    <li><strong>Folder to Monitor</strong> – Choose the folder where you will place PDF files for the app to process (e.g. bank statements). Click <strong>Browse...</strong> to select the folder.</li>
+                    <li><strong>QuickBooks Account Name</strong> – Enter the QuickBooks account name where all transactions will be synced. This account must already exist in QuickBooks (for example <code>indore-bank</code>).</li>
+                    <li>If you want the app to start monitoring this folder automatically when you open the app, check <strong>Automatically start monitoring when app launches</strong>.</li>
+                    <li>Click <strong>Save Settings</strong>.</li>
+                </ul>
+
+                <h2>Step 6: Start syncing</h2>
+                <ol>
+                    <li>Make sure <strong>QuickBooks is still open</strong> with your company file.</li>
+                    <li>In the Sync Accounting app, click <strong>Start sync</strong>.</li>
+                    <li>The app will connect to QuickBooks and sync your data. Wait until it finishes.</li>
+                </ol>
+                <p>If you see an error message (for example "QuickBooks must be running" or "Company file not found"), check that QuickBooks is open with your company file and that you entered the company file path and other details correctly in Settings. If it still doesn't work, contact your IT support.</p>
+
+                <h2>Step 7: Stopping and syncing again later</h2>
+                <ul>
+                    <li>To stop syncing: click <strong>Stop sync</strong> in the app.</li>
+                    <li>To sync again another day: open QuickBooks and your company file first, then open the Sync Accounting app and click <strong>Start sync</strong> again.</li>
+                </ul>
+
+                <hr>
+
+                <h2>Checklist – do you have everything?</h2>
+                <ul>
+                    <li>Windows 10 or 11 computer</li>
+                    <li>QuickBooks Desktop (2018 or newer) installed</li>
+                    <li>QuickBooks <strong>open</strong> with your company file when you sync</li>
+                    <li>In QuickBooks: <strong>Miscellaneous Expense</strong> account (for checks/withdrawals) and <strong>Sales</strong> account (for deposits)</li>
+                    <li>All three programs installed in order: Python, then QuickBooks SDK, then Sync Accounting app</li>
+                    <li>Signed in to the app with your email and password</li>
+                    <li>Settings filled in: QuickBooks company file path (.QBW), Folder to Monitor, QuickBooks Account Name, and <strong>Save SDK settings</strong> / <strong>Save Settings</strong> clicked</li>
+                    <li>Internet connection</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

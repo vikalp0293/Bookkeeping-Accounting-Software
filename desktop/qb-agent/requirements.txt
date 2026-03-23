@@ -1,0 +1,13 @@
+# QuickBooks Desktop Integration - Requirements
+# Install with: pip install -r requirements.txt
+
+# Windows COM interface for QuickBooks SDK (for direct SDK tests)
+pywin32>=306
+
+# Process checking (optional but recommended)
+psutil>=5.9.0
+
+# QuickBooks Web Connector Service (recommended for QB 2018)
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+

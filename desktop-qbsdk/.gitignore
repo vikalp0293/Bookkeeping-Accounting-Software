@@ -1,0 +1,16 @@
+node_modules/
+dist/
+frontend/dist/
+logs/
+*.log
+.DS_Store
+*.pyc
+__pycache__/
+venv/
+.env
+temp-embed-build/
+# Embedded Python is built on Windows via build:python-embed; don't commit the large runtime
+resources/python-portable/*
+!resources/python-portable/README.txt
+
+

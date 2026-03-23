@@ -1,0 +1,51 @@
+2026-01-30 13:46:36 - app.services.ocr_service - INFO - Processing PDF page 1 for OCR
+2026-01-30 13:46:42 - app.services.ocr_service - INFO - Processing PDF page 2 for OCR
+2026-01-30 13:46:47 - app.services.ocr_service - INFO - Processing PDF page 3 for OCR
+2026-01-30 13:47:11 - app.services.ocr_service - INFO - Processing PDF page 1 for OCR
+2026-01-30 13:47:15 - app.services.ocr_service - INFO - Processing PDF page 2 for OCR
+2026-01-30 13:47:20 - app.services.ocr_service - INFO - Processing PDF page 3 for OCR
+2026-01-30 13:47:24 - app.services.ocr_service - INFO - Processing PDF page 4 for OCR
+2026-01-30 13:47:29 - app.services.ocr_service - INFO - Processing PDF page 5 for OCR
+2026-01-30 13:47:33 - app.services.ocr_service - INFO - Processing PDF page 6 for OCR
+2026-01-30 13:47:37 - app.services.ocr_service - INFO - Processing PDF page 7 for OCR
+2026-01-30 13:47:42 - app.services.ocr_service - INFO - Processing PDF page 8 for OCR
+2026-01-30 13:47:49 - app.services.ocr_service - INFO - Processing PDF page 9 for OCR
+2026-01-30 13:47:53 - app.services.ocr_service - INFO - Processing PDF page 10 for OCR
+2026-01-30 13:47:57 - app.services.ocr_service - INFO - Processing PDF page 11 for OCR
+2026-01-30 13:48:03 - app.services.ocr_service - INFO - Processing PDF page 12 for OCR
+2026-01-30 13:48:08 - app.services.ocr_service - INFO - Processing PDF page 13 for OCR
+2026-01-30 13:48:14 - app.services.ocr_service - INFO - Processing PDF page 14 for OCR
+2026-01-30 13:50:50 - app.services.ocr_service - INFO - Processing PDF page 1 for OCR
+2026-01-30 13:50:56 - app.services.ocr_service - INFO - Processing PDF page 2 for OCR
+2026-01-30 13:51:04 - app.services.ocr_service - INFO - Processing PDF page 3 for OCR
+2026-01-30 13:51:11 - app.services.ocr_service - INFO - Processing PDF page 4 for OCR
+2026-01-30 13:51:17 - app.services.ocr_service - INFO - Processing PDF page 5 for OCR
+2026-01-30 13:51:23 - app.services.ocr_service - INFO - Processing PDF page 6 for OCR
+2026-01-30 13:51:29 - app.services.ocr_service - INFO - Processing PDF page 7 for OCR
+2026-01-30 13:51:35 - app.services.ocr_service - INFO - Processing PDF page 8 for OCR
+2026-01-30 13:51:42 - app.services.ocr_service - INFO - Processing PDF page 9 for OCR
+2026-01-30 13:51:47 - app.services.ocr_service - INFO - Processing PDF page 10 for OCR
+2026-01-30 13:51:53 - app.services.ocr_service - INFO - Processing PDF page 11 for OCR
+2026-01-30 13:52:01 - app.services.ocr_service - INFO - Processing PDF page 12 for OCR
+2026-01-30 13:52:08 - app.services.ocr_service - INFO - Processing PDF page 13 for OCR
+2026-01-30 13:52:15 - app.services.ocr_service - INFO - Processing PDF page 14 for OCR
+2026-01-30 13:59:59 - app.services.ocr_service - INFO - Processing PDF page 1 for OCR
+2026-01-30 14:00:05 - app.services.ocr_service - INFO - Processing PDF page 2 for OCR
+2026-01-30 14:00:13 - app.services.ocr_service - INFO - Processing PDF page 3 for OCR
+2026-01-30 14:00:20 - app.services.ocr_service - INFO - Processing PDF page 4 for OCR
+2026-01-30 14:00:26 - app.services.ocr_service - INFO - Processing PDF page 5 for OCR
+2026-01-30 14:00:32 - app.services.ocr_service - INFO - Processing PDF page 6 for OCR
+2026-01-30 14:00:38 - app.services.ocr_service - INFO - Processing PDF page 7 for OCR
+2026-01-30 14:00:45 - app.services.ocr_service - INFO - Processing PDF page 8 for OCR
+2026-01-30 14:00:51 - app.services.ocr_service - INFO - Processing PDF page 9 for OCR
+2026-01-30 14:00:57 - app.services.ocr_service - INFO - Processing PDF page 10 for OCR
+2026-01-30 14:01:05 - app.services.ocr_service - INFO - Processing PDF page 11 for OCR
+2026-01-30 14:01:15 - app.services.ocr_service - INFO - Processing PDF page 12 for OCR
+2026-01-30 14:01:25 - app.services.ocr_service - INFO - Processing PDF page 13 for OCR
+2026-01-30 14:01:34 - app.services.ocr_service - INFO - Processing PDF page 14 for OCR
+2026-02-10 12:39:07 - app.services.ocr_service - INFO - Starting OCR extraction for check: tmpkoqnolf7.png, type: image
+2026-02-10 12:39:22 - app.services.ocr_service - INFO - OCR extraction completed for check: tmpkoqnolf7.png, confidence: 92.86, text_length: 2041
+2026-02-10 12:39:49 - app.services.ocr_service - INFO - Starting OCR extraction for check: tmpzhbl08dq.png, type: image
+2026-02-10 12:40:07 - app.services.ocr_service - INFO - OCR extraction completed for check: tmpzhbl08dq.png, confidence: 93.80, text_length: 1822
+2026-02-10 12:40:21 - app.services.ocr_service - INFO - Starting OCR extraction for check: tmp3c0xhrki.png, type: image
+2026-02-10 12:40:34 - app.services.ocr_service - INFO - OCR extraction completed for check: tmp3c0xhrki.png, confidence: 92.97, text_length: 1061

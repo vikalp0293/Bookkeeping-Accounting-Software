@@ -1,0 +1,1136 @@
+2026-01-23 16:43:04 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 111
+2026-01-23 16:43:04 - app.services.extraction_service - INFO - Started extraction thread for file_id: 111, thread_id: 123145622753280
+2026-01-23 16:43:04 - app.services.extraction_service - INFO - Starting extraction for file_id: 111
+2026-01-23 16:43:05 - app.services.extraction_service - INFO - Updated timestamps for file_id: 111
+2026-01-23 16:43:05 - app.services.extraction_service - INFO - Extracting PDF: uploads/deda510a-aaf2-452b-8d3f-07726df5e9ba.pdf
+2026-01-23 16:43:05 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-23 16:43:13 - app.services.extraction_service - INFO - AI Classification: check (confidence: 1.00)
+2026-01-23 16:43:13 - app.services.extraction_service - INFO - AI classified as check (confidence: 1.00), using CheckExtractor
+2026-01-23 16:43:26 - app.services.extraction_service - INFO - Extraction completed (check or OCR data)
+2026-01-23 16:43:27 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 111
+2026-01-23 16:43:27 - app.services.extraction_service - INFO - Extraction task completed for file_id: 111
+2026-01-23 16:43:27 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 111
+2026-01-23 17:02:00 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 112
+2026-01-23 17:02:00 - app.services.extraction_service - INFO - Started extraction thread for file_id: 112, thread_id: 123145610850304
+2026-01-23 17:02:00 - app.services.extraction_service - INFO - Starting extraction for file_id: 112
+2026-01-23 17:02:00 - app.services.extraction_service - WARNING - Resetting stuck file 112 (1141.pdf): Extraction record has no updated_at timestamp
+2026-01-23 17:02:00 - app.services.extraction_service - INFO - Updated timestamps for file_id: 112
+2026-01-23 17:02:00 - app.services.extraction_service - INFO - Reset 1 stuck file(s)
+2026-01-23 17:02:00 - app.services.extraction_service - INFO - Extracting PDF: uploads/89a73f50-ee9d-460e-bada-c746d5f9936a.pdf
+2026-01-23 17:02:00 - app.services.extraction_service - INFO - Extraction cancelled for file_id: 112
+2026-01-23 17:02:00 - app.services.extraction_service - INFO - Extraction task completed for file_id: 112
+2026-01-23 17:02:00 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 112
+2026-01-23 17:02:01 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 112
+2026-01-23 17:02:01 - app.services.extraction_service - INFO - Started extraction thread for file_id: 112, thread_id: 123145610850304
+2026-01-23 17:02:01 - app.services.extraction_service - INFO - Starting extraction for file_id: 112
+2026-01-23 17:02:02 - app.services.extraction_service - INFO - Updated timestamps for file_id: 112
+2026-01-23 17:02:02 - app.services.extraction_service - INFO - Extracting PDF: uploads/89a73f50-ee9d-460e-bada-c746d5f9936a.pdf
+2026-01-23 17:02:02 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-23 17:02:09 - app.services.extraction_service - INFO - AI Classification: check (confidence: 1.00)
+2026-01-23 17:02:09 - app.services.extraction_service - INFO - AI classified as check (confidence: 1.00), using CheckExtractor
+2026-01-23 17:02:13 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 113
+2026-01-23 17:02:13 - app.services.extraction_service - INFO - Started extraction thread for file_id: 113, thread_id: 123145594060800
+2026-01-23 17:02:13 - app.services.extraction_service - INFO - Starting extraction for file_id: 113
+2026-01-23 17:02:14 - app.services.extraction_service - INFO - Updated timestamps for file_id: 113
+2026-01-23 17:02:14 - app.services.extraction_service - INFO - Extracting PDF: uploads/3713c54e-3451-4ab1-984c-5d121c490d58.pdf
+2026-01-23 17:02:14 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-23 17:02:16 - app.services.extraction_service - INFO - Extraction completed (check or OCR data)
+2026-01-23 17:02:18 - app.services.extraction_service - INFO - Added file 112 to review queue: other
+2026-01-23 17:02:18 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 112
+2026-01-23 17:02:18 - app.services.extraction_service - INFO - Extraction task completed for file_id: 112
+2026-01-23 17:02:18 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 112
+2026-01-23 17:02:20 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-23 17:02:20 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-23 17:02:20 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-23 17:02:21 - app.services.extraction_service - INFO - PDF extraction successful: 106 transactions (deposits: True, withdrawals: True)
+2026-01-23 17:02:21 - app.services.extraction_service - INFO - Extraction successful: 106 transactions extracted
+2026-01-23 17:02:37 - app.services.extraction_service - WARNING - Skipping payee creation for transaction 104: '182,561.69' appears to be an amount, not a payee name
+2026-01-23 17:02:37 - app.services.extraction_service - WARNING - Skipping payee creation for transaction 105: '185,135.18' appears to be an amount, not a payee name
+2026-01-23 17:02:38 - app.services.extraction_service - INFO - Added file 113 to review queue: other
+2026-01-23 17:02:38 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 113
+2026-01-23 17:02:38 - app.services.extraction_service - INFO - Extraction task completed for file_id: 113
+2026-01-23 17:02:38 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 113
+2026-01-23 17:03:28 - app.services.extraction_service - INFO - Filtered 8 balance activity entries from file_id 113
+2026-01-23 17:03:29 - app.services.extraction_service - INFO - Filtered 8 balance activity entries from file_id 113
+2026-01-28 13:04:03 - app.services.extraction_service - INFO - Filtered 8 balance activity entries from file_id 113
+2026-01-28 13:04:04 - app.services.extraction_service - INFO - Filtered 8 balance activity entries from file_id 113
+2026-01-28 13:19:59 - app.services.extraction_service - INFO - Filtered 8 balance activity entries from file_id 113
+2026-01-28 13:19:59 - app.services.extraction_service - INFO - Filtered 8 balance activity entries from file_id 113
+2026-01-28 13:22:15 - app.services.extraction_service - INFO - Filtered 8 balance activity entries from file_id 113
+2026-01-28 13:22:16 - app.services.extraction_service - INFO - Filtered 8 balance activity entries from file_id 113
+2026-01-28 14:51:49 - app.services.extraction_service - INFO - Filtered 8 balance activity entries from file_id 113
+2026-01-28 14:51:50 - app.services.extraction_service - INFO - Filtered 8 balance activity entries from file_id 113
+2026-01-29 11:37:01 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 114
+2026-01-29 11:37:02 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 114
+2026-01-29 11:38:51 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 115
+2026-01-29 11:38:51 - app.services.extraction_service - INFO - Started extraction thread for file_id: 115, thread_id: 123145556660224
+2026-01-29 11:38:51 - app.services.extraction_service - INFO - Starting extraction for file_id: 115
+2026-01-29 11:38:51 - app.services.extraction_service - WARNING - Resetting stuck file 115 (Huntington Checking X4497 202506.pdf): Extraction record has no updated_at timestamp
+2026-01-29 11:38:51 - app.services.extraction_service - INFO - Updated timestamps for file_id: 115
+2026-01-29 11:38:51 - app.services.extraction_service - INFO - Reset 1 stuck file(s)
+2026-01-29 11:38:51 - app.services.extraction_service - INFO - Extracting PDF: uploads/ce51fa6b-1be8-439c-b14d-c39a8791d597.pdf
+2026-01-29 11:38:51 - app.services.extraction_service - INFO - Extraction cancelled for file_id: 115
+2026-01-29 11:38:51 - app.services.extraction_service - INFO - Extraction task completed for file_id: 115
+2026-01-29 11:38:51 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 115
+2026-01-29 11:38:52 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 115
+2026-01-29 11:38:52 - app.services.extraction_service - INFO - Started extraction thread for file_id: 115, thread_id: 123145556660224
+2026-01-29 11:38:52 - app.services.extraction_service - INFO - Starting extraction for file_id: 115
+2026-01-29 11:38:52 - app.services.extraction_service - INFO - Updated timestamps for file_id: 115
+2026-01-29 11:38:52 - app.services.extraction_service - INFO - Extracting PDF: uploads/ce51fa6b-1be8-439c-b14d-c39a8791d597.pdf
+2026-01-29 11:38:52 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 11:39:00 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-29 11:39:00 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-29 11:39:00 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 11:39:02 - app.services.extraction_service - INFO - PDF extraction successful: 119 transactions (deposits: True, withdrawals: True)
+2026-01-29 11:39:02 - app.services.extraction_service - INFO - Extraction successful: 119 transactions extracted
+2026-01-29 11:39:10 - app.services.extraction_service - INFO - Added file 115 to review queue: other
+2026-01-29 11:39:11 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 115
+2026-01-29 11:39:11 - app.services.extraction_service - INFO - Extraction task completed for file_id: 115
+2026-01-29 11:39:11 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 115
+2026-01-29 11:48:03 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 116
+2026-01-29 11:48:03 - app.services.extraction_service - INFO - Started extraction thread for file_id: 116, thread_id: 123145413697536
+2026-01-29 11:48:03 - app.services.extraction_service - INFO - Starting extraction for file_id: 116
+2026-01-29 11:48:03 - app.services.extraction_service - INFO - Updated timestamps for file_id: 116
+2026-01-29 11:48:03 - app.services.extraction_service - INFO - Extracting PDF: uploads/78d69307-d43b-42d0-8c3d-e908c535591b.pdf
+2026-01-29 11:48:03 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 11:48:11 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-29 11:48:11 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-29 11:48:11 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 11:48:12 - app.services.extraction_service - INFO - PDF extraction successful: 119 transactions (deposits: True, withdrawals: True)
+2026-01-29 11:48:13 - app.services.extraction_service - INFO - Extraction successful: 119 transactions extracted
+2026-01-29 11:48:23 - app.services.extraction_service - INFO - Added file 116 to review queue: other
+2026-01-29 11:48:23 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 116
+2026-01-29 11:48:23 - app.services.extraction_service - INFO - Extraction task completed for file_id: 116
+2026-01-29 11:48:23 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 116
+2026-01-29 11:48:26 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 114
+2026-01-29 11:48:27 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 114
+2026-01-29 12:03:22 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 117
+2026-01-29 12:03:22 - app.services.extraction_service - INFO - Started extraction thread for file_id: 117, thread_id: 123145374027776
+2026-01-29 12:03:22 - app.services.extraction_service - INFO - Starting extraction for file_id: 117
+2026-01-29 12:03:22 - app.services.extraction_service - INFO - Updated timestamps for file_id: 117
+2026-01-29 12:03:22 - app.services.extraction_service - INFO - Extracting PDF: uploads/bd33e09a-a73c-469a-9834-527ccc735e34.pdf
+2026-01-29 12:03:22 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 12:03:30 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-29 12:03:30 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-29 12:03:30 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 12:03:32 - app.services.extraction_service - INFO - PDF extraction successful: 119 transactions (deposits: True, withdrawals: True)
+2026-01-29 12:03:32 - app.services.extraction_service - INFO - Extraction successful: 119 transactions extracted
+2026-01-29 12:03:51 - app.services.extraction_service - INFO - Added file 117 to review queue: other
+2026-01-29 12:03:51 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 117
+2026-01-29 12:03:51 - app.services.extraction_service - INFO - Extraction task completed for file_id: 117
+2026-01-29 12:03:51 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 117
+2026-01-29 12:03:56 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 117
+2026-01-29 12:03:57 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 117
+2026-01-29 12:21:54 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 117
+2026-01-29 12:21:55 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 117
+2026-01-29 13:00:00 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 117
+2026-01-29 13:00:01 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 117
+2026-01-29 13:13:22 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 118
+2026-01-29 13:13:22 - app.services.extraction_service - INFO - Started extraction thread for file_id: 118, thread_id: 123145549594624
+2026-01-29 13:13:22 - app.services.extraction_service - INFO - Starting extraction for file_id: 118
+2026-01-29 13:13:22 - app.services.extraction_service - INFO - Updated timestamps for file_id: 118
+2026-01-29 13:13:22 - app.services.extraction_service - INFO - Extracting PDF: uploads/dd63371f-8e45-4429-bda3-dfd0a0ab5d1d.pdf
+2026-01-29 13:13:22 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 13:13:28 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-29 13:13:28 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-29 13:13:28 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 13:13:52 - app.services.extraction_service - INFO - PDF extraction successful: 119 transactions (deposits: True, withdrawals: True)
+2026-01-29 13:13:52 - app.services.extraction_service - INFO - Extraction successful: 119 transactions extracted
+2026-01-29 13:14:12 - app.services.extraction_service - INFO - Added file 118 to review queue: other
+2026-01-29 13:14:13 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 118
+2026-01-29 13:14:13 - app.services.extraction_service - INFO - Extraction task completed for file_id: 118
+2026-01-29 13:14:13 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 118
+2026-01-29 13:14:16 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 118
+2026-01-29 13:14:16 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 118
+2026-01-29 13:33:34 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 118
+2026-01-29 13:33:36 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 118
+2026-01-29 13:35:52 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 118
+2026-01-29 13:35:53 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 118
+2026-01-29 13:36:03 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 118
+2026-01-29 13:36:04 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 118
+2026-01-29 13:43:07 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 119
+2026-01-29 13:43:07 - app.services.extraction_service - INFO - Started extraction thread for file_id: 119, thread_id: 123145503141888
+2026-01-29 13:43:07 - app.services.extraction_service - INFO - Starting extraction for file_id: 119
+2026-01-29 13:43:07 - app.services.extraction_service - INFO - Updated timestamps for file_id: 119
+2026-01-29 13:43:07 - app.services.extraction_service - INFO - Extracting PDF: uploads/29f27ab6-2164-44bd-a977-9679b58225f1.pdf
+2026-01-29 13:43:07 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 13:43:14 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-29 13:43:14 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-29 13:43:14 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 13:43:34 - app.services.extraction_service - INFO - PDF extraction successful: 119 transactions (deposits: True, withdrawals: True)
+2026-01-29 13:43:34 - app.services.extraction_service - INFO - Extraction successful: 119 transactions extracted
+2026-01-29 13:43:45 - app.services.extraction_service - INFO - Added file 119 to review queue: other
+2026-01-29 13:43:45 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 119
+2026-01-29 13:43:45 - app.services.extraction_service - INFO - Extraction task completed for file_id: 119
+2026-01-29 13:43:45 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 119
+2026-01-29 13:43:52 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 119
+2026-01-29 13:43:52 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 119
+2026-01-29 13:49:47 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 120
+2026-01-29 13:49:47 - app.services.extraction_service - INFO - Started extraction thread for file_id: 120, thread_id: 123145506119680
+2026-01-29 13:49:47 - app.services.extraction_service - INFO - Starting extraction for file_id: 120
+2026-01-29 13:49:48 - app.services.extraction_service - INFO - Updated timestamps for file_id: 120
+2026-01-29 13:49:48 - app.services.extraction_service - INFO - Extracting PDF: uploads/decbd3ac-da17-4023-ab38-99b60fe6d214.pdf
+2026-01-29 13:49:48 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 13:49:54 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-29 13:49:54 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-29 13:49:54 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 13:50:12 - app.services.extraction_service - INFO - PDF extraction successful: 119 transactions (deposits: True, withdrawals: True)
+2026-01-29 13:50:12 - app.services.extraction_service - INFO - Extraction successful: 119 transactions extracted
+2026-01-29 13:50:20 - app.services.extraction_service - INFO - Added file 120 to review queue: other
+2026-01-29 13:50:20 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 120
+2026-01-29 13:50:20 - app.services.extraction_service - INFO - Extraction task completed for file_id: 120
+2026-01-29 13:50:20 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 120
+2026-01-29 13:50:24 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 120
+2026-01-29 13:50:25 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 120
+2026-01-29 14:00:04 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 121
+2026-01-29 14:00:04 - app.services.extraction_service - INFO - Started extraction thread for file_id: 121, thread_id: 123145462181888
+2026-01-29 14:00:04 - app.services.extraction_service - INFO - Starting extraction for file_id: 121
+2026-01-29 14:00:05 - app.services.extraction_service - INFO - Updated timestamps for file_id: 121
+2026-01-29 14:00:05 - app.services.extraction_service - INFO - Extracting PDF: uploads/7e3cf744-d01f-4fee-b8c0-baf1c87c838a.pdf
+2026-01-29 14:00:05 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 14:00:12 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-29 14:00:12 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-29 14:00:12 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 14:00:31 - app.services.extraction_service - INFO - PDF extraction successful: 117 transactions (deposits: True, withdrawals: True)
+2026-01-29 14:00:31 - app.services.extraction_service - INFO - Extraction successful: 117 transactions extracted
+2026-01-29 14:00:41 - app.services.extraction_service - INFO - Added file 121 to review queue: other
+2026-01-29 14:00:42 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 121
+2026-01-29 14:00:42 - app.services.extraction_service - INFO - Extraction task completed for file_id: 121
+2026-01-29 14:00:42 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 121
+2026-01-29 14:00:47 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 121
+2026-01-29 14:00:48 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 121
+2026-01-29 14:05:30 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 121
+2026-01-29 14:05:30 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 121
+2026-01-29 14:14:50 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 121
+2026-01-29 14:14:51 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 121
+2026-01-29 14:15:05 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 122
+2026-01-29 14:15:05 - app.services.extraction_service - INFO - Started extraction thread for file_id: 122, thread_id: 123145422245888
+2026-01-29 14:15:05 - app.services.extraction_service - INFO - Starting extraction for file_id: 122
+2026-01-29 14:15:05 - app.services.extraction_service - INFO - Updated timestamps for file_id: 122
+2026-01-29 14:15:06 - app.services.extraction_service - INFO - Extracting PDF: uploads/ef4f1fe2-bbb6-42fb-91c6-106c29511c19.pdf
+2026-01-29 14:15:06 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 14:15:14 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-29 14:15:14 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-29 14:15:14 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 14:15:56 - app.services.extraction_service - INFO - PDF extraction successful: 156 transactions (deposits: True, withdrawals: True)
+2026-01-29 14:15:56 - app.services.extraction_service - INFO - Extraction successful: 156 transactions extracted
+2026-01-29 14:16:13 - app.services.extraction_service - INFO - Added file 122 to review queue: other
+2026-01-29 14:16:14 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 122
+2026-01-29 14:16:14 - app.services.extraction_service - INFO - Extraction task completed for file_id: 122
+2026-01-29 14:16:14 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 122
+2026-01-29 14:16:27 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 122
+2026-01-29 14:16:28 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 122
+2026-01-29 14:47:58 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 122
+2026-01-29 14:48:00 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 122
+2026-01-29 14:48:02 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 121
+2026-01-29 14:48:03 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 121
+2026-01-29 15:39:33 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 123
+2026-01-29 15:39:33 - app.services.extraction_service - INFO - Started extraction thread for file_id: 123, thread_id: 123145405456384
+2026-01-29 15:39:33 - app.services.extraction_service - INFO - Starting extraction for file_id: 123
+2026-01-29 15:39:34 - app.services.extraction_service - INFO - Updated timestamps for file_id: 123
+2026-01-29 15:39:34 - app.services.extraction_service - INFO - Extracting PDF: uploads/dfc21c6c-71fa-46c4-bf65-73bb02ca8529.pdf
+2026-01-29 15:39:34 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 15:39:41 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-29 15:39:41 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-29 15:39:41 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 15:40:14 - app.services.extraction_service - INFO - PDF extraction successful: 132 transactions (deposits: True, withdrawals: True)
+2026-01-29 15:40:14 - app.services.extraction_service - INFO - Extraction successful: 132 transactions extracted
+2026-01-29 15:40:28 - app.services.extraction_service - INFO - Added file 123 to review queue: other
+2026-01-29 15:40:28 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 123
+2026-01-29 15:40:28 - app.services.extraction_service - INFO - Extraction task completed for file_id: 123
+2026-01-29 15:40:28 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 123
+2026-01-29 15:43:11 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 124
+2026-01-29 15:43:11 - app.services.extraction_service - INFO - Started extraction thread for file_id: 124, thread_id: 123145367584768
+2026-01-29 15:43:11 - app.services.extraction_service - INFO - Starting extraction for file_id: 124
+2026-01-29 15:43:12 - app.services.extraction_service - INFO - Updated timestamps for file_id: 124
+2026-01-29 15:43:12 - app.services.extraction_service - INFO - Extracting PDF: uploads/42426d3e-54f7-484a-8ab2-097e86e86bc2.pdf
+2026-01-29 15:43:12 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 15:43:18 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-29 15:43:18 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-29 15:43:18 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 15:43:21 - app.services.extraction_service - INFO - PDF extraction incomplete (deposits: True, withdrawals: False, count: 28), trying AI extraction...
+2026-01-29 15:45:10 - app.services.extraction_service - INFO - AI extraction successful: 103 transactions (withdrawals: True)
+2026-01-29 15:45:10 - app.services.extraction_service - INFO - Extraction successful: 103 transactions extracted
+2026-01-29 15:45:10 - app.services.extraction_service - INFO - Missing fields detected: ['transaction_9: payee', 'transaction_32: payee']
+2026-01-29 15:45:35 - app.services.extraction_service - INFO - Added file 124 to review queue: missing_fields
+2026-01-29 15:45:35 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 124
+2026-01-29 15:45:35 - app.services.extraction_service - INFO - Extraction task completed for file_id: 124
+2026-01-29 15:45:35 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 124
+2026-01-29 15:45:59 - app.services.extraction_service - INFO - Filtered 46 balance activity entries from file_id 124
+2026-01-29 15:46:00 - app.services.extraction_service - INFO - Filtered 46 balance activity entries from file_id 124
+2026-01-29 16:02:23 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 125
+2026-01-29 16:02:23 - app.services.extraction_service - INFO - Started extraction thread for file_id: 125, thread_id: 123145584570368
+2026-01-29 16:02:23 - app.services.extraction_service - INFO - Starting extraction for file_id: 125
+2026-01-29 16:02:24 - app.services.extraction_service - INFO - Updated timestamps for file_id: 125
+2026-01-29 16:02:24 - app.services.extraction_service - INFO - Extracting PDF: uploads/bb66eaa2-e119-40b0-b5e1-a023f532f2ba.pdf
+2026-01-29 16:02:24 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 16:02:30 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-29 16:02:30 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-29 16:02:30 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 16:02:50 - app.services.extraction_service - INFO - PDF extraction successful: 68 transactions (deposits: True, withdrawals: True)
+2026-01-29 16:02:50 - app.services.extraction_service - INFO - Extraction successful: 68 transactions extracted
+2026-01-29 16:02:51 - app.services.extraction_service - INFO - Missing fields detected: ['transaction_62: payee', 'transaction_66: payee']
+2026-01-29 16:02:59 - app.services.extraction_service - INFO - Added file 125 to review queue: missing_fields
+2026-01-29 16:02:59 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 125
+2026-01-29 16:02:59 - app.services.extraction_service - INFO - Extraction task completed for file_id: 125
+2026-01-29 16:02:59 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 125
+2026-01-29 16:39:13 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 126
+2026-01-29 16:39:13 - app.services.extraction_service - INFO - Started extraction thread for file_id: 126, thread_id: 123145451978752
+2026-01-29 16:39:13 - app.services.extraction_service - INFO - Starting extraction for file_id: 126
+2026-01-29 16:39:13 - app.services.extraction_service - INFO - Updated timestamps for file_id: 126
+2026-01-29 16:39:13 - app.services.extraction_service - INFO - Extracting PDF: uploads/4174e63a-426d-49ae-b956-7e304df1e9d6.pdf
+2026-01-29 16:39:13 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 16:39:20 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-29 16:39:20 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-29 16:39:20 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 16:39:55 - app.services.extraction_service - INFO - PDF extraction successful: 76 transactions (deposits: True, withdrawals: True)
+2026-01-29 16:39:55 - app.services.extraction_service - INFO - Extraction successful: 76 transactions extracted
+2026-01-29 16:40:03 - app.services.extraction_service - INFO - Added file 126 to review queue: other
+2026-01-29 16:40:03 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 126
+2026-01-29 16:40:03 - app.services.extraction_service - INFO - Extraction task completed for file_id: 126
+2026-01-29 16:40:03 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 126
+2026-01-29 16:49:49 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 127
+2026-01-29 16:49:49 - app.services.extraction_service - INFO - Started extraction thread for file_id: 127, thread_id: 123145468768256
+2026-01-29 16:49:49 - app.services.extraction_service - INFO - Starting extraction for file_id: 127
+2026-01-29 16:49:49 - app.services.extraction_service - INFO - Updated timestamps for file_id: 127
+2026-01-29 16:49:49 - app.services.extraction_service - INFO - Extracting PDF: uploads/da1c17bb-869e-4143-8072-9d4b255efad1.pdf
+2026-01-29 16:49:49 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 16:49:55 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 0.95)
+2026-01-29 16:49:55 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 0.95)
+2026-01-29 16:49:55 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 16:49:58 - app.services.extraction_service - INFO - PDF extraction incomplete (deposits: True, withdrawals: False, count: 3), trying AI extraction...
+2026-01-29 16:50:22 - app.services.extraction_service - INFO - AI extraction successful: 10 transactions (withdrawals: True)
+2026-01-29 16:50:22 - app.services.extraction_service - INFO - Extraction successful: 10 transactions extracted
+2026-01-29 16:50:22 - app.services.extraction_service - INFO - Missing fields detected: ['transaction_0: payee', 'transaction_1: payee', 'transaction_2: payee', 'transaction_3: payee', 'transaction_4: payee', 'transaction_5: payee', 'transaction_6: payee', 'transaction_7: payee', 'transaction_8: payee', 'transaction_9: payee']
+2026-01-29 16:50:22 - app.services.extraction_service - INFO - Added file 127 to review queue: missing_fields
+2026-01-29 16:50:23 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 127
+2026-01-29 16:50:23 - app.services.extraction_service - INFO - Extraction task completed for file_id: 127
+2026-01-29 16:50:23 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 127
+2026-01-29 17:30:34 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 128
+2026-01-29 17:30:34 - app.services.extraction_service - INFO - Started extraction thread for file_id: 128, thread_id: 123145434652672
+2026-01-29 17:30:34 - app.services.extraction_service - INFO - Starting extraction for file_id: 128
+2026-01-29 17:30:34 - app.services.extraction_service - INFO - Updated timestamps for file_id: 128
+2026-01-29 17:30:34 - app.services.extraction_service - INFO - Extracting PDF: uploads/17a6f376-daea-478a-a426-35b307161072.pdf
+2026-01-29 17:30:34 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 17:30:39 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-29 17:30:39 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-29 17:30:39 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 17:30:39 - app.services.extraction_service - INFO - PDF extraction successful: 0 transactions (deposits: False, withdrawals: False)
+2026-01-29 17:30:39 - app.services.extraction_service - INFO - Extraction successful: 0 transactions extracted
+2026-01-29 17:30:39 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 128
+2026-01-29 17:30:39 - app.services.extraction_service - INFO - Extraction task completed for file_id: 128
+2026-01-29 17:30:39 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 128
+2026-01-29 17:32:34 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 129
+2026-01-29 17:32:34 - app.services.extraction_service - INFO - Started extraction thread for file_id: 129, thread_id: 123145451442176
+2026-01-29 17:32:34 - app.services.extraction_service - INFO - Starting extraction for file_id: 129
+2026-01-29 17:32:35 - app.services.extraction_service - INFO - Updated timestamps for file_id: 129
+2026-01-29 17:32:35 - app.services.extraction_service - INFO - Extracting PDF: uploads/20ac8eeb-b668-4ec7-84b8-8294ff76db39.pdf
+2026-01-29 17:32:35 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 17:32:41 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-29 17:32:41 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-29 17:32:41 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 17:32:41 - app.services.extraction_service - INFO - PDF extraction successful: 0 transactions (deposits: False, withdrawals: False)
+2026-01-29 17:32:41 - app.services.extraction_service - INFO - Extraction successful: 0 transactions extracted
+2026-01-29 17:32:41 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 129
+2026-01-29 17:32:41 - app.services.extraction_service - INFO - Extraction task completed for file_id: 129
+2026-01-29 17:32:41 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 129
+2026-01-29 17:47:24 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 130
+2026-01-29 17:47:24 - app.services.extraction_service - INFO - Started extraction thread for file_id: 130, thread_id: 123145432907776
+2026-01-29 17:47:24 - app.services.extraction_service - INFO - Starting extraction for file_id: 130
+2026-01-29 17:47:24 - app.services.extraction_service - INFO - Updated timestamps for file_id: 130
+2026-01-29 17:47:25 - app.services.extraction_service - INFO - Extracting PDF: uploads/b803d0e6-ce39-4e94-bd6c-201788b64877.pdf
+2026-01-29 17:47:25 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 17:47:31 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-29 17:47:31 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-29 17:47:31 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 17:47:39 - app.services.extraction_service - INFO - PDF extraction incomplete (deposits: True, withdrawals: False, count: 27), trying AI extraction...
+2026-01-29 17:50:29 - app.services.extraction_service - INFO - AI extraction successful: 67 transactions (withdrawals: True)
+2026-01-29 17:50:29 - app.services.extraction_service - INFO - Extraction successful: 67 transactions extracted
+2026-01-29 17:50:29 - app.services.extraction_service - INFO - Missing fields detected: ['transaction_0: payee', 'transaction_1: payee', 'transaction_2: payee', 'transaction_3: payee', 'transaction_4: payee', 'transaction_5: payee', 'transaction_6: payee', 'transaction_7: payee', 'transaction_8: payee', 'transaction_9: payee', 'transaction_10: payee', 'transaction_11: payee', 'transaction_12: payee', 'transaction_13: payee', 'transaction_14: payee', 'transaction_15: payee', 'transaction_16: payee', 'transaction_17: payee', 'transaction_18: payee', 'transaction_19: payee', 'transaction_20: payee', 'transaction_21: payee', 'transaction_22: payee', 'transaction_23: payee', 'transaction_24: payee', 'transaction_25: payee', 'transaction_26: payee', 'transaction_27: payee']
+2026-01-29 17:50:41 - app.services.extraction_service - INFO - Added file 130 to review queue: missing_fields
+2026-01-29 17:50:41 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 130
+2026-01-29 17:50:41 - app.services.extraction_service - INFO - Extraction task completed for file_id: 130
+2026-01-29 17:50:41 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 130
+2026-01-29 17:51:00 - app.services.extraction_service - INFO - Filtered 39 balance activity entries from file_id 130
+2026-01-29 17:51:01 - app.services.extraction_service - INFO - Filtered 39 balance activity entries from file_id 130
+2026-01-29 17:52:13 - app.services.extraction_service - INFO - Filtered 39 balance activity entries from file_id 130
+2026-01-29 17:52:14 - app.services.extraction_service - INFO - Filtered 39 balance activity entries from file_id 130
+2026-01-29 17:55:30 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 131
+2026-01-29 17:55:30 - app.services.extraction_service - INFO - Started extraction thread for file_id: 131, thread_id: 123145447755776
+2026-01-29 17:55:30 - app.services.extraction_service - INFO - Starting extraction for file_id: 131
+2026-01-29 17:55:30 - app.services.extraction_service - INFO - Updated timestamps for file_id: 131
+2026-01-29 17:55:30 - app.services.extraction_service - INFO - Extracting PDF: uploads/376b3083-a279-4a0b-b1bd-2fc8f6a899f3.pdf
+2026-01-29 17:55:30 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 17:55:36 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-29 17:55:36 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-29 17:55:36 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 17:55:44 - app.services.extraction_service - INFO - PDF extraction incomplete (deposits: True, withdrawals: False, count: 27), trying AI extraction...
+2026-01-29 17:58:48 - app.services.extraction_service - INFO - AI extraction successful: 67 transactions (withdrawals: True)
+2026-01-29 17:58:48 - app.services.extraction_service - INFO - Extraction successful: 67 transactions extracted
+2026-01-29 17:58:48 - app.services.extraction_service - INFO - Missing fields detected: ['transaction_0: payee', 'transaction_1: payee', 'transaction_2: payee', 'transaction_3: payee', 'transaction_4: payee', 'transaction_5: payee', 'transaction_6: payee', 'transaction_7: payee', 'transaction_8: payee', 'transaction_9: payee', 'transaction_10: payee', 'transaction_11: payee', 'transaction_12: payee', 'transaction_13: payee', 'transaction_14: payee', 'transaction_15: payee', 'transaction_16: payee', 'transaction_17: payee', 'transaction_18: payee', 'transaction_19: payee', 'transaction_20: payee', 'transaction_21: payee', 'transaction_22: payee', 'transaction_23: payee', 'transaction_24: payee', 'transaction_25: payee', 'transaction_26: payee', 'transaction_27: payee', 'transaction_28: payee', 'transaction_29: payee', 'transaction_30: payee', 'transaction_31: payee', 'transaction_32: payee', 'transaction_33: payee', 'transaction_34: payee', 'transaction_35: payee', 'transaction_36: payee', 'transaction_37: payee', 'transaction_38: payee', 'transaction_39: payee', 'transaction_40: payee', 'transaction_41: payee', 'transaction_42: payee', 'transaction_43: payee', 'transaction_44: payee', 'transaction_45: payee', 'transaction_46: payee', 'transaction_47: payee', 'transaction_48: payee', 'transaction_49: payee', 'transaction_50: payee', 'transaction_51: payee', 'transaction_52: payee', 'transaction_53: payee', 'transaction_54: payee', 'transaction_55: payee', 'transaction_56: payee', 'transaction_57: payee', 'transaction_58: payee', 'transaction_59: payee', 'transaction_60: payee', 'transaction_61: payee', 'transaction_62: payee', 'transaction_63: payee', 'transaction_64: payee', 'transaction_65: payee', 'transaction_66: payee']
+2026-01-29 17:58:49 - app.services.extraction_service - INFO - Added file 131 to review queue: missing_fields
+2026-01-29 17:58:49 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 131
+2026-01-29 17:58:49 - app.services.extraction_service - INFO - Extraction task completed for file_id: 131
+2026-01-29 17:58:49 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 131
+2026-01-29 17:59:08 - app.services.extraction_service - INFO - Filtered 39 balance activity entries from file_id 131
+2026-01-29 17:59:09 - app.services.extraction_service - INFO - Filtered 39 balance activity entries from file_id 131
+2026-01-29 18:03:05 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 132
+2026-01-29 18:03:05 - app.services.extraction_service - INFO - Started extraction thread for file_id: 132, thread_id: 123145489195008
+2026-01-29 18:03:05 - app.services.extraction_service - INFO - Starting extraction for file_id: 132
+2026-01-29 18:03:05 - app.services.extraction_service - INFO - Updated timestamps for file_id: 132
+2026-01-29 18:03:05 - app.services.extraction_service - INFO - Extracting PDF: uploads/277b9974-b007-4924-a8d5-ea50461151d5.pdf
+2026-01-29 18:03:06 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 18:03:13 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-29 18:03:13 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-29 18:03:13 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 18:07:31 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 133
+2026-01-29 18:07:31 - app.services.extraction_service - INFO - Started extraction thread for file_id: 133, thread_id: 123145403981824
+2026-01-29 18:07:31 - app.services.extraction_service - INFO - Starting extraction for file_id: 133
+2026-01-29 18:07:31 - app.services.extraction_service - INFO - Updated timestamps for file_id: 133
+2026-01-29 18:07:32 - app.services.extraction_service - INFO - Extracting PDF: uploads/410648aa-18d7-4100-a432-55dea2654894.pdf
+2026-01-29 18:07:32 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 18:07:38 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-29 18:07:38 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-29 18:07:38 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 18:07:53 - app.services.extraction_service - INFO - PDF extraction successful: 27 transactions (deposits: True, withdrawals: True)
+2026-01-29 18:07:53 - app.services.extraction_service - INFO - Extraction successful: 27 transactions extracted
+2026-01-29 18:08:03 - app.services.extraction_service - INFO - Added file 133 to review queue: other
+2026-01-29 18:08:03 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 133
+2026-01-29 18:08:03 - app.services.extraction_service - INFO - Extraction task completed for file_id: 133
+2026-01-29 18:08:03 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 133
+2026-01-29 18:08:34 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 133
+2026-01-29 18:08:35 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 133
+2026-01-29 18:11:36 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 133
+2026-01-29 18:11:36 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 133
+2026-01-29 18:18:17 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 134
+2026-01-29 18:18:17 - app.services.extraction_service - INFO - Started extraction thread for file_id: 134, thread_id: 123145471090688
+2026-01-29 18:18:17 - app.services.extraction_service - INFO - Starting extraction for file_id: 134
+2026-01-29 18:18:17 - app.services.extraction_service - INFO - Updated timestamps for file_id: 134
+2026-01-29 18:18:17 - app.services.extraction_service - INFO - Extracting PDF: uploads/df441eec-9b40-45b2-9daf-5e6f0aadf334.pdf
+2026-01-29 18:18:17 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 18:18:23 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-29 18:18:23 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-29 18:18:23 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 18:18:30 - app.services.extraction_service - INFO - PDF extraction successful: 21 transactions (deposits: True, withdrawals: True)
+2026-01-29 18:18:30 - app.services.extraction_service - INFO - Extraction successful: 21 transactions extracted
+2026-01-29 18:18:33 - app.services.extraction_service - INFO - Added file 134 to review queue: other
+2026-01-29 18:18:34 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 134
+2026-01-29 18:18:34 - app.services.extraction_service - INFO - Extraction task completed for file_id: 134
+2026-01-29 18:18:34 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 134
+2026-01-29 18:18:56 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 134
+2026-01-29 18:18:56 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 134
+2026-01-29 18:19:24 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 134
+2026-01-29 18:19:25 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 134
+2026-01-29 18:25:49 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 135
+2026-01-29 18:25:49 - app.services.extraction_service - INFO - Started extraction thread for file_id: 135, thread_id: 123145576497152
+2026-01-29 18:25:49 - app.services.extraction_service - INFO - Starting extraction for file_id: 135
+2026-01-29 18:25:50 - app.services.extraction_service - INFO - Updated timestamps for file_id: 135
+2026-01-29 18:25:50 - app.services.extraction_service - INFO - Extracting PDF: uploads/3b9f325d-1036-47ad-a228-3d3c7c392deb.pdf
+2026-01-29 18:25:50 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 18:25:56 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-29 18:25:56 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-29 18:25:56 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 18:26:04 - app.services.extraction_service - INFO - PDF extraction successful: 21 transactions (deposits: True, withdrawals: True)
+2026-01-29 18:26:04 - app.services.extraction_service - INFO - Extraction successful: 21 transactions extracted
+2026-01-29 18:26:07 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 135
+2026-01-29 18:26:07 - app.services.extraction_service - INFO - Extraction task completed for file_id: 135
+2026-01-29 18:26:07 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 135
+2026-01-29 18:26:17 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 135
+2026-01-29 18:26:17 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 135
+2026-01-29 18:26:38 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 135
+2026-01-29 18:26:39 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 135
+2026-01-29 18:26:57 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 135
+2026-01-29 18:26:58 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 135
+2026-01-29 18:29:11 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 136
+2026-01-29 18:29:11 - app.services.extraction_service - INFO - Starting extraction for file_id: 136
+2026-01-29 18:29:11 - app.services.extraction_service - INFO - Started extraction thread for file_id: 136, thread_id: 123145575960576
+2026-01-29 18:29:12 - app.services.extraction_service - INFO - Updated timestamps for file_id: 136
+2026-01-29 18:29:12 - app.services.extraction_service - INFO - Extracting PDF: uploads/e08d855f-385a-4732-86e9-498cb2b29aa5.pdf
+2026-01-29 18:29:12 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 18:29:18 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-29 18:29:18 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-29 18:29:18 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 18:29:24 - app.services.extraction_service - INFO - PDF extraction successful: 21 transactions (deposits: True, withdrawals: True)
+2026-01-29 18:29:24 - app.services.extraction_service - INFO - Extraction successful: 21 transactions extracted
+2026-01-29 18:29:26 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 136
+2026-01-29 18:29:26 - app.services.extraction_service - INFO - Extraction task completed for file_id: 136
+2026-01-29 18:29:26 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 136
+2026-01-29 18:29:55 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 136
+2026-01-29 18:29:55 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 136
+2026-01-29 18:30:26 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 136
+2026-01-29 18:30:27 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 136
+2026-01-29 18:38:20 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 137
+2026-01-29 18:38:20 - app.services.extraction_service - INFO - Started extraction thread for file_id: 137, thread_id: 123145641070592
+2026-01-29 18:38:20 - app.services.extraction_service - INFO - Starting extraction for file_id: 137
+2026-01-29 18:38:20 - app.services.extraction_service - INFO - Updated timestamps for file_id: 137
+2026-01-29 18:38:21 - app.services.extraction_service - INFO - Extracting PDF: uploads/b51bad4d-35fe-4bc4-b988-c97e4a5bd4f1.pdf
+2026-01-29 18:38:21 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 18:38:27 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-29 18:38:27 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-29 18:38:27 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 18:38:34 - app.services.extraction_service - INFO - PDF extraction successful: 21 transactions (deposits: True, withdrawals: True)
+2026-01-29 18:38:34 - app.services.extraction_service - INFO - Extraction successful: 21 transactions extracted
+2026-01-29 18:38:37 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 137
+2026-01-29 18:38:37 - app.services.extraction_service - INFO - Extraction task completed for file_id: 137
+2026-01-29 18:38:37 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 137
+2026-01-29 18:38:47 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 137
+2026-01-29 18:38:47 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 137
+2026-01-29 18:39:06 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 138
+2026-01-29 18:39:06 - app.services.extraction_service - INFO - Started extraction thread for file_id: 138, thread_id: 123145624281088
+2026-01-29 18:39:06 - app.services.extraction_service - INFO - Starting extraction for file_id: 138
+2026-01-29 18:39:06 - app.services.extraction_service - INFO - Updated timestamps for file_id: 138
+2026-01-29 18:39:06 - app.services.extraction_service - INFO - Extracting PDF: uploads/1d56d703-1954-43a7-8a7b-b94de82b4019.pdf
+2026-01-29 18:39:06 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 18:39:12 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-29 18:39:12 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-29 18:39:12 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 18:39:18 - app.services.extraction_service - INFO - PDF extraction successful: 21 transactions (deposits: True, withdrawals: True)
+2026-01-29 18:39:18 - app.services.extraction_service - INFO - Extraction successful: 21 transactions extracted
+2026-01-29 18:39:20 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 138
+2026-01-29 18:39:20 - app.services.extraction_service - INFO - Extraction task completed for file_id: 138
+2026-01-29 18:39:20 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 138
+2026-01-29 18:40:45 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 138
+2026-01-29 18:40:46 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 138
+2026-01-29 18:47:28 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 139
+2026-01-29 18:47:28 - app.services.extraction_service - INFO - Started extraction thread for file_id: 139, thread_id: 123145608339456
+2026-01-29 18:47:28 - app.services.extraction_service - INFO - Starting extraction for file_id: 139
+2026-01-29 18:47:28 - app.services.extraction_service - INFO - Updated timestamps for file_id: 139
+2026-01-29 18:47:29 - app.services.extraction_service - INFO - Extracting PDF: uploads/ff3eb138-7708-4a1b-8766-9a5d525dcd46.pdf
+2026-01-29 18:47:29 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 18:47:35 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-29 18:47:35 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-29 18:47:35 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 18:47:39 - app.services.extraction_service - INFO - PDF extraction incomplete (deposits: True, withdrawals: False, count: 21), trying AI extraction...
+2026-01-29 18:49:50 - app.services.extraction_service - INFO - AI extraction successful: 52 transactions (withdrawals: True)
+2026-01-29 18:49:50 - app.services.extraction_service - INFO - Extraction successful: 52 transactions extracted
+2026-01-29 18:49:51 - app.services.extraction_service - INFO - Missing fields detected: ['transaction_0: payee', 'transaction_1: payee', 'transaction_2: payee', 'transaction_3: payee', 'transaction_4: payee', 'transaction_5: payee', 'transaction_6: payee', 'transaction_7: payee', 'transaction_8: payee', 'transaction_9: payee', 'transaction_10: payee', 'transaction_11: payee', 'transaction_12: payee', 'transaction_13: payee', 'transaction_14: payee', 'transaction_15: payee', 'transaction_16: payee', 'transaction_17: payee', 'transaction_18: payee', 'transaction_19: payee', 'transaction_20: payee', 'transaction_21: payee', 'transaction_22: payee', 'transaction_23: payee', 'transaction_24: payee', 'transaction_25: payee', 'transaction_26: payee', 'transaction_27: payee', 'transaction_28: payee', 'transaction_29: payee', 'transaction_30: payee', 'transaction_31: payee', 'transaction_32: payee', 'transaction_33: payee', 'transaction_34: payee', 'transaction_35: payee', 'transaction_36: payee', 'transaction_37: payee', 'transaction_38: payee', 'transaction_39: payee', 'transaction_40: payee', 'transaction_41: payee', 'transaction_42: payee', 'transaction_43: payee', 'transaction_44: payee', 'transaction_45: payee', 'transaction_46: payee', 'transaction_47: payee', 'transaction_48: payee', 'transaction_49: payee', 'transaction_50: payee', 'transaction_51: payee']
+2026-01-29 18:49:52 - app.services.extraction_service - INFO - Added file 139 to review queue: missing_fields
+2026-01-29 18:49:52 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 139
+2026-01-29 18:49:52 - app.services.extraction_service - INFO - Extraction task completed for file_id: 139
+2026-01-29 18:49:52 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 139
+2026-01-29 18:50:20 - app.services.extraction_service - INFO - Filtered 38 balance activity entries from file_id 139
+2026-01-29 18:50:21 - app.services.extraction_service - INFO - Filtered 38 balance activity entries from file_id 139
+2026-01-29 18:51:13 - app.services.extraction_service - INFO - Filtered 38 balance activity entries from file_id 139
+2026-01-29 18:51:14 - app.services.extraction_service - INFO - Filtered 38 balance activity entries from file_id 139
+2026-01-29 18:52:06 - app.services.extraction_service - INFO - Filtered 38 balance activity entries from file_id 139
+2026-01-29 18:52:07 - app.services.extraction_service - INFO - Filtered 38 balance activity entries from file_id 139
+2026-01-29 19:08:03 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 140
+2026-01-29 19:08:03 - app.services.extraction_service - INFO - Starting extraction for file_id: 140
+2026-01-29 19:08:03 - app.services.extraction_service - INFO - Started extraction thread for file_id: 140, thread_id: 123145398206464
+2026-01-29 19:08:03 - app.services.extraction_service - INFO - Updated timestamps for file_id: 140
+2026-01-29 19:08:03 - app.services.extraction_service - INFO - Extracting PDF: uploads/789a150d-343c-4fca-a7f2-1d0ea5cbde99.pdf
+2026-01-29 19:08:03 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 19:08:10 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-29 19:08:10 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-29 19:08:10 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 19:08:15 - app.services.extraction_service - INFO - PDF extraction incomplete (deposits: True, withdrawals: False, count: 21), trying AI extraction...
+2026-01-29 19:11:48 - app.services.extraction_service - INFO - AI extraction successful: 67 transactions (withdrawals: True)
+2026-01-29 19:11:48 - app.services.extraction_service - INFO - Extraction successful: 67 transactions extracted
+2026-01-29 19:11:49 - app.services.extraction_service - INFO - Missing fields detected: ['transaction_0: payee', 'transaction_1: payee', 'transaction_2: payee', 'transaction_3: payee', 'transaction_4: payee', 'transaction_5: payee', 'transaction_6: payee', 'transaction_7: payee', 'transaction_8: payee', 'transaction_9: payee', 'transaction_10: payee', 'transaction_11: payee', 'transaction_12: payee', 'transaction_13: payee', 'transaction_14: payee', 'transaction_15: payee', 'transaction_16: payee', 'transaction_17: payee', 'transaction_18: payee', 'transaction_19: payee', 'transaction_20: payee', 'transaction_21: payee', 'transaction_22: payee', 'transaction_23: payee', 'transaction_24: payee', 'transaction_25: payee', 'transaction_26: payee', 'transaction_27: payee', 'transaction_28: payee', 'transaction_29: payee', 'transaction_30: payee', 'transaction_31: payee', 'transaction_32: payee', 'transaction_33: payee', 'transaction_34: payee', 'transaction_35: payee', 'transaction_36: payee', 'transaction_37: payee', 'transaction_38: payee', 'transaction_39: payee', 'transaction_40: payee', 'transaction_41: payee', 'transaction_42: payee', 'transaction_43: payee', 'transaction_44: payee', 'transaction_45: payee', 'transaction_46: payee', 'transaction_47: payee', 'transaction_48: payee', 'transaction_49: payee', 'transaction_50: payee', 'transaction_51: payee', 'transaction_52: payee', 'transaction_53: payee', 'transaction_54: payee', 'transaction_55: payee', 'transaction_56: payee', 'transaction_57: payee', 'transaction_58: payee', 'transaction_59: payee', 'transaction_60: payee', 'transaction_61: payee', 'transaction_62: payee', 'transaction_63: payee', 'transaction_64: payee', 'transaction_65: payee', 'transaction_66: payee']
+2026-01-29 19:11:50 - app.services.extraction_service - INFO - Added file 140 to review queue: missing_fields
+2026-01-29 19:11:50 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 140
+2026-01-29 19:11:50 - app.services.extraction_service - INFO - Extraction task completed for file_id: 140
+2026-01-29 19:11:50 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 140
+2026-01-29 19:15:41 - app.services.extraction_service - INFO - Filtered 39 balance activity entries from file_id 140
+2026-01-29 19:15:42 - app.services.extraction_service - INFO - Filtered 39 balance activity entries from file_id 140
+2026-01-29 19:16:19 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 141
+2026-01-29 19:16:19 - app.services.extraction_service - INFO - Started extraction thread for file_id: 141, thread_id: 123145397669888
+2026-01-29 19:16:19 - app.services.extraction_service - INFO - Starting extraction for file_id: 141
+2026-01-29 19:16:19 - app.services.extraction_service - INFO - Updated timestamps for file_id: 141
+2026-01-29 19:16:19 - app.services.extraction_service - INFO - Extracting PDF: uploads/85f04053-5e0d-46f3-8243-b3154044ea4c.pdf
+2026-01-29 19:16:20 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-29 19:16:26 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 0.95)
+2026-01-29 19:16:26 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 0.95)
+2026-01-29 19:16:26 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-29 19:17:02 - app.services.extraction_service - INFO - PDF extraction successful: 156 transactions (deposits: True, withdrawals: True)
+2026-01-29 19:17:02 - app.services.extraction_service - INFO - Extraction successful: 156 transactions extracted
+2026-01-29 19:17:16 - app.services.extraction_service - INFO - Added file 141 to review queue: other
+2026-01-29 19:17:16 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 141
+2026-01-29 19:17:16 - app.services.extraction_service - INFO - Extraction task completed for file_id: 141
+2026-01-29 19:17:16 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 141
+2026-01-29 19:19:13 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 141
+2026-01-29 19:19:14 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 141
+2026-01-30 11:17:53 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 141
+2026-01-30 11:17:54 - app.services.extraction_service - INFO - Filtered 7 balance activity entries from file_id 141
+2026-01-30 11:25:17 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 142
+2026-01-30 11:25:17 - app.services.extraction_service - INFO - Started extraction thread for file_id: 142, thread_id: 123145587712000
+2026-01-30 11:25:17 - app.services.extraction_service - INFO - Starting extraction for file_id: 142
+2026-01-30 11:25:17 - app.services.extraction_service - INFO - Updated timestamps for file_id: 142
+2026-01-30 11:25:17 - app.services.extraction_service - INFO - Extracting PDF: uploads/92c2c35b-7e93-47f2-b255-cf8cc028e504.pdf
+2026-01-30 11:25:17 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-30 11:25:25 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-30 11:25:25 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-30 11:25:25 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-30 11:25:32 - app.services.extraction_service - INFO - PDF extraction incomplete (deposits: True, withdrawals: False, count: 21), trying AI extraction...
+2026-01-30 11:27:22 - app.services.extraction_service - INFO - AI extraction successful: 80 transactions (withdrawals: True)
+2026-01-30 11:27:22 - app.services.extraction_service - INFO - Extraction successful: 80 transactions extracted
+2026-01-30 11:27:23 - app.services.extraction_service - INFO - Missing fields detected: ['transaction_0: payee', 'transaction_1: payee', 'transaction_2: payee', 'transaction_3: payee', 'transaction_4: payee', 'transaction_5: payee', 'transaction_6: payee', 'transaction_7: payee', 'transaction_8: payee', 'transaction_9: payee', 'transaction_10: payee', 'transaction_11: payee', 'transaction_12: payee', 'transaction_13: payee', 'transaction_14: payee', 'transaction_15: payee', 'transaction_16: payee', 'transaction_17: payee', 'transaction_18: payee', 'transaction_19: payee', 'transaction_20: payee', 'transaction_21: payee', 'transaction_22: payee', 'transaction_23: payee', 'transaction_24: payee', 'transaction_25: payee', 'transaction_26: payee', 'transaction_27: payee', 'transaction_28: payee', 'transaction_29: payee', 'transaction_30: payee', 'transaction_31: payee', 'transaction_32: payee', 'transaction_33: payee', 'transaction_34: payee', 'transaction_35: payee', 'transaction_36: payee', 'transaction_37: payee', 'transaction_38: payee', 'transaction_39: payee', 'transaction_40: payee', 'transaction_41: payee', 'transaction_42: payee', 'transaction_43: payee', 'transaction_44: payee', 'transaction_45: payee', 'transaction_46: payee', 'transaction_47: payee', 'transaction_48: payee', 'transaction_49: payee', 'transaction_50: payee', 'transaction_51: payee', 'transaction_52: payee', 'transaction_53: payee', 'transaction_54: payee', 'transaction_55: payee', 'transaction_56: payee', 'transaction_57: payee', 'transaction_58: payee', 'transaction_59: payee', 'transaction_60: payee', 'transaction_61: payee', 'transaction_62: payee', 'transaction_63: payee', 'transaction_64: payee', 'transaction_65: payee', 'transaction_66: payee', 'transaction_67: payee', 'transaction_68: payee', 'transaction_69: payee', 'transaction_70: payee', 'transaction_71: payee', 'transaction_72: payee', 'transaction_73: payee', 'transaction_74: payee', 'transaction_75: payee', 'transaction_76: payee', 'transaction_77: payee', 'transaction_78: payee', 'transaction_79: payee']
+2026-01-30 11:27:24 - app.services.extraction_service - INFO - Added file 142 to review queue: missing_fields
+2026-01-30 11:27:24 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 142
+2026-01-30 11:27:24 - app.services.extraction_service - INFO - Extraction task completed for file_id: 142
+2026-01-30 11:27:24 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 142
+2026-01-30 11:27:35 - app.services.extraction_service - INFO - Filtered 38 balance activity entries from file_id 142
+2026-01-30 11:27:36 - app.services.extraction_service - INFO - Filtered 38 balance activity entries from file_id 142
+2026-01-30 11:44:44 - app.services.extraction_service - INFO - Filtered 38 balance activity entries from file_id 142
+2026-01-30 11:44:46 - app.services.extraction_service - INFO - Filtered 38 balance activity entries from file_id 142
+2026-01-30 11:45:26 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 143
+2026-01-30 11:45:26 - app.services.extraction_service - INFO - Started extraction thread for file_id: 143, thread_id: 123145390596096
+2026-01-30 11:45:26 - app.services.extraction_service - INFO - Starting extraction for file_id: 143
+2026-01-30 11:45:27 - app.services.extraction_service - INFO - Updated timestamps for file_id: 143
+2026-01-30 11:45:27 - app.services.extraction_service - INFO - Extracting PDF: uploads/339606a3-5d25-4f20-92b4-8956d2c03580.pdf
+2026-01-30 11:45:27 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-30 11:45:34 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-30 11:45:34 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-30 11:45:34 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-30 11:45:39 - app.services.extraction_service - INFO - PDF extraction incomplete (deposits: True, withdrawals: False, count: 20), trying AI extraction...
+2026-01-30 11:48:58 - app.services.extraction_service - INFO - AI extraction successful: 80 transactions (withdrawals: True)
+2026-01-30 11:48:58 - app.services.extraction_service - INFO - Extraction successful: 80 transactions extracted
+2026-01-30 11:48:59 - app.services.extraction_service - INFO - Missing fields detected: ['transaction_0: payee', 'transaction_1: payee', 'transaction_2: payee', 'transaction_3: payee', 'transaction_4: payee', 'transaction_5: payee', 'transaction_6: payee', 'transaction_7: payee', 'transaction_8: payee', 'transaction_9: payee', 'transaction_10: payee', 'transaction_11: payee', 'transaction_12: payee', 'transaction_13: payee', 'transaction_14: payee', 'transaction_15: payee', 'transaction_16: payee', 'transaction_17: payee', 'transaction_18: payee', 'transaction_19: payee', 'transaction_20: payee', 'transaction_21: payee', 'transaction_22: payee', 'transaction_23: payee', 'transaction_24: payee', 'transaction_25: payee', 'transaction_26: payee', 'transaction_27: payee', 'transaction_28: payee', 'transaction_29: payee', 'transaction_30: payee', 'transaction_31: payee', 'transaction_32: payee', 'transaction_33: payee', 'transaction_34: payee', 'transaction_35: payee', 'transaction_36: payee', 'transaction_37: payee', 'transaction_38: payee', 'transaction_39: payee', 'transaction_40: payee', 'transaction_41: payee', 'transaction_42: payee', 'transaction_43: payee', 'transaction_45: payee', 'transaction_48: payee', 'transaction_49: payee', 'transaction_50: payee', 'transaction_53: payee', 'transaction_55: payee', 'transaction_57: payee', 'transaction_60: payee', 'transaction_62: payee', 'transaction_63: payee', 'transaction_64: payee', 'transaction_66: payee', 'transaction_67: payee', 'transaction_68: payee', 'transaction_69: payee', 'transaction_70: payee', 'transaction_71: payee', 'transaction_72: payee', 'transaction_73: payee', 'transaction_74: payee', 'transaction_76: payee', 'transaction_77: payee', 'transaction_78: payee', 'transaction_79: payee']
+2026-01-30 11:48:59 - app.services.extraction_service - WARNING - Skipping payee creation for transaction 47: '004924' appears to be an amount, not a payee name
+2026-01-30 11:49:00 - app.services.extraction_service - WARNING - Skipping payee creation for transaction 52: '91434100' appears to be an amount, not a payee name
+2026-01-30 11:49:01 - app.services.extraction_service - WARNING - Skipping payee creation for transaction 56: '745690437' appears to be an amount, not a payee name
+2026-01-30 11:49:01 - app.services.extraction_service - WARNING - Skipping payee creation for transaction 65: '431365651286261' appears to be an amount, not a payee name
+2026-01-30 11:49:02 - app.services.extraction_service - INFO - Added file 143 to review queue: missing_fields
+2026-01-30 11:49:02 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 143
+2026-01-30 11:49:02 - app.services.extraction_service - INFO - Extraction task completed for file_id: 143
+2026-01-30 11:49:02 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 143
+2026-01-30 11:49:49 - app.services.extraction_service - INFO - Filtered 38 balance activity entries from file_id 143
+2026-01-30 11:49:50 - app.services.extraction_service - INFO - Filtered 38 balance activity entries from file_id 143
+2026-01-30 11:56:09 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 144
+2026-01-30 11:56:09 - app.services.extraction_service - INFO - Started extraction thread for file_id: 144, thread_id: 123145402146816
+2026-01-30 11:56:09 - app.services.extraction_service - INFO - Starting extraction for file_id: 144
+2026-01-30 11:56:10 - app.services.extraction_service - INFO - Updated timestamps for file_id: 144
+2026-01-30 11:56:10 - app.services.extraction_service - INFO - Extracting PDF: uploads/6ab74a54-f3db-4d8e-8f86-8b40f0561036.pdf
+2026-01-30 11:56:10 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-30 11:56:19 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-30 11:56:19 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-30 11:56:19 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-30 11:56:24 - app.services.extraction_service - INFO - PDF extraction incomplete (deposits: True, withdrawals: False, count: 20), trying AI extraction...
+2026-01-30 11:58:03 - app.services.extraction_service - INFO - AI extraction successful: 66 transactions (withdrawals: True)
+2026-01-30 11:58:03 - app.services.extraction_service - INFO - Extraction successful: 66 transactions extracted
+2026-01-30 11:58:04 - app.services.extraction_service - INFO - Missing fields detected: ['transaction_0: payee', 'transaction_1: payee', 'transaction_2: payee', 'transaction_3: payee', 'transaction_4: payee', 'transaction_5: payee', 'transaction_6: payee', 'transaction_7: payee', 'transaction_8: payee', 'transaction_9: payee', 'transaction_10: payee', 'transaction_11: payee', 'transaction_12: payee', 'transaction_13: payee', 'transaction_14: payee', 'transaction_15: payee', 'transaction_16: payee', 'transaction_17: payee', 'transaction_18: payee', 'transaction_19: payee', 'transaction_20: payee', 'transaction_21: payee', 'transaction_22: payee', 'transaction_23: payee', 'transaction_24: payee', 'transaction_25: payee', 'transaction_26: payee', 'transaction_27: payee', 'transaction_28: payee', 'transaction_29: payee', 'transaction_30: payee', 'transaction_31: payee', 'transaction_32: payee', 'transaction_33: payee', 'transaction_34: payee', 'transaction_35: payee', 'transaction_36: payee', 'transaction_37: payee', 'transaction_38: payee', 'transaction_39: payee', 'transaction_40: payee', 'transaction_41: payee', 'transaction_42: payee', 'transaction_43: payee', 'transaction_44: payee', 'transaction_45: payee', 'transaction_46: payee', 'transaction_47: payee', 'transaction_48: payee', 'transaction_49: payee', 'transaction_50: payee', 'transaction_51: payee', 'transaction_52: payee', 'transaction_53: payee', 'transaction_54: payee', 'transaction_55: payee', 'transaction_56: payee', 'transaction_57: payee', 'transaction_58: payee', 'transaction_59: payee', 'transaction_60: payee', 'transaction_61: payee', 'transaction_62: payee', 'transaction_63: payee', 'transaction_64: payee', 'transaction_65: payee']
+2026-01-30 11:58:04 - app.services.extraction_service - INFO - Added file 144 to review queue: missing_fields
+2026-01-30 11:58:04 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 144
+2026-01-30 11:58:04 - app.services.extraction_service - INFO - Extraction task completed for file_id: 144
+2026-01-30 11:58:04 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 144
+2026-01-30 11:58:12 - app.services.extraction_service - INFO - Filtered 38 balance activity entries from file_id 144
+2026-01-30 11:58:12 - app.services.extraction_service - INFO - Filtered 38 balance activity entries from file_id 144
+2026-01-30 12:09:21 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 145
+2026-01-30 12:09:21 - app.services.extraction_service - INFO - Started extraction thread for file_id: 145, thread_id: 123145424855040
+2026-01-30 12:09:21 - app.services.extraction_service - INFO - Starting extraction for file_id: 145
+2026-01-30 12:09:21 - app.services.extraction_service - INFO - Updated timestamps for file_id: 145
+2026-01-30 12:09:21 - app.services.extraction_service - INFO - Extracting PDF: uploads/ef1172aa-6bb4-4c5a-8c82-b44229ff599a.pdf
+2026-01-30 12:09:21 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-30 12:09:28 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-30 12:09:28 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-30 12:09:28 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-30 12:09:48 - app.services.extraction_service - INFO - PDF extraction incomplete (deposits: True, withdrawals: False, count: 20), trying AI extraction...
+2026-01-30 12:12:40 - app.services.extraction_service - INFO - AI extraction successful: 65 transactions (withdrawals: True)
+2026-01-30 12:12:40 - app.services.extraction_service - INFO - Extraction successful: 65 transactions extracted
+2026-01-30 12:12:41 - app.services.extraction_service - INFO - Missing fields detected: ['transaction_0: payee', 'transaction_1: payee', 'transaction_2: payee', 'transaction_3: payee', 'transaction_4: payee', 'transaction_5: payee', 'transaction_6: payee', 'transaction_7: payee', 'transaction_8: payee', 'transaction_9: payee', 'transaction_10: payee', 'transaction_11: payee', 'transaction_12: payee', 'transaction_13: payee', 'transaction_14: payee', 'transaction_15: payee', 'transaction_16: payee', 'transaction_17: payee', 'transaction_18: payee', 'transaction_19: payee', 'transaction_20: payee', 'transaction_21: payee', 'transaction_22: payee', 'transaction_23: payee', 'transaction_24: payee', 'transaction_25: payee', 'transaction_26: payee', 'transaction_27: payee', 'transaction_28: payee', 'transaction_29: payee', 'transaction_30: payee', 'transaction_31: payee', 'transaction_32: payee', 'transaction_33: payee', 'transaction_34: payee', 'transaction_35: payee', 'transaction_36: payee', 'transaction_37: payee', 'transaction_38: payee', 'transaction_39: payee', 'transaction_40: payee', 'transaction_41: payee', 'transaction_42: payee', 'transaction_43: payee', 'transaction_44: payee', 'transaction_45: payee', 'transaction_46: payee', 'transaction_47: payee', 'transaction_48: payee', 'transaction_49: payee', 'transaction_50: payee', 'transaction_51: payee', 'transaction_52: payee', 'transaction_53: payee', 'transaction_54: payee', 'transaction_55: payee', 'transaction_56: payee', 'transaction_57: payee', 'transaction_58: payee', 'transaction_59: payee', 'transaction_60: payee', 'transaction_61: payee', 'transaction_62: payee', 'transaction_63: payee', 'transaction_64: payee']
+2026-01-30 12:12:42 - app.services.extraction_service - INFO - Added file 145 to review queue: missing_fields
+2026-01-30 12:12:42 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 145
+2026-01-30 12:12:42 - app.services.extraction_service - INFO - Extraction task completed for file_id: 145
+2026-01-30 12:12:42 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 145
+2026-01-30 12:12:51 - app.services.extraction_service - INFO - Filtered 37 balance activity entries from file_id 145
+2026-01-30 12:12:52 - app.services.extraction_service - INFO - Filtered 37 balance activity entries from file_id 145
+2026-01-30 12:17:11 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 146
+2026-01-30 12:17:11 - app.services.extraction_service - INFO - Started extraction thread for file_id: 146, thread_id: 123145625350144
+2026-01-30 12:17:11 - app.services.extraction_service - INFO - Starting extraction for file_id: 146
+2026-01-30 12:17:11 - app.services.extraction_service - INFO - Updated timestamps for file_id: 146
+2026-01-30 12:17:12 - app.services.extraction_service - INFO - Extracting PDF: uploads/5da6123d-6972-4519-96c3-251d7ba9dda4.pdf
+2026-01-30 12:17:12 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-30 12:17:19 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-30 12:17:19 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-30 12:17:19 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-30 12:17:35 - app.services.extraction_service - INFO - PDF extraction incomplete (deposits: True, withdrawals: False, count: 20), trying AI extraction...
+2026-01-30 12:19:49 - app.services.extraction_service - INFO - AI extraction successful: 51 transactions (withdrawals: True)
+2026-01-30 12:19:49 - app.services.extraction_service - INFO - Extraction successful: 51 transactions extracted
+2026-01-30 12:19:50 - app.services.extraction_service - INFO - Missing fields detected: ['transaction_0: payee', 'transaction_1: payee', 'transaction_2: payee', 'transaction_3: payee', 'transaction_4: payee', 'transaction_5: payee', 'transaction_6: payee', 'transaction_7: payee', 'transaction_8: payee', 'transaction_9: payee', 'transaction_10: payee', 'transaction_11: payee', 'transaction_12: payee', 'transaction_13: payee', 'transaction_14: payee', 'transaction_15: payee', 'transaction_16: payee', 'transaction_17: payee', 'transaction_18: payee', 'transaction_19: payee', 'transaction_20: payee', 'transaction_21: payee', 'transaction_22: payee', 'transaction_23: payee', 'transaction_24: payee', 'transaction_25: payee', 'transaction_26: payee', 'transaction_27: payee', 'transaction_28: payee', 'transaction_29: payee', 'transaction_30: payee', 'transaction_31: payee', 'transaction_32: payee', 'transaction_33: payee', 'transaction_34: payee', 'transaction_35: payee', 'transaction_36: payee', 'transaction_37: payee', 'transaction_38: payee', 'transaction_39: payee', 'transaction_40: payee', 'transaction_41: payee', 'transaction_42: payee', 'transaction_43: payee', 'transaction_44: payee', 'transaction_45: payee', 'transaction_46: payee', 'transaction_47: payee', 'transaction_48: payee', 'transaction_49: payee', 'transaction_50: payee']
+2026-01-30 12:19:50 - app.services.extraction_service - INFO - Added file 146 to review queue: missing_fields
+2026-01-30 12:19:51 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 146
+2026-01-30 12:19:51 - app.services.extraction_service - INFO - Extraction task completed for file_id: 146
+2026-01-30 12:19:51 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 146
+2026-01-30 12:20:15 - app.services.extraction_service - INFO - Filtered 37 balance activity entries from file_id 146
+2026-01-30 12:20:18 - app.services.extraction_service - INFO - Filtered 37 balance activity entries from file_id 146
+2026-01-30 12:20:18 - app.services.extraction_service - INFO - Filtered 37 balance activity entries from file_id 146
+2026-01-30 12:20:19 - app.services.extraction_service - INFO - Filtered 37 balance activity entries from file_id 146
+2026-01-30 12:21:11 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 147
+2026-01-30 12:21:11 - app.services.extraction_service - INFO - Started extraction thread for file_id: 147, thread_id: 123145608024064
+2026-01-30 12:21:11 - app.services.extraction_service - INFO - Starting extraction for file_id: 147
+2026-01-30 12:21:12 - app.services.extraction_service - INFO - Updated timestamps for file_id: 147
+2026-01-30 12:21:12 - app.services.extraction_service - INFO - Extracting PDF: uploads/ccaf6241-be5e-493b-ab5b-483712031ef6.pdf
+2026-01-30 12:21:12 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-30 12:21:18 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-30 12:21:18 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-30 12:21:18 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-30 12:21:19 - app.services.extraction_service - INFO - PDF extraction successful: 0 transactions (deposits: False, withdrawals: False)
+2026-01-30 12:21:19 - app.services.extraction_service - INFO - Extraction successful: 0 transactions extracted
+2026-01-30 12:21:19 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 147
+2026-01-30 12:21:19 - app.services.extraction_service - INFO - Extraction task completed for file_id: 147
+2026-01-30 12:21:19 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 147
+2026-01-30 12:27:55 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 148
+2026-01-30 12:27:55 - app.services.extraction_service - INFO - Started extraction thread for file_id: 148, thread_id: 123145608183808
+2026-01-30 12:27:55 - app.services.extraction_service - INFO - Starting extraction for file_id: 148
+2026-01-30 12:27:56 - app.services.extraction_service - INFO - Updated timestamps for file_id: 148
+2026-01-30 12:27:56 - app.services.extraction_service - INFO - Extracting PDF: uploads/cdf09364-5f4b-4f03-8df0-605553da5eff.pdf
+2026-01-30 12:27:56 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-30 12:28:01 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 0.95)
+2026-01-30 12:28:01 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 0.95)
+2026-01-30 12:28:01 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-30 12:28:29 - app.services.extraction_service - INFO - PDF extraction successful: 87 transactions (deposits: True, withdrawals: True)
+2026-01-30 12:28:30 - app.services.extraction_service - INFO - Extraction successful: 87 transactions extracted
+2026-01-30 12:28:30 - app.services.extraction_service - INFO - Missing fields detected: ['transaction_1: payee', 'transaction_2: payee', 'transaction_4: payee', 'transaction_7: payee', 'transaction_12: payee', 'transaction_20: payee', 'transaction_22: payee', 'transaction_23: payee', 'transaction_24: payee', 'transaction_27: payee', 'transaction_30: payee', 'transaction_36: payee', 'transaction_37: payee', 'transaction_41: payee', 'transaction_44: payee', 'transaction_45: payee', 'transaction_57: payee', 'transaction_59: payee', 'transaction_60: payee', 'transaction_61: payee', 'transaction_62: payee', 'transaction_63: payee', 'transaction_67: payee', 'transaction_70: payee', 'transaction_72: payee', 'transaction_73: payee', 'transaction_81: payee', 'transaction_82: payee', 'transaction_83: payee', 'transaction_85: payee']
+2026-01-30 12:28:49 - app.services.extraction_service - INFO - Added file 148 to review queue: missing_fields
+2026-01-30 12:28:49 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 148
+2026-01-30 12:28:49 - app.services.extraction_service - INFO - Extraction task completed for file_id: 148
+2026-01-30 12:28:49 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 148
+2026-01-30 12:39:46 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 149
+2026-01-30 12:39:46 - app.services.extraction_service - INFO - Started extraction thread for file_id: 149, thread_id: 123145637318656
+2026-01-30 12:39:46 - app.services.extraction_service - INFO - Starting extraction for file_id: 149
+2026-01-30 12:39:46 - app.services.extraction_service - INFO - Updated timestamps for file_id: 149
+2026-01-30 12:39:46 - app.services.extraction_service - INFO - Extracting PDF: uploads/d969d291-c3ec-4772-94ad-c02c5404b9bb.pdf
+2026-01-30 12:39:46 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-30 12:39:53 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-30 12:39:53 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-30 12:39:53 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-30 12:40:23 - app.services.extraction_service - INFO - PDF extraction successful: 87 transactions (deposits: True, withdrawals: True)
+2026-01-30 12:40:23 - app.services.extraction_service - INFO - Extraction successful: 87 transactions extracted
+2026-01-30 12:40:24 - app.services.extraction_service - INFO - Missing fields detected: ['transaction_1: payee', 'transaction_2: payee', 'transaction_4: payee', 'transaction_7: payee', 'transaction_12: payee', 'transaction_20: payee', 'transaction_22: payee', 'transaction_23: payee', 'transaction_24: payee', 'transaction_27: payee', 'transaction_30: payee', 'transaction_36: payee', 'transaction_37: payee', 'transaction_41: payee', 'transaction_44: payee', 'transaction_45: payee', 'transaction_57: payee', 'transaction_59: payee', 'transaction_60: payee', 'transaction_61: payee', 'transaction_62: payee', 'transaction_63: payee', 'transaction_67: payee', 'transaction_70: payee', 'transaction_72: payee', 'transaction_73: payee', 'transaction_81: payee', 'transaction_82: payee', 'transaction_83: payee', 'transaction_85: payee']
+2026-01-30 12:40:29 - app.services.extraction_service - INFO - Added file 149 to review queue: missing_fields
+2026-01-30 12:40:29 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 149
+2026-01-30 12:40:29 - app.services.extraction_service - INFO - Extraction task completed for file_id: 149
+2026-01-30 12:40:29 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 149
+2026-01-30 12:41:21 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 150
+2026-01-30 12:41:21 - app.services.extraction_service - INFO - Starting extraction for file_id: 150
+2026-01-30 12:41:21 - app.services.extraction_service - INFO - Started extraction thread for file_id: 150, thread_id: 123145582657536
+2026-01-30 12:41:22 - app.services.extraction_service - INFO - Updated timestamps for file_id: 150
+2026-01-30 12:41:22 - app.services.extraction_service - INFO - Extracting PDF: uploads/fa560ebb-c03c-404e-8cf3-897755b9ccb4.pdf
+2026-01-30 12:41:22 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-30 12:41:28 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-30 12:41:28 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-30 12:41:28 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-30 12:42:11 - app.services.extraction_service - INFO - PDF extraction successful: 74 transactions (deposits: True, withdrawals: True)
+2026-01-30 12:42:11 - app.services.extraction_service - INFO - Extraction successful: 74 transactions extracted
+2026-01-30 12:42:11 - app.services.extraction_service - INFO - Non-English content detected: de
+2026-01-30 12:42:25 - app.services.extraction_service - WARNING - Skipping payee creation for transaction 67: '$46,697.89' appears to be an amount, not a payee name
+2026-01-30 12:42:25 - app.services.extraction_service - WARNING - Skipping payee creation for transaction 68: '48,078.60' appears to be an amount, not a payee name
+2026-01-30 12:42:25 - app.services.extraction_service - WARNING - Skipping payee creation for transaction 69: '45,295.41' appears to be an amount, not a payee name
+2026-01-30 12:42:25 - app.services.extraction_service - WARNING - Skipping payee creation for transaction 70: '50,321.11' appears to be an amount, not a payee name
+2026-01-30 12:42:25 - app.services.extraction_service - WARNING - Skipping payee creation for transaction 71: '52,879.05' appears to be an amount, not a payee name
+2026-01-30 12:42:25 - app.services.extraction_service - WARNING - Skipping payee creation for transaction 72: '53,982.75' appears to be an amount, not a payee name
+2026-01-30 12:42:25 - app.services.extraction_service - WARNING - Skipping payee creation for transaction 73: '54,273.15' appears to be an amount, not a payee name
+2026-01-30 12:42:25 - app.services.extraction_service - INFO - Added file 150 to review queue: non_english
+2026-01-30 12:42:26 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 150
+2026-01-30 12:42:26 - app.services.extraction_service - INFO - Extraction task completed for file_id: 150
+2026-01-30 12:42:26 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 150
+2026-01-30 12:42:30 - app.services.extraction_service - INFO - Filtered 6 balance activity entries from file_id 150
+2026-01-30 12:42:31 - app.services.extraction_service - INFO - Filtered 6 balance activity entries from file_id 150
+2026-01-30 12:55:08 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 151
+2026-01-30 12:55:08 - app.services.extraction_service - INFO - Started extraction thread for file_id: 151, thread_id: 123145624420352
+2026-01-30 12:55:08 - app.services.extraction_service - INFO - Starting extraction for file_id: 151
+2026-01-30 12:55:08 - app.services.extraction_service - INFO - Updated timestamps for file_id: 151
+2026-01-30 12:55:08 - app.services.extraction_service - INFO - Extracting PDF: uploads/727aa947-c491-444c-92bd-e558d1bedf9d.pdf
+2026-01-30 12:55:08 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-30 12:55:13 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-30 12:55:13 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-30 12:55:13 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-30 12:55:56 - app.services.extraction_service - INFO - PDF extraction successful: 75 transactions (deposits: True, withdrawals: True)
+2026-01-30 12:55:56 - app.services.extraction_service - INFO - Extraction successful: 75 transactions extracted
+2026-01-30 12:56:05 - app.services.extraction_service - INFO - Added file 151 to review queue: other
+2026-01-30 12:56:05 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 151
+2026-01-30 12:56:05 - app.services.extraction_service - INFO - Extraction task completed for file_id: 151
+2026-01-30 12:56:05 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 151
+2026-01-30 12:56:12 - app.services.extraction_service - INFO - Filtered 5 balance activity entries from file_id 151
+2026-01-30 12:56:12 - app.services.extraction_service - INFO - Filtered 5 balance activity entries from file_id 151
+2026-01-30 13:05:25 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 152
+2026-01-30 13:05:25 - app.services.extraction_service - INFO - Started extraction thread for file_id: 152, thread_id: 123145388933120
+2026-01-30 13:05:25 - app.services.extraction_service - INFO - Starting extraction for file_id: 152
+2026-01-30 13:05:26 - app.services.extraction_service - INFO - Updated timestamps for file_id: 152
+2026-01-30 13:05:26 - app.services.extraction_service - INFO - Extracting PDF: uploads/c53faf59-ca79-430b-960b-cd98971db772.pdf
+2026-01-30 13:05:26 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-30 13:05:32 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-30 13:05:32 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-30 13:05:32 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-30 13:05:34 - app.services.extraction_service - INFO - PDF extraction successful: 0 transactions (deposits: False, withdrawals: False)
+2026-01-30 13:05:34 - app.services.extraction_service - INFO - Extraction successful: 0 transactions extracted
+2026-01-30 13:05:34 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 152
+2026-01-30 13:05:34 - app.services.extraction_service - INFO - Extraction task completed for file_id: 152
+2026-01-30 13:05:34 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 152
+2026-01-30 13:09:01 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 153
+2026-01-30 13:09:01 - app.services.extraction_service - INFO - Started extraction thread for file_id: 153, thread_id: 123145416916992
+2026-01-30 13:09:01 - app.services.extraction_service - INFO - Starting extraction for file_id: 153
+2026-01-30 13:09:01 - app.services.extraction_service - INFO - Updated timestamps for file_id: 153
+2026-01-30 13:09:02 - app.services.extraction_service - INFO - Extracting PDF: uploads/1f43dd27-4e58-462d-96d6-fdd96ccb7b71.pdf
+2026-01-30 13:09:02 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-30 13:09:09 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 0.95)
+2026-01-30 13:09:09 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 0.95)
+2026-01-30 13:09:09 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-30 13:09:16 - app.services.extraction_service - INFO - PDF extraction successful: 13 transactions (deposits: True, withdrawals: True)
+2026-01-30 13:09:16 - app.services.extraction_service - INFO - Extraction successful: 13 transactions extracted
+2026-01-30 13:09:27 - app.services.extraction_service - INFO - Added file 153 to review queue: other
+2026-01-30 13:09:27 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 153
+2026-01-30 13:09:27 - app.services.extraction_service - INFO - Extraction task completed for file_id: 153
+2026-01-30 13:09:27 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 153
+2026-01-30 13:15:30 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 154
+2026-01-30 13:15:30 - app.services.extraction_service - INFO - Started extraction thread for file_id: 154, thread_id: 123145399590912
+2026-01-30 13:15:30 - app.services.extraction_service - INFO - Starting extraction for file_id: 154
+2026-01-30 13:15:31 - app.services.extraction_service - INFO - Updated timestamps for file_id: 154
+2026-01-30 13:15:31 - app.services.extraction_service - INFO - Extracting PDF: uploads/51adae96-1aaa-4d56-976e-3ce30213cf1a.pdf
+2026-01-30 13:15:31 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-30 13:15:36 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-30 13:15:36 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-30 13:15:36 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-30 13:15:36 - app.services.extraction_service - INFO - PDF extraction successful: 0 transactions (deposits: False, withdrawals: False)
+2026-01-30 13:15:36 - app.services.extraction_service - INFO - Extraction successful: 0 transactions extracted
+2026-01-30 13:15:36 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 154
+2026-01-30 13:15:36 - app.services.extraction_service - INFO - Extraction task completed for file_id: 154
+2026-01-30 13:15:36 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 154
+2026-01-30 13:27:19 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 155
+2026-01-30 13:27:19 - app.services.extraction_service - INFO - Started extraction thread for file_id: 155, thread_id: 123145513046016
+2026-01-30 13:27:19 - app.services.extraction_service - INFO - Starting extraction for file_id: 155
+2026-01-30 13:27:19 - app.services.extraction_service - INFO - Updated timestamps for file_id: 155
+2026-01-30 13:27:19 - app.services.extraction_service - INFO - Extracting PDF: uploads/5649efed-dc14-4f4e-9278-b88414525f82.pdf
+2026-01-30 13:27:19 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-30 13:27:25 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-30 13:27:25 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-30 13:27:25 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-30 13:27:25 - app.services.extraction_service - INFO - PDF extraction successful: 0 transactions (deposits: False, withdrawals: False)
+2026-01-30 13:27:25 - app.services.extraction_service - INFO - Extraction successful: 0 transactions extracted
+2026-01-30 13:27:25 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 155
+2026-01-30 13:27:25 - app.services.extraction_service - INFO - Extraction task completed for file_id: 155
+2026-01-30 13:27:25 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 155
+2026-01-30 13:32:21 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 156
+2026-01-30 13:32:21 - app.services.extraction_service - INFO - Starting extraction for file_id: 156
+2026-01-30 13:32:21 - app.services.extraction_service - INFO - Started extraction thread for file_id: 156, thread_id: 123145448820736
+2026-01-30 13:32:21 - app.services.extraction_service - INFO - Updated timestamps for file_id: 156
+2026-01-30 13:32:21 - app.services.extraction_service - INFO - Extracting PDF: uploads/ac7faa69-1980-4bb2-950e-5cc9b0b84711.pdf
+2026-01-30 13:32:21 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-30 13:32:26 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-30 13:32:26 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-30 13:32:26 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-30 13:32:26 - app.services.extraction_service - INFO - PDF extraction successful: 0 transactions (deposits: False, withdrawals: False)
+2026-01-30 13:32:27 - app.services.extraction_service - INFO - Extraction successful: 0 transactions extracted
+2026-01-30 13:32:27 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 156
+2026-01-30 13:32:27 - app.services.extraction_service - INFO - Extraction task completed for file_id: 156
+2026-01-30 13:32:27 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 156
+2026-01-30 13:37:30 - app.services.extraction_service - INFO - Starting extraction for file_id: 156
+2026-01-30 13:37:30 - app.services.extraction_service - INFO - Retrying extraction for file_id: 156
+2026-01-30 13:37:31 - app.services.extraction_service - INFO - Updated timestamps for file_id: 156
+2026-01-30 13:37:31 - app.services.extraction_service - INFO - Extracting PDF: uploads/ac7faa69-1980-4bb2-950e-5cc9b0b84711.pdf
+2026-01-30 13:37:31 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-30 13:37:36 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-30 13:37:36 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-30 13:37:36 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-30 13:37:36 - app.services.extraction_service - INFO - PDF extraction successful: 0 transactions (deposits: False, withdrawals: False)
+2026-01-30 13:37:36 - app.services.extraction_service - INFO - Extraction successful: 0 transactions extracted
+2026-01-30 13:37:37 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 156
+2026-01-30 13:37:37 - app.services.extraction_service - INFO - Extraction task completed for file_id: 156
+2026-01-30 13:37:43 - app.services.extraction_service - INFO - Starting extraction for file_id: 156
+2026-01-30 13:37:43 - app.services.extraction_service - INFO - Retrying extraction for file_id: 156
+2026-01-30 13:37:43 - app.services.extraction_service - INFO - Updated timestamps for file_id: 156
+2026-01-30 13:37:44 - app.services.extraction_service - INFO - Extracting PDF: uploads/ac7faa69-1980-4bb2-950e-5cc9b0b84711.pdf
+2026-01-30 13:37:44 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-30 13:37:48 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-30 13:37:48 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-30 13:37:48 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-30 13:37:48 - app.services.extraction_service - INFO - PDF extraction successful: 0 transactions (deposits: False, withdrawals: False)
+2026-01-30 13:37:48 - app.services.extraction_service - INFO - Extraction successful: 0 transactions extracted
+2026-01-30 13:37:48 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 156
+2026-01-30 13:37:48 - app.services.extraction_service - INFO - Extraction task completed for file_id: 156
+2026-01-30 13:50:37 - app.services.extraction_service - INFO - Starting extraction for file_id: 156
+2026-01-30 13:50:37 - app.services.extraction_service - INFO - Retrying extraction for file_id: 156
+2026-01-30 13:50:38 - app.services.extraction_service - INFO - Updated timestamps for file_id: 156
+2026-01-30 13:50:38 - app.services.extraction_service - INFO - Extracting PDF: uploads/ac7faa69-1980-4bb2-950e-5cc9b0b84711.pdf
+2026-01-30 13:50:38 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-30 13:50:44 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-30 13:50:44 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-30 13:50:44 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-30 13:50:44 - app.services.extraction_service - INFO - WesBanco with no transactions (image PDF), trying OCR extraction...
+2026-01-30 13:52:19 - app.services.extraction_service - INFO - WesBanco OCR returned 26198 chars
+2026-01-30 13:52:42 - app.services.extraction_service - INFO - WesBanco parse from text: 69 transactions (OCR length 26198)
+2026-01-30 13:52:42 - app.services.extraction_service - INFO - WesBanco OCR extraction: 69 transactions
+2026-01-30 13:52:42 - app.services.extraction_service - INFO - PDF extraction successful: 69 transactions (deposits: True, withdrawals: True)
+2026-01-30 13:52:42 - app.services.extraction_service - INFO - Extraction successful: 69 transactions extracted
+2026-01-30 13:52:56 - app.services.extraction_service - INFO - Added file 156 to review queue: other
+2026-01-30 13:52:57 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 156
+2026-01-30 13:52:57 - app.services.extraction_service - INFO - Extraction task completed for file_id: 156
+2026-01-30 13:52:58 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 156
+2026-01-30 13:52:58 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 156
+2026-01-30 13:59:44 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 157
+2026-01-30 13:59:44 - app.services.extraction_service - INFO - Started extraction thread for file_id: 157, thread_id: 123145528840192
+2026-01-30 13:59:44 - app.services.extraction_service - INFO - Starting extraction for file_id: 157
+2026-01-30 13:59:44 - app.services.extraction_service - INFO - Updated timestamps for file_id: 157
+2026-01-30 13:59:45 - app.services.extraction_service - INFO - Extracting PDF: uploads/7afaf4d7-0640-4cc5-a677-3de20bea3cf4.pdf
+2026-01-30 13:59:45 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-01-30 13:59:51 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-01-30 13:59:51 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-01-30 13:59:51 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-01-30 13:59:51 - app.services.extraction_service - INFO - WesBanco with no transactions (image PDF), trying OCR extraction...
+2026-01-30 14:01:38 - app.services.extraction_service - INFO - WesBanco OCR returned 26198 chars
+2026-01-30 14:02:02 - app.services.extraction_service - INFO - WesBanco parse from text: 69 transactions (OCR length 26198)
+2026-01-30 14:02:02 - app.services.extraction_service - INFO - WesBanco OCR extraction: 69 transactions
+2026-01-30 14:02:02 - app.services.extraction_service - INFO - PDF extraction successful: 69 transactions (deposits: True, withdrawals: True)
+2026-01-30 14:02:02 - app.services.extraction_service - INFO - Extraction successful: 69 transactions extracted
+2026-01-30 14:02:09 - app.services.extraction_service - INFO - Added file 157 to review queue: other
+2026-01-30 14:02:09 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 157
+2026-01-30 14:02:09 - app.services.extraction_service - INFO - Extraction task completed for file_id: 157
+2026-01-30 14:02:09 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 157
+2026-01-30 14:02:55 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 157
+2026-01-30 14:02:56 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 157
+2026-01-30 14:03:17 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 157
+2026-01-30 14:03:18 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 157
+2026-01-30 14:03:56 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 157
+2026-01-30 17:03:20 - app.services.extraction_service - INFO - Filtered 1 balance activity entries from file_id 157
+2026-02-04 17:12:49 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 158
+2026-02-04 17:12:49 - app.services.extraction_service - INFO - Started extraction thread for file_id: 158, thread_id: 123145392984064
+2026-02-04 17:12:49 - app.services.extraction_service - INFO - Starting extraction for file_id: 158
+2026-02-04 17:12:49 - app.services.extraction_service - INFO - Updated timestamps for file_id: 158
+2026-02-04 17:12:49 - app.services.extraction_service - INFO - Extracting PDF: uploads/cf36ca46-326a-4e8e-82b2-552514041ba9.pdf
+2026-02-04 17:12:52 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-02-04 17:12:58 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 0.95)
+2026-02-04 17:12:58 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 0.95)
+2026-02-04 17:12:58 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-02-04 17:13:53 - app.services.extraction_service - INFO - PDF extraction successful: 83 transactions (deposits: True, withdrawals: True)
+2026-02-04 17:13:53 - app.services.extraction_service - INFO - Extraction successful: 83 transactions extracted
+2026-02-04 17:13:54 - app.services.extraction_service - INFO - Missing fields detected: ['transaction_71: payee']
+2026-02-04 17:13:57 - app.services.extraction_service - INFO - Added file 158 to review queue: missing_fields
+2026-02-04 17:13:57 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 158
+2026-02-04 17:13:57 - app.services.extraction_service - INFO - Extraction task completed for file_id: 158
+2026-02-04 17:13:57 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 158
+2026-02-04 17:22:32 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 159
+2026-02-04 17:22:32 - app.services.extraction_service - INFO - Started extraction thread for file_id: 159, thread_id: 123145521377280
+2026-02-04 17:22:32 - app.services.extraction_service - INFO - Starting extraction for file_id: 159
+2026-02-04 17:22:32 - app.services.extraction_service - INFO - Updated timestamps for file_id: 159
+2026-02-04 17:22:32 - app.services.extraction_service - INFO - Extracting PDF: uploads/e8ba9a46-0a05-4d2b-a806-8a0c04b08b9d.pdf
+2026-02-04 17:22:35 - app.services.extraction_service - INFO - Multi-page: statement with attached check images, using StatementWithChecksExtractor
+2026-02-04 17:23:44 - app.services.extraction_service - INFO - Extraction successful: 83 transactions extracted
+2026-02-04 17:23:45 - app.services.extraction_service - INFO - Missing fields detected: ['transaction_71: payee']
+2026-02-04 17:23:48 - app.services.extraction_service - INFO - Added file 159 to review queue: missing_fields
+2026-02-04 17:23:48 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 159
+2026-02-04 17:23:48 - app.services.extraction_service - INFO - Extraction task completed for file_id: 159
+2026-02-04 17:23:48 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 159
+2026-02-04 17:41:58 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 160
+2026-02-04 17:41:58 - app.services.extraction_service - INFO - Starting extraction for file_id: 160
+2026-02-04 17:41:58 - app.services.extraction_service - INFO - Started extraction thread for file_id: 160, thread_id: 123145449512960
+2026-02-04 17:41:58 - app.services.extraction_service - INFO - Updated timestamps for file_id: 160
+2026-02-04 17:41:58 - app.services.extraction_service - INFO - Extracting PDF: uploads/264439e7-1e34-459b-893b-61a90f9a075b.pdf
+2026-02-04 17:42:00 - app.services.extraction_service - INFO - Multi-page: statement with attached check images, using StatementWithChecksExtractor
+2026-02-04 17:43:11 - app.services.extraction_service - INFO - Extraction successful: 83 transactions extracted
+2026-02-04 17:43:12 - app.services.extraction_service - INFO - Missing fields detected: ['transaction_71: payee']
+2026-02-04 17:43:14 - app.services.extraction_service - INFO - Added file 160 to review queue: missing_fields
+2026-02-04 17:43:15 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 160
+2026-02-04 17:43:15 - app.services.extraction_service - INFO - Extraction task completed for file_id: 160
+2026-02-04 17:43:15 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 160
+2026-02-04 17:56:58 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 161
+2026-02-04 17:56:58 - app.services.extraction_service - INFO - Started extraction thread for file_id: 161, thread_id: 123145536253952
+2026-02-04 17:56:58 - app.services.extraction_service - INFO - Starting extraction for file_id: 161
+2026-02-04 17:56:58 - app.services.extraction_service - INFO - Updated timestamps for file_id: 161
+2026-02-04 17:56:58 - app.services.extraction_service - INFO - Extracting PDF: uploads/4d9e89b4-0717-48e7-90b4-df9dbae58c39.pdf
+2026-02-04 17:57:01 - app.services.extraction_service - INFO - Multi-page: statement with attached check images, using StatementWithChecksExtractor
+2026-02-04 17:58:04 - app.services.extraction_service - INFO - Extraction successful: 83 transactions extracted
+2026-02-04 17:58:05 - app.services.extraction_service - INFO - Missing fields detected: ['transaction_71: payee']
+2026-02-04 17:58:07 - app.services.extraction_service - INFO - Added file 161 to review queue: missing_fields
+2026-02-04 17:58:08 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 161
+2026-02-04 17:58:08 - app.services.extraction_service - INFO - Extraction task completed for file_id: 161
+2026-02-04 17:58:08 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 161
+2026-02-04 18:06:52 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 162
+2026-02-04 18:06:52 - app.services.extraction_service - INFO - Started extraction thread for file_id: 162, thread_id: 123145553133568
+2026-02-04 18:06:52 - app.services.extraction_service - INFO - Starting extraction for file_id: 162
+2026-02-04 18:06:52 - app.services.extraction_service - INFO - Updated timestamps for file_id: 162
+2026-02-04 18:06:52 - app.services.extraction_service - INFO - Extracting PDF: uploads/4867a2c8-b67b-41b0-9d94-36c056cc9f70.pdf
+2026-02-04 18:06:54 - app.services.extraction_service - INFO - Multi-page: statement with attached check images, using StatementWithChecksExtractor
+2026-02-04 18:08:04 - app.services.extraction_service - INFO - Extraction successful: 83 transactions extracted
+2026-02-04 18:08:05 - app.services.extraction_service - INFO - Missing fields detected: ['transaction_71: payee']
+2026-02-04 18:08:07 - app.services.extraction_service - INFO - Added file 162 to review queue: missing_fields
+2026-02-04 18:08:07 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 162
+2026-02-04 18:08:07 - app.services.extraction_service - INFO - Extraction task completed for file_id: 162
+2026-02-04 18:08:07 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 162
+2026-02-09 17:16:04 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 163
+2026-02-09 17:16:04 - app.services.extraction_service - INFO - Started extraction thread for file_id: 163, thread_id: 123145607876608
+2026-02-09 17:16:04 - app.services.extraction_service - INFO - Starting extraction for file_id: 163
+2026-02-09 17:16:04 - app.services.extraction_service - INFO - Updated timestamps for file_id: 163
+2026-02-09 17:16:04 - app.services.extraction_service - INFO - Extracting PDF: uploads/84e2a957-4906-447c-a116-732bbca99730.pdf
+2026-02-09 17:16:06 - app.services.extraction_service - INFO - Multi-page: statement with attached check images, using StatementWithChecksExtractor
+2026-02-09 17:18:02 - app.services.extraction_service - INFO - Extraction successful: 106 transactions extracted
+2026-02-09 17:18:02 - app.services.extraction_service - INFO - Missing fields detected: ['transaction_71: payee', 'transaction_84: payee', 'transaction_85: payee', 'transaction_88: payee', 'transaction_89: payee', 'transaction_92: payee', 'transaction_93: payee', 'transaction_96: payee', 'transaction_97: payee', 'transaction_101: payee', 'transaction_102: payee', 'transaction_104: payee', 'transaction_105: payee']
+2026-02-09 17:18:08 - app.services.extraction_service - INFO - Added file 163 to review queue: missing_fields
+2026-02-09 17:18:08 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 163
+2026-02-09 17:18:08 - app.services.extraction_service - INFO - Extraction task completed for file_id: 163
+2026-02-09 17:18:08 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 163
+2026-02-09 17:35:06 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 164
+2026-02-09 17:35:06 - app.services.extraction_service - INFO - Started extraction thread for file_id: 164, thread_id: 123145542443008
+2026-02-09 17:35:06 - app.services.extraction_service - INFO - Starting extraction for file_id: 164
+2026-02-09 17:35:06 - app.services.extraction_service - INFO - Updated timestamps for file_id: 164
+2026-02-09 17:35:06 - app.services.extraction_service - INFO - Extracting PDF: uploads/0d0c58ca-b5bf-4319-adb2-97c887a73c05.pdf
+2026-02-09 17:35:08 - app.services.extraction_service - INFO - Multi-page: statement with attached check images, using StatementWithChecksExtractor
+2026-02-09 17:37:03 - app.services.extraction_service - INFO - Extraction successful: 106 transactions extracted
+2026-02-09 17:37:03 - app.services.extraction_service - INFO - Missing fields detected: ['transaction_71: payee', 'transaction_84: payee', 'transaction_85: payee', 'transaction_88: payee', 'transaction_89: payee', 'transaction_92: payee', 'transaction_93: payee', 'transaction_96: payee', 'transaction_97: payee', 'transaction_101: payee', 'transaction_102: payee', 'transaction_104: payee', 'transaction_105: payee']
+2026-02-09 17:37:06 - app.services.extraction_service - INFO - Added file 164 to review queue: missing_fields
+2026-02-09 17:37:06 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 164
+2026-02-09 17:37:06 - app.services.extraction_service - INFO - Extraction task completed for file_id: 164
+2026-02-09 17:37:06 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 164
+2026-02-10 12:36:47 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 165
+2026-02-10 12:36:47 - app.services.extraction_service - INFO - Started extraction thread for file_id: 165, thread_id: 123145568043008
+2026-02-10 12:36:47 - app.services.extraction_service - INFO - Starting extraction for file_id: 165
+2026-02-10 12:36:48 - app.services.extraction_service - INFO - Updated timestamps for file_id: 165
+2026-02-10 12:36:48 - app.services.extraction_service - INFO - Extracting PDF: uploads/544f6d88-a109-450a-8ac5-cfaaf4802ddc.pdf
+2026-02-10 12:36:51 - app.services.extraction_service - INFO - Multi-page: statement with attached check images, using StatementWithChecksExtractor
+2026-02-10 12:37:30 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 166
+2026-02-10 12:37:30 - app.services.extraction_service - INFO - Started extraction thread for file_id: 166, thread_id: 123145618948096
+2026-02-10 12:37:30 - app.services.extraction_service - INFO - Starting extraction for file_id: 166
+2026-02-10 12:37:31 - app.services.extraction_service - INFO - Updated timestamps for file_id: 166
+2026-02-10 12:37:31 - app.services.extraction_service - INFO - Extracting PDF: uploads/d51ce911-8db5-419c-b5da-80038fe1cc01.pdf
+2026-02-10 12:37:31 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-02-10 12:37:38 - app.services.extraction_service - INFO - AI Classification: check (confidence: 0.95)
+2026-02-10 12:37:38 - app.services.extraction_service - INFO - AI classified as check (confidence: 0.95), using CheckExtractor
+2026-02-10 12:37:45 - app.services.extraction_service - INFO - Extraction completed (check or OCR data)
+2026-02-10 12:37:46 - app.services.extraction_service - INFO - Added file 166 to review queue: other
+2026-02-10 12:37:46 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 166
+2026-02-10 12:37:46 - app.services.extraction_service - INFO - Extraction task completed for file_id: 166
+2026-02-10 12:37:46 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 166
+2026-02-10 12:38:03 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 167
+2026-02-10 12:38:03 - app.services.extraction_service - INFO - Started extraction thread for file_id: 167, thread_id: 123145548034048
+2026-02-10 12:38:03 - app.services.extraction_service - INFO - Starting extraction for file_id: 167
+2026-02-10 12:38:03 - app.services.extraction_service - INFO - Updated timestamps for file_id: 167
+2026-02-10 12:38:03 - app.services.extraction_service - INFO - Extracting PDF: uploads/32c57109-c553-4d48-8b46-fd3e090749c8.pdf
+2026-02-10 12:38:03 - app.services.extraction_service - INFO - Multi-page: statement with attached check images, using StatementWithChecksExtractor
+2026-02-10 12:39:05 - app.services.extraction_service - INFO - Extraction successful: 106 transactions extracted
+2026-02-10 12:39:05 - app.services.extraction_service - INFO - Missing fields detected: ['transaction_71: payee', 'transaction_84: payee', 'transaction_85: payee', 'transaction_88: payee', 'transaction_89: payee', 'transaction_92: payee', 'transaction_93: payee', 'transaction_96: payee', 'transaction_97: payee', 'transaction_101: payee', 'transaction_102: payee', 'transaction_104: payee', 'transaction_105: payee']
+2026-02-10 12:39:09 - app.services.extraction_service - INFO - Added file 165 to review queue: missing_fields
+2026-02-10 12:39:09 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 165
+2026-02-10 12:39:09 - app.services.extraction_service - INFO - Extraction task completed for file_id: 165
+2026-02-10 12:39:09 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 165
+2026-02-10 12:40:46 - app.services.extraction_service - INFO - Extraction successful: 131 transactions extracted
+2026-02-10 12:40:46 - app.services.extraction_service - INFO - Missing fields detected: ['transaction_0: payee', 'transaction_1: payee', 'transaction_2: payee', 'transaction_3: payee', 'transaction_4: payee', 'transaction_5: payee', 'transaction_6: payee', 'transaction_7: payee', 'transaction_8: payee', 'transaction_9: payee', 'transaction_10: payee', 'transaction_11: payee', 'transaction_12: payee', 'transaction_13: payee', 'transaction_14: payee', 'transaction_15: payee', 'transaction_16: payee', 'transaction_17: payee', 'transaction_18: payee', 'transaction_19: payee', 'transaction_20: payee', 'transaction_21: payee', 'transaction_22: payee', 'transaction_23: payee', 'transaction_24: payee', 'transaction_25: payee', 'transaction_26: payee', 'transaction_27: payee', 'transaction_28: payee', 'transaction_29: payee', 'transaction_30: payee', 'transaction_31: payee', 'transaction_32: payee', 'transaction_33: payee', 'transaction_34: payee', 'transaction_35: payee', 'transaction_36: payee', 'transaction_37: payee', 'transaction_38: payee', 'transaction_39: payee', 'transaction_41: payee', 'transaction_42: payee', 'transaction_43: payee', 'transaction_44: payee', 'transaction_45: payee', 'transaction_46: payee', 'transaction_47: payee', 'transaction_48: payee', 'transaction_49: payee', 'transaction_50: payee', 'transaction_51: payee', 'transaction_52: payee', 'transaction_53: payee', 'transaction_54: payee', 'transaction_55: payee', 'transaction_56: payee', 'transaction_57: payee', 'transaction_58: payee', 'transaction_59: payee', 'transaction_60: payee', 'transaction_61: payee', 'transaction_62: payee', 'transaction_63: payee', 'transaction_64: payee', 'transaction_65: payee', 'transaction_66: payee', 'transaction_67: payee', 'transaction_68: payee', 'transaction_69: payee', 'transaction_86: payee', 'transaction_115: payee']
+2026-02-10 12:40:51 - app.services.extraction_service - INFO - Added file 167 to review queue: missing_fields
+2026-02-10 12:40:51 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 167
+2026-02-10 12:40:51 - app.services.extraction_service - INFO - Extraction task completed for file_id: 167
+2026-02-10 12:40:51 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 167
+2026-02-10 12:44:12 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 168
+2026-02-10 12:44:12 - app.services.extraction_service - INFO - Started extraction thread for file_id: 168, thread_id: 123145544499200
+2026-02-10 12:44:12 - app.services.extraction_service - INFO - Starting extraction for file_id: 168
+2026-02-10 12:44:12 - app.services.extraction_service - INFO - Updated timestamps for file_id: 168
+2026-02-10 12:44:13 - app.services.extraction_service - INFO - Extracting PDF: uploads/90173637-4059-4ce4-b5f0-2b1668540454.pdf
+2026-02-10 12:44:14 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-02-10 12:44:20 - app.services.extraction_service - INFO - AI Classification: bank_statement (confidence: 1.00)
+2026-02-10 12:44:20 - app.services.extraction_service - INFO - AI classified as bank statement (confidence: 1.00)
+2026-02-10 12:44:20 - app.services.extraction_service - INFO - Extracting bank statement using PDFExtractor (fast method)...
+2026-02-10 12:45:23 - app.services.extraction_service - INFO - PDF extraction successful: 131 transactions (deposits: True, withdrawals: True)
+2026-02-10 12:45:23 - app.services.extraction_service - INFO - Extraction successful: 131 transactions extracted
+2026-02-10 12:45:23 - app.services.extraction_service - INFO - Missing fields detected: ['transaction_0: payee', 'transaction_1: payee', 'transaction_2: payee', 'transaction_3: payee', 'transaction_4: payee', 'transaction_5: payee', 'transaction_6: payee', 'transaction_7: payee', 'transaction_8: payee', 'transaction_9: payee', 'transaction_10: payee', 'transaction_11: payee', 'transaction_12: payee', 'transaction_13: payee', 'transaction_14: payee', 'transaction_15: payee', 'transaction_16: payee', 'transaction_17: payee', 'transaction_18: payee', 'transaction_19: payee', 'transaction_20: payee', 'transaction_21: payee', 'transaction_22: payee', 'transaction_23: payee', 'transaction_24: payee', 'transaction_25: payee', 'transaction_26: payee', 'transaction_27: payee', 'transaction_28: payee', 'transaction_29: payee', 'transaction_30: payee', 'transaction_31: payee', 'transaction_32: payee', 'transaction_33: payee', 'transaction_34: payee', 'transaction_35: payee', 'transaction_36: payee', 'transaction_37: payee', 'transaction_38: payee', 'transaction_39: payee', 'transaction_40: payee', 'transaction_41: payee', 'transaction_42: payee', 'transaction_43: payee', 'transaction_44: payee', 'transaction_45: payee', 'transaction_46: payee', 'transaction_47: payee', 'transaction_48: payee', 'transaction_49: payee', 'transaction_50: payee', 'transaction_51: payee', 'transaction_52: payee', 'transaction_53: payee', 'transaction_54: payee', 'transaction_55: payee', 'transaction_56: payee', 'transaction_57: payee', 'transaction_58: payee', 'transaction_59: payee', 'transaction_60: payee', 'transaction_61: payee', 'transaction_62: payee', 'transaction_63: payee', 'transaction_64: payee', 'transaction_65: payee', 'transaction_66: payee', 'transaction_67: payee', 'transaction_68: payee', 'transaction_69: payee', 'transaction_86: payee', 'transaction_115: payee']
+2026-02-10 12:47:24 - app.services.extraction_service - INFO - Added file 168 to review queue: missing_fields
+2026-02-10 12:47:27 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 168
+2026-02-10 12:47:27 - app.services.extraction_service - INFO - Extraction task completed for file_id: 168
+2026-02-10 12:47:27 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 168
+2026-02-11 12:53:51 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 169
+2026-02-11 12:53:51 - app.services.extraction_service - INFO - Started extraction thread for file_id: 169, thread_id: 123145604734976
+2026-02-11 12:53:51 - app.services.extraction_service - INFO - Starting extraction for file_id: 169
+2026-02-11 12:53:52 - app.services.extraction_service - INFO - Updated timestamps for file_id: 169
+2026-02-11 12:53:52 - app.services.extraction_service - INFO - Extracting PDF: uploads/ca044ed3-0bc3-4098-bd31-2673b17f8961.pdf
+2026-02-11 12:53:52 - app.services.extraction_service - INFO - Multi-page: multiple checks, using MultiCheckExtractor
+2026-02-11 12:54:16 - app.services.extraction_service - INFO - Extraction successful: 3 transactions extracted
+2026-02-11 12:54:16 - app.services.extraction_service - INFO - Non-English content detected: de
+2026-02-11 12:54:17 - app.services.extraction_service - INFO - Added file 169 to review queue: non_english
+2026-02-11 12:54:17 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 169
+2026-02-11 12:54:17 - app.services.extraction_service - INFO - Extraction task completed for file_id: 169
+2026-02-11 12:54:17 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 169
+2026-02-11 12:58:01 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 170
+2026-02-11 12:58:01 - app.services.extraction_service - INFO - Started extraction thread for file_id: 170, thread_id: 123145445072896
+2026-02-11 12:58:01 - app.services.extraction_service - INFO - Starting extraction for file_id: 170
+2026-02-11 12:58:01 - app.services.extraction_service - INFO - Updated timestamps for file_id: 170
+2026-02-11 12:58:01 - app.services.extraction_service - INFO - Extracting PDF: uploads/fd05ba37-1918-46e6-9789-94bee9006130.pdf
+2026-02-11 12:58:01 - app.services.extraction_service - INFO - Multi-page: multiple checks, using MultiCheckExtractor
+2026-02-11 12:59:11 - app.services.extraction_service - INFO - Extraction successful: 12 transactions extracted
+2026-02-11 12:59:13 - app.services.extraction_service - INFO - Added file 170 to review queue: other
+2026-02-11 12:59:13 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 170
+2026-02-11 12:59:13 - app.services.extraction_service - INFO - Extraction task completed for file_id: 170
+2026-02-11 12:59:13 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 170
+2026-02-11 14:41:55 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 171
+2026-02-11 14:41:55 - app.services.extraction_service - INFO - Started extraction thread for file_id: 171, thread_id: 123145427746816
+2026-02-11 14:41:55 - app.services.extraction_service - INFO - Starting extraction for file_id: 171
+2026-02-11 14:41:55 - app.services.extraction_service - INFO - Updated timestamps for file_id: 171
+2026-02-11 14:41:55 - app.services.extraction_service - INFO - Extracting PDF: uploads/e9712e64-043f-4046-9c4c-4bea15cc21b1.pdf
+2026-02-11 14:41:55 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-02-11 14:42:00 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 172
+2026-02-11 14:42:00 - app.services.extraction_service - INFO - Started extraction thread for file_id: 172, thread_id: 123145461325824
+2026-02-11 14:42:00 - app.services.extraction_service - INFO - Starting extraction for file_id: 172
+2026-02-11 14:42:00 - app.services.extraction_service - INFO - Updated timestamps for file_id: 172
+2026-02-11 14:42:00 - app.services.extraction_service - INFO - Extracting PDF: uploads/4f7a64f8-6466-46bf-822d-fdb687003dec.pdf
+2026-02-11 14:42:00 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-02-11 14:42:01 - app.services.extraction_service - INFO - AI Classification: check (confidence: 1.00)
+2026-02-11 14:42:01 - app.services.extraction_service - INFO - AI classified as check (confidence: 1.00), using CheckExtractor
+2026-02-11 14:42:06 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 173
+2026-02-11 14:42:06 - app.services.extraction_service - INFO - Starting extraction for file_id: 173
+2026-02-11 14:42:06 - app.services.extraction_service - INFO - Started extraction thread for file_id: 173, thread_id: 123145478115328
+2026-02-11 14:42:06 - app.services.extraction_service - INFO - Updated timestamps for file_id: 173
+2026-02-11 14:42:06 - app.services.extraction_service - INFO - Extracting PDF: uploads/6d98b64f-08c1-43ce-9024-77e5cb543d7a.pdf
+2026-02-11 14:42:06 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-02-11 14:42:07 - app.services.extraction_service - INFO - AI Classification: check (confidence: 1.00)
+2026-02-11 14:42:07 - app.services.extraction_service - INFO - AI classified as check (confidence: 1.00), using CheckExtractor
+2026-02-11 14:42:10 - app.services.extraction_service - INFO - Extraction completed (check or OCR data)
+2026-02-11 14:42:10 - app.services.extraction_service - INFO - Non-English content detected: it
+2026-02-11 14:42:11 - app.services.extraction_service - INFO - Added file 171 to review queue: non_english
+2026-02-11 14:42:11 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 171
+2026-02-11 14:42:11 - app.services.extraction_service - INFO - Extraction task completed for file_id: 171
+2026-02-11 14:42:11 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 171
+2026-02-11 14:42:13 - app.services.extraction_service - INFO - AI Classification: check (confidence: 1.00)
+2026-02-11 14:42:13 - app.services.extraction_service - INFO - AI classified as check (confidence: 1.00), using CheckExtractor
+2026-02-11 14:42:14 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 174
+2026-02-11 14:42:14 - app.services.extraction_service - INFO - Started extraction thread for file_id: 174, thread_id: 123145427746816
+2026-02-11 14:42:14 - app.services.extraction_service - INFO - Starting extraction for file_id: 174
+2026-02-11 14:42:14 - app.services.extraction_service - INFO - Updated timestamps for file_id: 174
+2026-02-11 14:42:15 - app.services.extraction_service - INFO - Extracting PDF: uploads/9441c0d5-87e8-4823-a6f0-5ccaab3e5a2b.pdf
+2026-02-11 14:42:15 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-02-11 14:42:16 - app.services.extraction_service - INFO - Extraction completed (check or OCR data)
+2026-02-11 14:42:17 - app.services.extraction_service - INFO - Added file 172 to review queue: other
+2026-02-11 14:42:17 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 172
+2026-02-11 14:42:17 - app.services.extraction_service - INFO - Extraction task completed for file_id: 172
+2026-02-11 14:42:17 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 172
+2026-02-11 14:42:20 - app.services.extraction_service - INFO - AI Classification: check (confidence: 1.00)
+2026-02-11 14:42:20 - app.services.extraction_service - INFO - AI classified as check (confidence: 1.00), using CheckExtractor
+2026-02-11 14:42:21 - app.services.extraction_service - INFO - Extraction completed (check or OCR data)
+2026-02-11 14:42:21 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 175
+2026-02-11 14:42:21 - app.services.extraction_service - INFO - Starting extraction for file_id: 175
+2026-02-11 14:42:21 - app.services.extraction_service - INFO - Started extraction thread for file_id: 175, thread_id: 123145461325824
+2026-02-11 14:42:21 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 173
+2026-02-11 14:42:21 - app.services.extraction_service - INFO - Extraction task completed for file_id: 173
+2026-02-11 14:42:21 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 173
+2026-02-11 14:42:21 - app.services.extraction_service - INFO - Updated timestamps for file_id: 175
+2026-02-11 14:42:21 - app.services.extraction_service - INFO - Extracting PDF: uploads/b21c3cec-706d-4a9f-a277-95bbcbb8fada.pdf
+2026-02-11 14:42:21 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-02-11 14:42:27 - app.services.extraction_service - INFO - AI Classification: check (confidence: 1.00)
+2026-02-11 14:42:27 - app.services.extraction_service - INFO - AI classified as check (confidence: 1.00), using CheckExtractor
+2026-02-11 14:42:27 - app.services.extraction_service - INFO - Extraction completed (check or OCR data)
+2026-02-11 14:42:27 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 174
+2026-02-11 14:42:27 - app.services.extraction_service - INFO - Extraction task completed for file_id: 174
+2026-02-11 14:42:27 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 174
+2026-02-11 14:42:33 - app.services.extraction_service - INFO - Extraction completed (check or OCR data)
+2026-02-11 14:42:34 - app.services.extraction_service - INFO - Added file 175 to review queue: other
+2026-02-11 14:42:34 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 175
+2026-02-11 14:42:34 - app.services.extraction_service - INFO - Extraction task completed for file_id: 175
+2026-02-11 14:42:34 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 175
+2026-02-11 17:04:31 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 176
+2026-02-11 17:04:31 - app.services.extraction_service - INFO - Started extraction thread for file_id: 176, thread_id: 123145470222336
+2026-02-11 17:04:31 - app.services.extraction_service - INFO - Starting extraction for file_id: 176
+2026-02-11 17:04:31 - app.services.extraction_service - INFO - Updated timestamps for file_id: 176
+2026-02-11 17:04:32 - app.services.extraction_service - INFO - Extracting PDF: uploads/915908db-73b0-4059-b23e-0196f3026f27.pdf
+2026-02-11 17:04:32 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-02-11 17:04:38 - app.services.extraction_service - INFO - AI Classification: check (confidence: 1.00)
+2026-02-11 17:04:38 - app.services.extraction_service - INFO - AI classified as check (confidence: 1.00), using CheckExtractor
+2026-02-11 17:04:45 - app.services.extraction_service - INFO - Extraction completed (check or OCR data)
+2026-02-11 17:04:46 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 176
+2026-02-11 17:04:46 - app.services.extraction_service - INFO - Extraction task completed for file_id: 176
+2026-02-11 17:04:46 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 176
+2026-02-11 21:54:31 - app.services.extraction_service - INFO - Background extraction thread started for file_id: 177
+2026-02-11 21:54:31 - app.services.extraction_service - INFO - Started extraction thread for file_id: 177, thread_id: 123145623941120
+2026-02-11 21:54:31 - app.services.extraction_service - INFO - Starting extraction for file_id: 177
+2026-02-11 21:54:31 - app.services.extraction_service - INFO - Updated timestamps for file_id: 177
+2026-02-11 21:54:31 - app.services.extraction_service - INFO - Extracting PDF: uploads/01a41f78-b643-46e0-833a-7594d8150529.pdf
+2026-02-11 21:54:31 - app.services.extraction_service - INFO - Classifying document using AI...
+2026-02-11 21:54:39 - app.services.extraction_service - INFO - AI Classification: check (confidence: 1.00)
+2026-02-11 21:54:39 - app.services.extraction_service - INFO - AI classified as check (confidence: 1.00), using CheckExtractor
+2026-02-11 21:54:46 - app.services.extraction_service - INFO - Extraction completed (check or OCR data)
+2026-02-11 21:54:47 - app.services.extraction_service - INFO - Extraction completed successfully for file_id: 177
+2026-02-11 21:54:47 - app.services.extraction_service - INFO - Extraction task completed for file_id: 177
+2026-02-11 21:54:47 - app.services.extraction_service - INFO - Background extraction thread completed for file_id: 177

@@ -1,0 +1,318 @@
+[
+  {
+    "patterns": ["BANKCARD 8076 MTOT DEP", "BANKCARD8076MTOTDEP", "BANKCARD8076"],
+    "payee": "Bankcard Merchant Deposit"
+  },
+  {
+    "patterns": ["Beyond Menu Beyond Men", "BEYONDMENU", "Beyond Menu"],
+    "payee": "Beyond Menu"
+  },
+  {
+    "patterns": ["STRIPE TRANSFER", "STRIPETRANSFER", "STRIPE TRANSFER"],
+    "payee": "Stripe"
+  },
+  {
+    "patterns": ["DoorDash, Inc.", "DOORDASH", "DoorDash"],
+    "payee": "DoorDash"
+  },
+  {
+    "patterns": ["UBER USA", "UBER USA 6787"],
+    "payee": "Uber"
+  },
+  {
+    "patterns": ["MERCHANDISE RET SAMSCLUB", "MERCHANDISE RET SAMSCLUB", "SAMSCLUB", "SAMS CLUB"],
+    "payee": "Sam's Club"
+  },
+  {
+    "patterns": ["INTEREST PAYMENT"],
+    "payee": "Interest Income"
+  },
+  {
+    "patterns": ["PURCHASE ATT*BILL PAYMENT", "ATT*BILL PAYMENT", "ATT*BILL"],
+    "payee": "AT&T"
+  },
+  {
+    "patterns": ["PURCHASE KROGER", "KROGER #7", "KROGERFU2989", "KROGER #7 2989"],
+    "payee": "Kroger"
+  },
+  {
+    "patterns": ["AppFolio, Inc.", "APPFOLIO"],
+    "payee": "AppFolio"
+  },
+  {
+    "patterns": ["FirstEnergyOPCO-ACH", "FirstEnergy OPCO", "FIRSTENERGY"],
+    "payee": "FirstEnergy"
+  },
+  {
+    "patterns": ["CITYOFSPRINGFIELUTILITY", "CITYOFSPRINGFIELDUTILITY", "CITY OF SPRINGFIELD UTILITY"],
+    "payee": "City of Springfield Utility"
+  },
+  {
+    "patterns": ["PURCHASE MEIJER", "MEIJER STORE"],
+    "payee": "Meijer"
+  },
+  {
+    "patterns": ["PURCHASE CLOUDWAITRESS", "CLOUDWAITRESS"],
+    "payee": "CloudWaitress"
+  },
+  {
+    "patterns": ["Patriot Software PAYROLLTAX", "PATRIOTSOFTWAREPAYROLLTAX"],
+    "payee": "Patriot Software Payroll Tax"
+  },
+  {
+    "patterns": ["Patriot Software PAYROLL", "PATRIOTSOFTWAREPAYROLL"],
+    "payee": "Patriot Software Payroll"
+  },
+  {
+    "patterns": ["PURCHASE SPEEDWAY", "SPEEDWAY2996", "SPEEDWAY"],
+    "payee": "Speedway"
+  },
+  {
+    "patterns": ["PURCHASE COSTCO", "COSTCO WHSE", "COSTCO"],
+    "payee": "Costco"
+  },
+  {
+    "patterns": ["PURCHASE RESTAURANT DEP", "RESTAURANTDEP", "RESTAURANT DEP"],
+    "payee": "Restaurant Depot"
+  },
+  {
+    "patterns": ["PURCHASE CVS/PHARMACY", "CVS/PHARMACY", "CVS PHARMACY"],
+    "payee": "CVS Pharmacy"
+  },
+  {
+    "patterns": ["COLUMBIA GAS OF BILLPAY", "COLUMBIA GAS"],
+    "payee": "Columbia Gas"
+  },
+  {
+    "patterns": ["PURCHASE COACH", "COACH5302"],
+    "payee": "Coach"
+  },
+  {
+    "patterns": ["PURCHASE TORY BURCH", "TORYBURCHLLC", "TORYBURCH", "TORY BURCH LLC"],
+    "payee": "Tory Burch LLC"
+  },
+  {
+    "patterns": ["PURCHASE PARK TO SHOP", "PARKTOSHOP"],
+    "payee": "Park to Shop"
+  },
+  {
+    "patterns": ["NATIONALTAXACCO", "NATIONAL TAX ACCO"],
+    "payee": "National Tax Accountant"
+  },
+  {
+    "patterns": ["OHIOBWC", "OHIO BWC"],
+    "payee": "Ohio BWC"
+  },
+  {
+    "patterns": ["PURCHASE WM.COM", "WM.COM", "WALMART"],
+    "payee": "Walmart"
+  },
+  {
+    "patterns": ["SPECTRUMSPECTRUM", "SPECTRUM"],
+    "payee": "Spectrum"
+  },
+  {
+    "patterns": ["PURCHASE GFS", "GFSSTORE", "GFS STORE"],
+    "payee": "GFS"
+  },
+  {
+    "patterns": ["Citizens NET SETLMT", "CITIZENS NET SETLMT", "Citizens Bank"],
+    "payee": "Citizens Bank"
+  },
+  {
+    "patterns": ["AMAZON", "AMZN ", "AMZN.COM"],
+    "payee": "Amazon"
+  },
+  {
+    "patterns": ["TARGET", "TARGET.COM"],
+    "payee": "Target"
+  },
+  {
+    "patterns": ["HOME DEPOT", "HOMEDEPOT"],
+    "payee": "Home Depot"
+  },
+  {
+    "patterns": ["LOWES", "LOWE'S"],
+    "payee": "Lowe's"
+  },
+  {
+    "patterns": ["NETFLIX"],
+    "payee": "Netflix"
+  },
+  {
+    "patterns": ["SPOTIFY"],
+    "payee": "Spotify"
+  },
+  {
+    "patterns": ["VENMO", "VENMO CASH"],
+    "payee": "Venmo"
+  },
+  {
+    "patterns": ["ZELLE", "ZELLE PAYMENT"],
+    "payee": "Zelle"
+  },
+  {
+    "patterns": ["PAYPAL", "PAYPAL *"],
+    "payee": "PayPal"
+  },
+  {
+    "patterns": ["SQUARE ", "SQUARE INC", "SQUARE CASH"],
+    "payee": "Square"
+  },
+  {
+    "patterns": ["CASH APP", "CASHAPP"],
+    "payee": "Cash App"
+  },
+  {
+    "patterns": ["ADP PAYROLL", "ADP ", "ADP INC"],
+    "payee": "ADP"
+  },
+  {
+    "patterns": ["PAYCHEX", "PAY CHEX"],
+    "payee": "Paychex"
+  },
+  {
+    "patterns": ["GUSTO PAYROLL", "GUSTO "],
+    "payee": "Gusto"
+  },
+  {
+    "patterns": ["STATE FARM", "STATEFARM"],
+    "payee": "State Farm"
+  },
+  {
+    "patterns": ["LIBERTY MUTUAL", "LIBERTY MUTUAL INS"],
+    "payee": "Liberty Mutual"
+  },
+  {
+    "patterns": ["DUKE ENERGY", "DUKEENERGY"],
+    "payee": "Duke Energy"
+  },
+  {
+    "patterns": ["AEP ", "AEP OHIO", "AMERICAN ELECTRIC POWER"],
+    "payee": "AEP"
+  },
+  {
+    "patterns": ["DOMINION ENERGY", "DOMINION "],
+    "payee": "Dominion Energy"
+  },
+  {
+    "patterns": ["VERIZON", "VERIZON WIRELESS", "VZW"],
+    "payee": "Verizon"
+  },
+  {
+    "patterns": ["COMCAST", "XFINITY"],
+    "payee": "Comcast"
+  },
+  {
+    "patterns": ["DIRECTV", "DIRECT TV"],
+    "payee": "DIRECTV"
+  },
+  {
+    "patterns": ["DISH NETWORK", "DISH "],
+    "payee": "Dish Network"
+  },
+  {
+    "patterns": ["FEDEX", "FED EX", "FEDERAL EXPRESS"],
+    "payee": "FedEx"
+  },
+  {
+    "patterns": ["UPS ", "UPS GROUND", "UNITED PARCEL"],
+    "payee": "UPS"
+  },
+  {
+    "patterns": ["USPS ", "U.S. POSTAL", "POSTAL SERVICE"],
+    "payee": "USPS"
+  },
+  {
+    "patterns": ["OFFICE DEPOT", "OFFICEDEPOT"],
+    "payee": "Office Depot"
+  },
+  {
+    "patterns": ["STAPLES ", "STAPLES INC"],
+    "payee": "Staples"
+  },
+  {
+    "patterns": ["BEST BUY", "BESTBUY"],
+    "payee": "Best Buy"
+  },
+  {
+    "patterns": ["SHELL OIL", "SHELL ", "SHELL GAS"],
+    "payee": "Shell"
+  },
+  {
+    "patterns": ["EXXON", "EXXONMOBIL"],
+    "payee": "Exxon"
+  },
+  {
+    "patterns": ["BP #", "BP AMERICA", "BP GAS"],
+    "payee": "BP"
+  },
+  {
+    "patterns": ["CHEVRON", "CHEVRON TEXACO"],
+    "payee": "Chevron"
+  },
+  {
+    "patterns": ["MCDONALDS", "MCDONALD'S", "MCD "],
+    "payee": "McDonald's"
+  },
+  {
+    "patterns": ["STARBUCKS", "STARBUCKS CARD"],
+    "payee": "Starbucks"
+  },
+  {
+    "patterns": ["NSF FEE", "NON-SUFFICIENT FUNDS", "NSF "],
+    "payee": "Bank Fee"
+  },
+  {
+    "patterns": ["OVERDRAFT FEE", "OVERDRAFT FEE ", "OD FEE"],
+    "payee": "Bank Fee"
+  },
+  {
+    "patterns": ["SERVICE FEE", "MONTHLY SERVICE FEE", "MAINTENANCE FEE"],
+    "payee": "Bank Fee"
+  },
+  {
+    "patterns": ["ACH CREDIT", "ACH DEPOSIT", "ACH TRANSFER IN"],
+    "payee": "ACH Deposit"
+  },
+  {
+    "patterns": ["ACH DEBIT", "ACH PAYMENT", "ACH TRANSFER OUT"],
+    "payee": "ACH Payment"
+  },
+  {
+    "patterns": ["WIRE TRANSFER IN", "WIRE IN", "INCOMING WIRE"],
+    "payee": "Wire Transfer"
+  },
+  {
+    "patterns": ["WIRE TRANSFER OUT", "WIRE OUT", "OUTGOING WIRE"],
+    "payee": "Wire Transfer"
+  },
+  {
+    "patterns": ["DIRECT DEPOSIT", "DIRECTDEPOSIT", "PAYROLL DEP"],
+    "payee": "Direct Deposit"
+  },
+  {
+    "patterns": ["INTEREST EARNED", "INTEREST CREDIT", "INT EARNED"],
+    "payee": "Interest Income"
+  },
+  {
+    "patterns": ["SUBMARINA", "SUBWAY ", "SUBWAY RESTAURANT"],
+    "payee": "Subway"
+  },
+  {
+    "patterns": ["SYSCO ", "SYSCO FOODS"],
+    "payee": "Sysco"
+  },
+  {
+    "patterns": ["US FOODS", "USFOODS"],
+    "payee": "US Foods"
+  },
+  {
+    "patterns": ["REWEIGHT", "RE WEIGHT"],
+    "payee": "ReWeight"
+  },
+  {
+    "patterns": ["GORDON FOOD", "GORDON FOOD SERVICE", "GFS "],
+    "payee": "Gordon Food Service"
+  }
+]

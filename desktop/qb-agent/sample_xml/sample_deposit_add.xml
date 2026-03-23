@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?qbxml version="13.0"?>
+<QBXML>
+  <QBXMLMsgsRq onError="stopOnError">
+    <DepositAddRq>
+      <DepositAdd>
+        <TxnDate>2026-01-30</TxnDate>
+        <DepositToAccountRef>
+          <FullName>kylient</FullName>
+        </DepositToAccountRef>
+        <DepositLineAdd>
+          <AccountRef>
+            <FullName>Sales</FullName>
+          </AccountRef>
+          <Amount>500.00</Amount>
+        </DepositLineAdd>
+      </DepositAdd>
+    </DepositAddRq>
+  </QBXMLMsgsRq>
+</QBXML>

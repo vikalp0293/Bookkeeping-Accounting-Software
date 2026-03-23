@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<?qbxml version="11.0"?>
+<QBXML>
+  <QBXMLMsgsRq onError="stopOnError">
+    <AccountQueryRq requestID="1">
+      <IncludeRetElement>Name</IncludeRetElement>
+      <IncludeRetElement>AccountType</IncludeRetElement>
+    </AccountQueryRq>
+  </QBXMLMsgsRq>
+</QBXML>

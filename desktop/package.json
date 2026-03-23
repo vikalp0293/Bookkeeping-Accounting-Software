@@ -1,0 +1,90 @@
+{
+  "name": "sync-accounting-desktop",
+  "version": "1.0.0",
+  "description": "Sync Accounting Desktop - Automated bank statement and check processing for QuickBooks Desktop",
+  "main": "electron/main.js",
+  "scripts": {
+    "dev": "electron .",
+    "dev:debug": "electron --inspect=5858 .",
+    "build": "electron-builder",
+    "build:win": "npm run build:frontend && npm run copy:frontend && electron-builder --win",
+    "build:frontend": "cd ../frontend && npm run build",
+    "copy:frontend": "node scripts/copy-frontend.js",
+    "build:dir": "electron-builder --dir",
+    "pack": "electron-builder --dir",
+    "postinstall": "electron-builder install-app-deps"
+  },
+  "keywords": [
+    "quickbooks",
+    "accounting",
+    "desktop",
+    "electron"
+  ],
+  "author": "Sync Accounting",
+  "license": "MIT",
+  "devDependencies": {
+    "@electron/rebuild": "^3.2.9",
+    "electron": "^28.0.0",
+    "electron-builder": "^24.9.1",
+    "electron-icon-maker": "^0.0.5"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "chokidar": "^3.5.3",
+    "electron-log": "^5.0.0",
+    "electron-store": "^8.1.0",
+    "electron-updater": "^6.1.7",
+    "form-data": "^4.0.0"
+  },
+  "build": {
+    "appId": "com.syncaccounting.desktop",
+    "productName": "Sync Accounting Desktop",
+    "directories": {
+      "output": "dist",
+      "buildResources": "resources"
+    },
+    "files": [
+      "electron/**/*",
+      "resources/**/*",
+      "frontend/dist/**/*",
+      "!**/node_modules/*/{CHANGELOG.md,README.md,README,readme.md,readme}",
+      "!**/node_modules/*/{test,__tests__,tests,powered-test,example,examples}",
+      "!**/node_modules/*.d.ts",
+      "!**/node_modules/.bin",
+      "!**/*.{iml,o,hprof,orig,pyc,pyo,rbc,swp,csproj,sln,xproj}",
+      "!.editorconfig",
+      "!**/._*",
+      "!**/{.DS_Store,.git,.hg,.svn,CVS,RCS,SCCS,.gitignore,.gitattributes}",
+      "!**/{__pycache__,thumbs.db,.flowconfig,.idea,.vs,.nyc_output}",
+      "!**/{appveyor.yml,.travis.yml,circle.yml}",
+      "!**/{npm-debug.log,yarn.lock,.yarn-integrity,.yarn-metadata.json}"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "icon": "resources/icons/icon.png"
+    },
+    "extraResources": [
+      {
+        "from": "resources/sync_accounting.qwc",
+        "to": "sync_accounting.qwc",
+        "filter": ["**/*"]
+      }
+    ],
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "Sync Accounting Desktop",
+      "runAfterFinish": true,
+      "menuCategory": false
+    }
+  }
+}

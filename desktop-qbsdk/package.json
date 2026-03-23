@@ -1,0 +1,114 @@
+{
+  "name": "qb-accounting-sdk",
+  "version": "1.0.0",
+  "description": "QB Accounting SDK - QuickBooks SDK Integration",
+  "main": "electron/main.js",
+  "scripts": {
+    "dev": "electron .",
+    "dev:debug": "electron --inspect=5859 .",
+    "build": "electron-builder",
+    "build:win": "npm run build:frontend && npm run copy:frontend && npm run prepare:python && npm run build:python-embed && npm run bundle:deps || echo 'Skipping dependency bundling' && electron-builder --win --x64",
+    "bundle:deps": "node scripts/bundle-python-deps.js",
+    "build:win:dir": "npm run build:frontend && npm run copy:frontend && npm run prepare:python && electron-builder --win --x64 --dir",
+    "build:frontend": "cd ../frontend && npm run build",
+    "copy:frontend": "node scripts/copy-frontend.js",
+    "prepare:python": "node scripts/prepare-python.js",
+    "build:python-embed": "node scripts/build-embedded-python.js",
+    "postinstall": "electron-builder install-app-deps"
+  },
+  "keywords": [
+    "quickbooks",
+    "accounting",
+    "desktop",
+    "electron",
+    "sdk"
+  ],
+  "author": "Sync Accounting",
+  "license": "MIT",
+  "devDependencies": {
+    "@electron/rebuild": "^3.2.9",
+    "electron": "^28.0.0",
+    "electron-builder": "^24.9.1"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "electron-log": "^5.0.0",
+    "electron-store": "^8.1.0"
+  },
+  "build": {
+    "appId": "com.syncaccounting.qbsdk",
+    "productName": "Sync Accounting QB SDK",
+    "directories": {
+      "output": "dist",
+      "buildResources": "resources"
+    },
+    "files": [
+      "electron/**/*",
+      "python/**/*",
+      "resources/**/*",
+      "frontend/dist/**/*",
+      "!**/node_modules/*/{CHANGELOG.md,README.md,README,readme.md,readme}",
+      "!**/node_modules/*/{test,__tests__,tests,powered-test,example,examples}",
+      "!**/node_modules/*.d.ts",
+      "!**/node_modules/.bin",
+      "!**/*.{iml,o,hprof,orig,pyc,pyo,rbc,swp,csproj,sln,xproj}",
+      "!.editorconfig",
+      "!**/._*",
+      "!**/{.DS_Store,.git,.hg,.svn,CVS,RCS,SCCS,.gitignore,.gitattributes}",
+      "!**/{__pycache__,thumbs.db,.flowconfig,.idea,.vs,.nyc_output}",
+      "!**/{appveyor.yml,.travis.yml,circle.yml}",
+      "!**/{npm-debug.log,yarn.lock,.yarn-integrity,.yarn-metadata.json}",
+      "!python/__pycache__/**/*",
+      "!python/**/__pycache__/**/*",
+      "!python/**/*.pyc"
+    ],
+    "extraResources": [
+      {
+        "from": "python",
+        "to": "python",
+        "filter": [
+          "**/*.py",
+          "**/*.bat",
+          "**/requirements.txt",
+          "**/dependencies/**/*.whl",
+          "!**/__pycache__",
+          "!**/*.pyc",
+          "!**/test_*.py"
+        ]
+      },
+      {
+        "from": "resources/python-portable",
+        "to": "python-portable",
+        "filter": ["**/*"]
+      },
+      {
+        "from": "resources/python-embed-win32.zip",
+        "to": "python-embed-win32.zip"
+      },
+      {
+        "from": "resources/python-installer",
+        "to": "python-installer",
+        "filter": ["python-3.11.9.exe"]
+      }
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": ["x64"]
+        }
+      ],
+      "icon": "resources/icons/icon.png"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "Sync Accounting QB SDK",
+      "runAfterFinish": false,
+      "include": "build/installer.nsh"
+    }
+  }
+}
+

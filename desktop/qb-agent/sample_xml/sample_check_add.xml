@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?qbxml version="13.0"?>
+<QBXML>
+  <QBXMLMsgsRq onError="stopOnError">
+    <CheckAddRq requestID="1">
+      <CheckAdd>
+        <AccountRef>
+          <FullName>kylient</FullName>
+        </AccountRef>
+        <PayeeEntityRef>
+          <FullName>Bank Charges</FullName>
+        </PayeeEntityRef>
+        <RefNumber>1</RefNumber>
+        <TxnDate>2026-01-31</TxnDate>
+        <ExpenseLineAdd>
+          <AccountRef>
+            <FullName>Miscellaneous Expense</FullName>
+          </AccountRef>
+          <Amount>100.00</Amount>
+          <Memo>Sample payment</Memo>
+        </ExpenseLineAdd>
+      </CheckAdd>
+    </CheckAddRq>
+  </QBXMLMsgsRq>
+</QBXML>

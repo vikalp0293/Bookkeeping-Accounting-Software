@@ -1,0 +1,93 @@
+HOW TO BUILD THE WINDOWS EXECUTABLE (.EXE)
+==========================================
+
+GOOD NEWS: You can build Windows installers from macOS or Linux!
+electron-builder supports cross-platform building.
+
+METHOD 1: Using npm Command (Works on macOS, Linux, and Windows)
+-----------------------------------------------------------------
+1. Open Terminal (macOS/Linux) or Command Prompt/PowerShell (Windows)
+2. Navigate to the desktop-qbsdk directory:
+   cd desktop-qbsdk
+
+3. Run the build command:
+   npm run build:win
+
+4. Wait for the build to complete (may take several minutes)
+   - On macOS: electron-builder will use Wine (installed automatically if needed)
+   - First build may take longer as it downloads Wine and Windows tools
+
+5. Find your installer in: dist/Sync Accounting Desktop SDK Setup *.exe
+
+NOTE: On macOS, you may see a Wine installation prompt on first build.
+This is normal and required for building Windows installers.
+
+
+METHOD 2: Step-by-Step Build (macOS/Linux/Windows)
+---------------------------------------------------
+1. Open Terminal (macOS/Linux) or Command Prompt (Windows)
+2. Navigate to the desktop-qbsdk directory:
+   cd desktop-qbsdk
+
+3. Install dependencies:
+   npm install
+
+4. Build frontend:
+   npm run build:frontend
+
+5. Copy frontend:
+   npm run copy:frontend
+
+6. Prepare Python scripts:
+   npm run prepare:python
+
+7. Build Windows executable:
+   npm run build:win
+
+8. Find your installer in: dist/Sync Accounting Desktop SDK Setup *.exe
+
+
+METHOD 3: Using Build Script (Windows Only)
+-------------------------------------------
+On Windows, you can also use the batch script:
+1. Open Command Prompt or PowerShell
+2. Navigate to desktop-qbsdk directory
+3. Run: scripts\build-exe.bat
+   OR: build-exe.bat
+
+
+TROUBLESHOOTING
+---------------
+macOS/Linux:
+- "Wine not found": electron-builder will prompt to install Wine automatically
+- "NSIS not found": electron-builder downloads it automatically on first build
+- Build fails: Make sure you have Node.js 18+ installed
+- Frontend build fails: Make sure frontend dependencies are installed (cd ../frontend && npm install)
+
+Windows:
+- "node is not recognized": Install Node.js and restart Command Prompt
+- "npm is not recognized": Node.js includes npm, reinstall Node.js
+- Build fails: Check that you're on Windows (64-bit)
+
+General:
+- Python errors: Python 3.8+ must be installed on user's Windows machine (not needed for building)
+- First build is slow: Normal - electron-builder downloads Wine/NSIS tools on first run
+
+
+WHAT GETS CREATED
+-----------------
+After successful build, you'll find:
+- dist\Sync Accounting Desktop SDK Setup 1.0.0.exe (installer)
+- dist\win-unpacked\ (unpacked app for testing)
+
+The installer is ready to distribute to users!
+
+
+USER REQUIREMENTS
+-----------------
+Users who install your .exe will need:
+- Windows 10/11 (64-bit)
+- Python 3.8+ installed (the app will check and guide them)
+- QuickBooks Desktop Pro 2018+ installed
+- QuickBooks company file (.QBW)
+

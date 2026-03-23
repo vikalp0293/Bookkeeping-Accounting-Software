@@ -1,0 +1,57 @@
+Building Sync Accounting Desktop SDK - Windows Executable
+==========================================================
+
+Prerequisites:
+--------------
+1. Node.js 18+ installed
+2. npm installed
+3. Python 3.8+ installed (for building, users will need it too)
+4. Windows 10/11 (64-bit)
+
+Build Steps:
+------------
+1. Open Command Prompt or PowerShell in the desktop-qbsdk directory
+
+2. Run the build script:
+   build-exe.bat
+
+   OR manually:
+   npm install
+   npm run build:win
+
+3. The installer will be created in: dist/Sync Accounting Desktop SDK Setup *.exe
+
+What Gets Built:
+----------------
+- Windows installer (.exe) using NSIS
+- Includes Electron app, frontend, and Python scripts
+- Python scripts are bundled but Python must be installed on user's system
+
+User Requirements:
+------------------
+Users must have:
+1. Windows 10/11 (64-bit)
+2. Python 3.8+ installed with "Add Python to PATH" checked
+3. QuickBooks Desktop Pro 2018+ installed
+4. QuickBooks company file (.QBW) accessible
+
+The app will automatically:
+- Check for Python on startup
+- Install Python dependencies on first run if needed
+- Guide users through setup if Python is missing
+
+Installation:
+-------------
+1. Run the installer: Sync Accounting Desktop SDK Setup *.exe
+2. Follow the installation wizard
+3. On first launch, the app will check for Python
+4. If Python dependencies are missing, the app will attempt to install them
+
+Troubleshooting:
+----------------
+- If build fails, ensure all prerequisites are installed
+- Check that frontend is built: cd ../frontend && npm run build
+- Verify Python is in PATH: python --version
+- Check Node.js version: node --version (should be 18+)
+
+

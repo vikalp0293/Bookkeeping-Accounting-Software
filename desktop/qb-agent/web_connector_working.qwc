@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<QBWCXML>
+<AppName>Sync Accounting</AppName>
+<AppID>sync-accounting</AppID>
+<AppURL>https://dev-sync-api.kylientlabs.com/qbwc</AppURL>
+<AppSupport>https://dev-sync-api.kylientlabs.com</AppSupport>
+<UserName>admin</UserName>
+<OwnerID>{96b7d2d2-d75d-48f0-b0f4-8d47b533b29a}</OwnerID>
+<FileID>{6c272589-5cbf-4795-a67a-a9b2fe377ad2}</FileID>
+<QBType>QBFS</QBType>
+<Style>Document</Style>
+ 
+    <!-- FIXED TAG NAME -->
+<AppDescription>
+        Sync Accounting - Automated bank statement and check data sync to QuickBooks Desktop
+</AppDescription>
+ 
+    <Scheduler>
+<RunEveryNMinutes>5</RunEveryNMinutes>
+</Scheduler>
+</QBWCXML>
